@@ -16,8 +16,8 @@ public class LotteryScheduling {
 	private void run () {
 
 		//for(Process p : processes) {
-		int exTime = processes.get(0).getExecutionTime();
-		processes.get(0).setExecutionTime(exTime-1);
+		int exTime = processes.get(0).getServiceTime();
+		processes.get(0).setServiceTime(exTime-1);
 		//}
 	}
 

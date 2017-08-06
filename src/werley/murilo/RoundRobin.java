@@ -1,44 +1,30 @@
 package werley.murilo;
 
-import java.util.ArrayList;
+public class RoundRobin extends Scheduling {
 
-public class RoundRobin {
-	
 	private int quantum;
-	private Process running;
-	private ArrayList<Process> ready = new ArrayList<>();
-	private ArrayList<Process> blocked = new ArrayList<>();
-	private ArrayList<Process> incoming = new ArrayList<>();
-	
-	public RoundRobin (ArrayList<Process> processes) {
-		for (Process p : processes) {
-			if(p.getSubmitionTime() > 0) {
-				incoming.add(p);
+	private int countQuantum = 0;
+
+	public RoundRobin (int alfa, int quantum) {
+		super(alfa);
+		this.quantum = quantum;
+	}
+
+	@Override
+	public void prepareProcess () {
+
+		if (countQuantum % this.quantum == 0 || super.changeProcess) {
+			if (super.changeProcess) {
+				countQuantum = 0;
+				super.prepareProcess();
 			} else {
-				ready.add(p);
+				if (running != null) {
+					ready.add(running);
+				}
+				super.changeProcess = true;
+				super.prepareProcess();
 			}
 		}
-		execute();
-	}
-	
-	public void execute () {
-		if (ready.size() > 0) {
-			running = ready.get(0);
-		}
-		quantum = 4;
-		while(quantum > 0) {
-			running.setExecutionTime(running.getExecutionTime() - 1);
-			quantum--;
-		}
-	}
-	
-	public void exibe () {
-		for (Process p : ready) {
-			System.out.println(p.getPid());
-		}
-		System.out.println("---");
-		for (Process p : incoming) {
-			System.out.println(p.getPid());
-		}
+		countQuantum++;
 	}
 }

@@ -1,34 +1,64 @@
 package werley.murilo;
 
 public class Process {
-	
+
+	//
 	private int pid;
 	private int submitionTime;
 	private int priority;
-	private int executionTime;
+	private int serviceTime;
 	private int blockTime;
-	
-	public Process (int pid, int submitionTime, int priority, int executionTime, int blockTime) {
+
+	//
+	private int firstTimeToBlock;
+	private int secondTimeToBlock;
+	private int halfBlockTime;
+
+	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime) {
 		this.pid = pid;
 		this.submitionTime = submitionTime;
 		this.priority = priority;
-		this.executionTime = executionTime;
+		this.serviceTime = serviceTime;
 		this.blockTime = blockTime;
+		checkBlockTime();
+	}
+
+	private void checkBlockTime () {
+		
+		if (blockTime == 0) {
+			firstTimeToBlock = -1;
+			secondTimeToBlock = -1;
+		} else if (blockTime == (int)(serviceTime / 2)) {
+			firstTimeToBlock = serviceTime - 1;
+			secondTimeToBlock = (int)(serviceTime * 0.25) + 1;
+			halfBlockTime = (int)(blockTime / 2);
+		} else if (blockTime >= (int)(serviceTime / 4) && blockTime < (int)(serviceTime / 2)) {
+			firstTimeToBlock = (int)(serviceTime / 2);
+			secondTimeToBlock = -1;
+		} else {
+			firstTimeToBlock = serviceTime - 1;
+			secondTimeToBlock = -1;
+		}
+	}
+
+	public boolean isTimeToBlock () {
+
+		if (firstTimeToBlock == serviceTime || secondTimeToBlock == serviceTime) {
+			return true;
+		} else {
+			return false;
+		}
 	}
 
 	public int getPid() {
 		return pid;
 	}
 
-	public void setPid(int pid) {
-		this.pid = pid;
-	}
-
-	public int getSubmitionTime() {
+	public int getSubmitionTime () {
 		return submitionTime;
 	}
 
-	public void setSubmitionTime(int submitionTime) {
+	public void setSubmitionTime (int submitionTime) {
 		this.submitionTime = submitionTime;
 	}
 
@@ -36,24 +66,27 @@ public class Process {
 		return priority;
 	}
 
-	public void setPriority(int priority) {
-		this.priority = priority;
+	public int getServiceTime () {
+		return serviceTime;
 	}
 
-	public int getExecutionTime() {
-		return executionTime;
+	public void setServiceTime (int serviceTime) {
+		this.serviceTime = serviceTime;
 	}
 
-	public void setExecutionTime(int executionTime) {
-		this.executionTime = executionTime;
-	}
-
-	public int getBlockTime() {
+	public int getBlockTime () {
 		return blockTime;
 	}
 
-	public void setBlockTime(int blockTime) {
+	public void setBlockTime (int blockTime) {
 		this.blockTime = blockTime;
 	}
 	
+	public int getHalfBlockTime () {
+		return halfBlockTime;
+	}
+
+	public int getSecondTimeToBlock() {
+		return secondTimeToBlock;
+	}
 }
