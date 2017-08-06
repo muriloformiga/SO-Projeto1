@@ -19,32 +19,32 @@ public abstract class Scheduling {
 	public boolean changeProcess = true;
 
 	private int alpha;
-	public long counter = 0;
+	public long unitTime = 1;
 
 	Scanner scanFile;
 
-	File file = new File("cenario-teste-1.txt");
+	File file = new File("cenario4.txt");
 	Path path = Paths.get("resultado-teste.txt");
 
 	public Scheduling (int alpha) {
-		try {
-			scanFile = new Scanner(file);
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
 		this.alpha = alpha;
 	}
 
 	public void startScheduling () {
 
+		try {
+			scanFile = new Scanner(file);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 		loadProcess(alpha);
 		while (ready.size() + blocked.size() + incoming.size() > 0 || running != null) {
-			prepareProcess();
-			executeProcess();
 			decrementIncoming();
 			decrementBlocked();
+			prepareProcess();
+			executeProcess();
 			exibe();
-			counter++;
+			unitTime++;
 		}
 	}
 
@@ -87,8 +87,9 @@ public abstract class Scheduling {
 
 		if (running != null) {
 			running.setServiceTime(running.getServiceTime() - 1);
-			if (running.getServiceTime() <= 0) {
-				saveProcess(running);
+			if (running.getServiceTime() == 0) {
+				//saveProcess(running);
+				//exibe();
 				running = null;
 				changeProcess = true;
 				loadProcess(1);
@@ -117,7 +118,7 @@ public abstract class Scheduling {
 
 		for (int i = 0; i < blocked.size(); i++) {
 			blocked.get(i).setBlockTime(blocked.get(i).getBlockTime() - 1);
-			//blocked.get(i).setServiceTime(blocked.get(i).getServiceTime() - 1);
+			blocked.get(i).setServiceTime(blocked.get(i).getServiceTime() - 1);
 			if (blocked.get(i).getBlockTime() <= 0 || (blocked.get(i).getSecondTimeToBlock() != -1 &&
 					blocked.get(i).getBlockTime() == blocked.get(i).getHalfBlockTime())) {
 				ready.add(blocked.get(i));
@@ -129,7 +130,7 @@ public abstract class Scheduling {
 	// gravar informações do processo no arquivo
 	private void saveProcess (Process p) {
 		// há muito o que fazer aqui ainda
-		byte[] info1 = Long.toString(counter).getBytes();
+		byte[] info1 = Long.toString(unitTime).getBytes();
 		byte[] info2 = Integer.toString(p.getPid()).getBytes();
 		try {
 			Files.write(path, info1);
@@ -140,7 +141,7 @@ public abstract class Scheduling {
 	}
 
 	private void exibe () {
-		System.out.println("----- Time " + counter + " -----");
+		System.out.println("----- Time " + unitTime + " -----");
 		System.out.println("----- Running -----");
 		if (running != null) {
 			System.out.println(running.getPid() + " : " + running.getServiceTime());

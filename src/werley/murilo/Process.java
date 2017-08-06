@@ -28,12 +28,12 @@ public class Process {
 		if (blockTime == 0) {
 			firstTimeToBlock = -1;
 			secondTimeToBlock = -1;
-		} else if (blockTime == (int)(serviceTime / 2)) {
+		} else if ((float)blockTime == (serviceTime / 2.0)) {
 			firstTimeToBlock = serviceTime - 1;
 			secondTimeToBlock = (int)(serviceTime * 0.25) + 1;
 			halfBlockTime = (int)(blockTime / 2);
-		} else if (blockTime >= (int)(serviceTime / 4) && blockTime < (int)(serviceTime / 2)) {
-			firstTimeToBlock = (int)(serviceTime / 2);
+		} else if ((float)blockTime >= (serviceTime / 4.0) && (float)blockTime < (serviceTime / 2.0)) {
+			firstTimeToBlock = (int) Math.ceil(serviceTime / 2.0);
 			secondTimeToBlock = -1;
 		} else {
 			firstTimeToBlock = serviceTime - 1;
