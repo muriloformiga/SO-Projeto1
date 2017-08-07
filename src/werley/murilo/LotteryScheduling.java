@@ -1,27 +1,65 @@
 package werley.murilo;
 
-import java.util.ArrayList;
+import java.util.Random;
 
-public class LotteryScheduling {
+public class LotteryScheduling extends Scheduling {
 
-	private ArrayList<Process> processes;
+	private int quantum;
+	private int countQuantum = 0;
 
-	private ArrayList<Process> ready;
-	private ArrayList<Process> blocked;
-
-	public LotteryScheduling (ArrayList<Process> processes) {
-		this.processes = processes;
+	public LotteryScheduling (int alpha, int quantum) {
+		super(alpha);
+		this.quantum = quantum;
 	}
 
-	private void run () {
+	@Override
+	public void prepareProcess() {
 
-		//for(Process p : processes) {
-		int exTime = processes.get(0).getServiceTime();
-		processes.get(0).setServiceTime(exTime-1);
-		//}
+		if (countQuantum % this.quantum == 0 || super.changeProcess) {
+			if (super.changeProcess) {
+				countQuantum = 0;
+			} else {
+				if (running != null) {
+					ready.add(running);
+				}
+			}
+			if (ready.size() > 0) {
+				Process p = chosenProcess(drawNextTicket());
+				running = p;
+				ready.remove(p);
+			} else {
+				running = null;
+			}
+		}
+		countQuantum++;
 	}
 
-	private int loterry () {
-		return 0;
+	private int drawNextTicket () {
+
+		Random randomTicket = new Random();
+		return randomTicket.nextInt(maxTicketValue()) + 1;
+	}
+
+	private int maxTicketValue () {
+
+		int maxNumber = 0;
+		for (int i = 0; i < ready.size(); i++) {
+			maxNumber += (ready.get(i).getPriority() + 1) * 10; 
+		}
+		return maxNumber;
+	}
+	
+	private Process chosenProcess (int n) {
+		Process p = null;
+		int count = 0;
+		for (int i = 0; i < ready.size(); i++) {
+			if (n <= count + ((ready.get(i).getPriority() + 1) * 10)) {
+				p = ready.get(i);
+				break;
+			} else {
+				count += (ready.get(i).getPriority() + 1) * 10;
+			}
+		}
+		return p;
 	}
 }

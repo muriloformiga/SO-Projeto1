@@ -5,8 +5,8 @@ public class RoundRobin extends Scheduling {
 	private int quantum;
 	private int countQuantum = 0;
 
-	public RoundRobin (int alfa, int quantum) {
-		super(alfa);
+	public RoundRobin (int alpha, int quantum) {
+		super(alpha);
 		this.quantum = quantum;
 	}
 
