@@ -11,6 +11,7 @@ public class Process {
 	private int retorno;
 	private int resposta;
 	private int espera;
+	private int ration;
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
@@ -51,6 +52,16 @@ public class Process {
 		} else {
 			return false;
 		}
+	}
+
+	
+	
+	public int getRation() {
+		return ration;
+	}
+
+	public void setRation(int ration) {
+		this.ration = ration;
 	}
 
 	public int getRetorno() {
