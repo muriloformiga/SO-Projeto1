@@ -13,6 +13,8 @@ public class HNNR extends Scheduling {
 		return s;
 	}	
 	
+	
+	
 	public void ration(Process p) {
 		p.setRation(((service_time(p) +  service_time(p))/ service_time(p)));			
 	}

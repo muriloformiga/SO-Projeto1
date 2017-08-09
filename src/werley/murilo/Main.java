@@ -8,8 +8,8 @@ public class Main {
 
 		 
 		//Round Robin: alpha = 50; quantum = 4.
-		RoundRobin rr = new RoundRobin(50, 4);
-		rr.startScheduling();
+		//RoundRobin rr = new RoundRobin(50, 4);
+		//rr.startScheduling();
 		
 		//LotteryScheduling lottery = new LotteryScheduling(50, 3);
 		//lottery.startScheduling();		

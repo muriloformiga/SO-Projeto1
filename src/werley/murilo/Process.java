@@ -8,22 +8,22 @@ public class Process {
 	private int serviceTime;
 	private int blockTime;
 	
-	private int retorno;
-	private int resposta;
-	private int espera;
-	private int ration;
+	private int retorno = 0;
+	private int resposta = 0;
+	private int espera = 0;
+	private int ration = 0;
+	private int TempExecucao = 0;
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
 	private int halfBlockTime;
 
-	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime, int resposta) {
+	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime) {
 		this.pid = pid;
 		this.submitionTime = submitionTime;
 		this.priority = priority;
 		this.serviceTime = serviceTime;
-		this.blockTime = blockTime;	
-		this.resposta = resposta;
+		this.blockTime = blockTime;			
 		checkBlockTime();
 	}
 
@@ -56,6 +56,14 @@ public class Process {
 
 	
 	
+	public int getTempExecucao() {
+		return TempExecucao;
+	}
+
+	public void setTempExecucao(int tempExecucao) {
+		TempExecucao = tempExecucao;
+	}
+
 	public int getRation() {
 		return ration;
 	}

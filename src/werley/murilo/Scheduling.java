@@ -63,7 +63,7 @@ public abstract class Scheduling {
 				String line = scanFile.nextLine().replace(",", " ");
 				Scanner scanLine = new Scanner(line);
 				Process process = new Process(scanLine.nextInt(),
-						scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(),0);
+						scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
 				distributeProcess(process);
 			} else {
 				break;
@@ -94,7 +94,8 @@ public abstract class Scheduling {
 	public void executeProcess () {
 
 		if (running != null) {
-			running.setServiceTime(running.getServiceTime() - 1);			
+			running.setServiceTime(running.getServiceTime() - 1);
+			running.setTempExecucao(running.getTempExecucao() + 1); // alterado
 			if (running.getServiceTime() == 0) {				
 				running = null;
 				changeProcess = true;
@@ -175,4 +176,16 @@ public abstract class Scheduling {
 		}
 		System.out.println("");
 	}
+	
+	public void TempRetorno(Process p) {	
+		
+		p.setRetorno(p.getEspera() + p.getSubmitionTime());		
+		
+	}
+	
+	public void TempExecucao(Process p) {
+		
+	}
+	
+	
 }
