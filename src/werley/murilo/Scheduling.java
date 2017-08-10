@@ -1,7 +1,9 @@
 package werley.murilo;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -20,18 +22,24 @@ public abstract class Scheduling {
 
 	private int alpha;
 	public long unitTime = 1;
+	static long TempoTotal;
 
 	Scanner scanFile;
 
+<<<<<<< HEAD
 	File file = new File("cenario2.txt");
 	Path path = Paths.get("resultado-teste.txt");
+=======
+	File file = new File("cenario-teste-1.txt");
+	File arquivo = new File("resultado-teste.txt");	
+>>>>>>> 756ea85d206669a360ef91fb331b0594a764d1a7
 
 	public Scheduling (int alpha) {
 		this.alpha = alpha;
 	}
 
 	public void startScheduling () {
-
+		long start = System.currentTimeMillis();
 		try {
 			scanFile = new Scanner(file);
 		} catch (FileNotFoundException e) {
@@ -46,16 +54,21 @@ public abstract class Scheduling {
 			exibe();
 			unitTime++;
 		}
+		long finish = System.currentTimeMillis();
+		TempoTotal = finish - start;
+		
+		
+		saveProcess(TempoTotal);
 	}
 
-	private void loadProcess (int n) {
+	public void loadProcess (int n) {
 
 		for (int i = 0; i < n; i++) {
 			if(scanFile.hasNext()) {
 				String line = scanFile.nextLine().replace(",", " ");
 				Scanner scanLine = new Scanner(line);
 				Process process = new Process(scanLine.nextInt(),
-						scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
+						scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(),0);
 				distributeProcess(process);
 			} else {
 				break;
@@ -86,10 +99,8 @@ public abstract class Scheduling {
 	public void executeProcess () {
 
 		if (running != null) {
-			running.setServiceTime(running.getServiceTime() - 1);
-			if (running.getServiceTime() == 0) {
-				//saveProcess(running);
-				//exibe();
+			running.setServiceTime(running.getServiceTime() - 1);			
+			if (running.getServiceTime() == 0) {				
 				running = null;
 				changeProcess = true;
 				loadProcess(1);
@@ -107,7 +118,9 @@ public abstract class Scheduling {
 
 		for (int i = 0; i < incoming.size(); i++) {
 			incoming.get(i).setSubmitionTime(incoming.get(i).getSubmitionTime() - 1);
+			incoming.get(i).setResposta(incoming.get(i).getEspera() + 1); // alterado
 			if (incoming.get(i).getSubmitionTime() <= 0) {
+				System.out.println("Tempo de espera: efsedjghshsieeroejsdlkdjpwaojdosaljsdlasjdkljaklsjdlkajsdlkjsakdjasdjlkajdslkajdklsjd" ); // alterado
 				ready.add(incoming.get(i));
 				incoming.remove(incoming.get(i));
 			}
@@ -127,18 +140,25 @@ public abstract class Scheduling {
 		}
 	}
 
-	// gravar informações do processo no arquivo
-	private void saveProcess (Process p) {
-		// há muito o que fazer aqui ainda
-		byte[] info1 = Long.toString(unitTime).getBytes();
-		byte[] info2 = Integer.toString(p.getPid()).getBytes();
-		try {
-			Files.write(path, info1);
-			Files.write(path, info2);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+	public void saveProcess (long tempoTotal2) {		      
+		 
+        try { 
+            if (!arquivo.exists()) {            
+            arquivo.createNewFile();
+        }
+ 
+            FileWriter fw = new FileWriter(arquivo, true); 
+            BufferedWriter bw = new BufferedWriter(fw);
+ 
+            bw.write("----- "); 
+            bw.newLine();             
+            bw.close();
+            fw.close();   
+ 
+        } catch (IOException ex) {
+        	ex.printStackTrace();
+        } 
+   }
 
 	private void exibe () {
 		System.out.println("----- Time " + unitTime + " -----");

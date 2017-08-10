@@ -2,24 +2,28 @@ package werley.murilo;
 
 public class Process {
 
-	//
 	private int pid;
 	private int submitionTime;
 	private int priority;
 	private int serviceTime;
 	private int blockTime;
+	
+	private int retorno;
+	private int resposta;
+	private int espera;
+	private int ration;
 
-	//
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
 	private int halfBlockTime;
 
-	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime) {
+	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime, int resposta) {
 		this.pid = pid;
 		this.submitionTime = submitionTime;
 		this.priority = priority;
 		this.serviceTime = serviceTime;
-		this.blockTime = blockTime;
+		this.blockTime = blockTime;	
+		this.resposta = resposta;
 		checkBlockTime();
 	}
 
@@ -50,6 +54,40 @@ public class Process {
 		}
 	}
 
+	
+	
+	public int getRation() {
+		return ration;
+	}
+
+	public void setRation(int ration) {
+		this.ration = ration;
+	}
+
+	public int getRetorno() {
+		return retorno;
+	}
+
+	public void setRetorno(int retorno) {
+		this.retorno = retorno;
+	}
+
+	public int getResposta() {
+		return resposta;
+	}
+
+	public void setResposta(int resposta) {
+		this.resposta = resposta;
+	}
+
+	public int getEspera() {
+		return espera;
+	}
+
+	public void setEspera(int espera) {
+		this.espera = espera;
+	}
+	
 	public int getPid() {
 		return pid;
 	}
@@ -89,4 +127,6 @@ public class Process {
 	public int getSecondTimeToBlock() {
 		return secondTimeToBlock;
 	}
+
+	
 }
