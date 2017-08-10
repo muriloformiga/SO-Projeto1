@@ -23,7 +23,7 @@ public abstract class Scheduling {
 
 	Scanner scanFile;
 
-	File file = new File("cenario-teste-1.txt");
+	File file = new File("cenario2.txt");
 	Path path = Paths.get("resultado-teste.txt");
 
 	public Scheduling (int alpha) {

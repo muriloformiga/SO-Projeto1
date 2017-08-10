@@ -8,7 +8,10 @@ public class Main {
 		RoundRobin rr = new RoundRobin(50, 4);
 		rr.startScheduling();
 		*/
-		LotteryScheduling lottery = new LotteryScheduling(50, 3);
-		lottery.startScheduling();
+		//LotteryScheduling lottery = new LotteryScheduling(50, 3);
+		//lottery.startScheduling();
+		
+		PriorityScheduling priorityScheduling = new PriorityScheduling(50);
+		priorityScheduling.startScheduling();
 	}
 }
