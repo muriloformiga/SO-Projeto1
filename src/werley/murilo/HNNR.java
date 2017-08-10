@@ -11,8 +11,7 @@ public class HNNR extends Scheduling {
 		int s = 0;	
 		s = p.getSubmitionTime() - p.getRetorno();				
 		return s;
-	}	
-	
+	}		
 	
 	public void ration(Process p) {
 		p.setRation(((p.getEspera() +  service_time(p))/ service_time(p)));			

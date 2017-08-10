@@ -23,6 +23,8 @@ public abstract class Scheduling {
 	private int alpha;
 	public long unitTime = 1;
 	static long TempoTotal;
+	private int qtdProcessos;
+	private float mediaTempRetorno, mediaTempResposta, mediaTempEspera;
 
 	Scanner scanFile;
 
@@ -116,7 +118,7 @@ public abstract class Scheduling {
 			incoming.get(i).setSubmitionTime(incoming.get(i).getSubmitionTime() - 1);
 			incoming.get(i).setResposta(incoming.get(i).getEspera() + 1); // alterado
 			if (incoming.get(i).getSubmitionTime() <= 0) {
-				System.out.println("Tempo de espera: efsedjghshsieeroejsdlkdjpwaojdosaljsdlasjdkljaklsjdlkajsdlkjsakdjasdjlkajdslkajdklsjd" ); // alterado
+				System.out.println("Tempo de espera: efsedjghshsieeroejsdlkdjpwaojdosaljsdlasjdkljaklsjdlkajsdlkjsakdjasdjlkajdslkajdklsjd" ); // não entra
 				ready.add(incoming.get(i));
 				incoming.remove(incoming.get(i));
 			}
@@ -146,7 +148,7 @@ public abstract class Scheduling {
             FileWriter fw = new FileWriter(arquivo, true); 
             BufferedWriter bw = new BufferedWriter(fw);
  
-            bw.write("----- "); 
+            bw.write(" -- Tempo média de retorno: " + mediaTempRetorno + " -- Tempo médio de Resposta: " + mediaTempResposta + " -- Tempo médio de Esoera: "+ mediaTempEspera+ " --"); 
             bw.newLine();             
             bw.close();
             fw.close();   
@@ -179,13 +181,21 @@ public abstract class Scheduling {
 	
 	public void TempRetorno(Process p) {	
 		
-		p.setRetorno(p.getEspera() + p.getSubmitionTime());		
+		p.setRetorno(p.getEspera() + p.getSubmitionTime());	
 		
 	}
 	
-	public void TempExecucao(Process p) {
+	public void media(Process p) {
 		
+		float somaTempRetorno = 0, somaTempResposta = 0, somaTempEspera = 0;
+		for (int i = 0; i < qtdProcessos; i++) { // varia em relação ao tamanho do arquivo
+			somaTempRetorno  =+ p.getRetorno();
+			somaTempResposta =+ p.getResposta();
+			somaTempEspera   =+ p.getEspera();			
+		}
+		mediaTempRetorno  = somaTempRetorno/qtdProcessos;
+		mediaTempResposta = somaTempResposta/qtdProcessos;
+		mediaTempEspera   = somaTempEspera/qtdProcessos;		
 	}
-	
 	
 }
