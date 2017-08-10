@@ -14,9 +14,8 @@ public class HNNR extends Scheduling {
 	}	
 	
 	
-	
 	public void ration(Process p) {
-		p.setRation(((service_time(p) +  service_time(p))/ service_time(p)));			
+		p.setRation(((p.getEspera() +  service_time(p))/ service_time(p)));			
 	}
 	
 	@Override
