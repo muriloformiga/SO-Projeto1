@@ -13,6 +13,7 @@ public class Process {
 	private int espera = 0;
 	private int ration = 0;
 	private int TempExecucao = 0;
+	private int fila;
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
@@ -55,6 +56,14 @@ public class Process {
 	}
 	
 	
+	public int getFila() {
+		return fila;
+	}
+
+	public void setFila(int fila) {
+		this.fila = fila;
+	}
+
 	public int getTempExecucao() {
 		return TempExecucao;
 	}
