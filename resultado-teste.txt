@@ -20,3 +20,10 @@
 ----- 
 ----- 
 ----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+ -- Tempo média de retorno: 0.0 -- Tempo médio de Resposta: 0.0 -- Tempo médio de Esoera: 0.0 --

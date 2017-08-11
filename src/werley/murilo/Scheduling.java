@@ -19,6 +19,8 @@ public abstract class Scheduling {
 	private int alpha;
 	public long unitTime = 1;
 	static long TempoTotal;
+	private int qtdProcessos;
+	private float mediaTempRetorno, mediaTempResposta, mediaTempEspera;
 
 	Scanner scanFile;
 
@@ -52,12 +54,25 @@ public abstract class Scheduling {
 
 	public void loadProcessFromFile () {
 
+<<<<<<< HEAD
 		while(scanFile.hasNext()) {
 			String line = scanFile.nextLine().replace(",", " ");
 			Scanner scanLine = new Scanner(line);
 			Process process = new Process(scanLine.nextInt(),
 					scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
 			distributeProcess(process);
+=======
+		for (int i = 0; i < n; i++) {
+			if(scanFile.hasNext()) {
+				String line = scanFile.nextLine().replace(",", " ");
+				Scanner scanLine = new Scanner(line);
+				Process process = new Process(scanLine.nextInt(),
+						scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
+				distributeProcess(process);
+			} else {
+				break;
+			}
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		}
 	}
 
@@ -95,7 +110,8 @@ public abstract class Scheduling {
 	public void executeProcess () {
 
 		if (running != null) {
-			running.setServiceTime(running.getServiceTime() - 1);			
+			running.setServiceTime(running.getServiceTime() - 1);
+			running.setTempExecucao(running.getTempExecucao() + 1); // alterado
 			if (running.getServiceTime() == 0) {				
 				running = null;
 				changeProcess = true;
@@ -116,10 +132,16 @@ public abstract class Scheduling {
 			incoming.get(i).setSubmitionTime(incoming.get(i).getSubmitionTime() - 1);
 			System.out.println(incoming.get(i).getPid() + " : " + incoming.get(i).getSubmitionTime() + " dibrei!!!");
 			if (incoming.get(i).getSubmitionTime() <= 0) {
+<<<<<<< HEAD
 				if (numberOfProcesses() < alpha) {
 					ready.add(incoming.get(i));
 					incoming.remove(incoming.get(i));
 				}
+=======
+				System.out.println("Tempo de espera: efsedjghshsieeroejsdlkdjpwaojdosaljsdlasjdkljaklsjdlkajsdlkjsakdjasdjlkajdslkajdklsjd" ); // não entra
+				ready.add(incoming.get(i));
+				incoming.remove(incoming.get(i));
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 			}
 		}
 	}
@@ -154,8 +176,13 @@ public abstract class Scheduling {
 
             FileWriter fw = new FileWriter(arquivo, true); 
             BufferedWriter bw = new BufferedWriter(fw);
+<<<<<<< HEAD
 
             bw.write("----- "); 
+=======
+ 
+            bw.write(" -- Tempo média de retorno: " + mediaTempRetorno + " -- Tempo médio de Resposta: " + mediaTempResposta + " -- Tempo médio de Esoera: "+ mediaTempEspera+ " --"); 
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
             bw.newLine();             
             bw.close();
             fw.close();   
@@ -185,4 +212,24 @@ public abstract class Scheduling {
 		}
 		System.out.println("");
 	}
+	
+	public void TempRetorno(Process p) {	
+		
+		p.setRetorno(p.getEspera() + p.getSubmitionTime());	
+		
+	}
+	
+	public void media(Process p) {
+		
+		float somaTempRetorno = 0, somaTempResposta = 0, somaTempEspera = 0;
+		for (int i = 0; i < qtdProcessos; i++) { // varia em relação ao tamanho do arquivo
+			somaTempRetorno  =+ p.getRetorno();
+			somaTempResposta =+ p.getResposta();
+			somaTempEspera   =+ p.getEspera();			
+		}
+		mediaTempRetorno  = somaTempRetorno/qtdProcessos;
+		mediaTempResposta = somaTempResposta/qtdProcessos;
+		mediaTempEspera   = somaTempEspera/qtdProcessos;		
+	}
+	
 }

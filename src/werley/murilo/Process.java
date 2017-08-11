@@ -8,10 +8,19 @@ public class Process {
 	private int serviceTime;
 	private int blockTime;
 	
+<<<<<<< HEAD
 	private int returnTime;
 	private int responseTime;
 	private int waitingTime;
 	private int ration;
+=======
+	private int retorno = 0;
+	private int resposta = 0;
+	private int espera = 0;
+	private int ration = 0;
+	private int TempExecucao = 0;
+	private int fila;
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
@@ -22,7 +31,11 @@ public class Process {
 		this.submitionTime = submitionTime;
 		this.priority = priority;
 		this.serviceTime = serviceTime;
+<<<<<<< HEAD
 		this.blockTime = blockTime;
+=======
+		this.blockTime = blockTime;			
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		checkBlockTime();
 	}
 
@@ -52,8 +65,30 @@ public class Process {
 			return false;
 		}
 	}
+<<<<<<< HEAD
 
 	public int getRation () {
+=======
+	
+	
+	public int getFila() {
+		return fila;
+	}
+
+	public void setFila(int fila) {
+		this.fila = fila;
+	}
+
+	public int getTempExecucao() {
+		return TempExecucao;
+	}
+
+	public void setTempExecucao(int tempExecucao) {
+		TempExecucao = tempExecucao;
+	}
+
+	public int getRation() {
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		return ration;
 	}
 
