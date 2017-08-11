@@ -1,11 +1,7 @@
 package werley.murilo;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -28,26 +24,22 @@ public abstract class Scheduling {
 
 	Scanner scanFile;
 
-<<<<<<< HEAD
-	File file = new File("cenario2.txt");
-	Path path = Paths.get("resultado-teste.txt");
-=======
 	File file = new File("cenario-teste-1.txt");
-	File arquivo = new File("resultado-teste.txt");	
->>>>>>> 756ea85d206669a360ef91fb331b0594a764d1a7
+	Path path = Paths.get("resultado-teste.txt");
 
 	public Scheduling (int alpha) {
+		
 		this.alpha = alpha;
 	}
 
 	public void startScheduling () {
-		long start = System.currentTimeMillis();
+		
 		try {
 			scanFile = new Scanner(file);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		loadProcess(alpha);
+		loadProcessFromFile();
 		while (ready.size() + blocked.size() + incoming.size() > 0 || running != null) {
 			decrementIncoming();
 			decrementBlocked();
@@ -56,15 +48,20 @@ public abstract class Scheduling {
 			exibe();
 			unitTime++;
 		}
-		long finish = System.currentTimeMillis();
-		TempoTotal = finish - start;
 		
-		
-		saveProcess(TempoTotal);
+		//saveProcess(TempoTotal);
 	}
 
-	public void loadProcess (int n) {
+	public void loadProcessFromFile () {
 
+<<<<<<< HEAD
+		while(scanFile.hasNext()) {
+			String line = scanFile.nextLine().replace(",", " ");
+			Scanner scanLine = new Scanner(line);
+			Process process = new Process(scanLine.nextInt(),
+					scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
+			distributeProcess(process);
+=======
 		for (int i = 0; i < n; i++) {
 			if(scanFile.hasNext()) {
 				String line = scanFile.nextLine().replace(",", " ");
@@ -75,15 +72,27 @@ public abstract class Scheduling {
 			} else {
 				break;
 			}
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		}
 	}
+
+	//private void loadNextProcess () {
+
+	//	if (incoming.size() > 0) {
+			
+	//	}
+	//}
 
 	private void distributeProcess (Process p) {
 
 		if (p.getSubmitionTime() > 0) {
 			incoming.add(p);
 		} else {
-			ready.add(p);
+			if (numberOfProcesses() < alpha) {
+				ready.add(p);
+			} else {
+				p.setSubmitionTime(p.getSubmitionTime() + 1);
+			}
 		}
 	}
 
@@ -106,7 +115,7 @@ public abstract class Scheduling {
 			if (running.getServiceTime() == 0) {				
 				running = null;
 				changeProcess = true;
-				loadProcess(1);
+				//loadNextProcess();
 			} else if (running.isTimeToBlock()) {
 				blocked.add(running);
 				running = null;
@@ -118,14 +127,21 @@ public abstract class Scheduling {
 	}
 
 	public void decrementIncoming () {
-
+		// Sob Manutenção
 		for (int i = 0; i < incoming.size(); i++) {
 			incoming.get(i).setSubmitionTime(incoming.get(i).getSubmitionTime() - 1);
-			incoming.get(i).setResposta(incoming.get(i).getEspera() + 1); // alterado
+			System.out.println(incoming.get(i).getPid() + " : " + incoming.get(i).getSubmitionTime() + " dibrei!!!");
 			if (incoming.get(i).getSubmitionTime() <= 0) {
+<<<<<<< HEAD
+				if (numberOfProcesses() < alpha) {
+					ready.add(incoming.get(i));
+					incoming.remove(incoming.get(i));
+				}
+=======
 				System.out.println("Tempo de espera: efsedjghshsieeroejsdlkdjpwaojdosaljsdlasjdkljaklsjdlkajsdlkjsakdjasdjlkajdslkajdklsjd" ); // não entra
 				ready.add(incoming.get(i));
 				incoming.remove(incoming.get(i));
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 			}
 		}
 	}
@@ -143,26 +159,39 @@ public abstract class Scheduling {
 		}
 	}
 
+	public int numberOfProcesses () {
+		int run = 0;
+		if (running != null) {
+			run = 1;
+		}
+		return (ready.size() + blocked.size() + run);
+	}
+	/*
 	public void saveProcess (long tempoTotal2) {		      
-		 
+
         try { 
             if (!arquivo.exists()) {            
             arquivo.createNewFile();
         }
- 
+
             FileWriter fw = new FileWriter(arquivo, true); 
             BufferedWriter bw = new BufferedWriter(fw);
+<<<<<<< HEAD
+
+            bw.write("----- "); 
+=======
  
             bw.write(" -- Tempo média de retorno: " + mediaTempRetorno + " -- Tempo médio de Resposta: " + mediaTempResposta + " -- Tempo médio de Esoera: "+ mediaTempEspera+ " --"); 
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
             bw.newLine();             
             bw.close();
             fw.close();   
- 
+
         } catch (IOException ex) {
         	ex.printStackTrace();
         } 
    }
-
+	 */
 	private void exibe () {
 		System.out.println("----- Time " + unitTime + " -----");
 		System.out.println("----- Running -----");

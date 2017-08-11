@@ -8,12 +8,19 @@ public class Process {
 	private int serviceTime;
 	private int blockTime;
 	
+<<<<<<< HEAD
+	private int returnTime;
+	private int responseTime;
+	private int waitingTime;
+	private int ration;
+=======
 	private int retorno = 0;
 	private int resposta = 0;
 	private int espera = 0;
 	private int ration = 0;
 	private int TempExecucao = 0;
 	private int fila;
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
@@ -24,7 +31,11 @@ public class Process {
 		this.submitionTime = submitionTime;
 		this.priority = priority;
 		this.serviceTime = serviceTime;
+<<<<<<< HEAD
+		this.blockTime = blockTime;
+=======
 		this.blockTime = blockTime;			
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		checkBlockTime();
 	}
 
@@ -54,6 +65,10 @@ public class Process {
 			return false;
 		}
 	}
+<<<<<<< HEAD
+
+	public int getRation () {
+=======
 	
 	
 	public int getFila() {
@@ -73,38 +88,39 @@ public class Process {
 	}
 
 	public int getRation() {
+>>>>>>> b827d98286585555ceea017b63322f23600d9260
 		return ration;
 	}
 
-	public void setRation(int ration) {
+	public void setRation (int ration) {
 		this.ration = ration;
 	}
 
-	public int getRetorno() {
-		return retorno;
+	public int getReturnTime () {
+		return returnTime;
 	}
 
-	public void setRetorno(int retorno) {
-		this.retorno = retorno;
+	public void setReturnTime (int returnTime) {
+		this.returnTime = returnTime;
 	}
 
-	public int getResposta() {
-		return resposta;
+	public int getResposta () {
+		return responseTime;
 	}
 
-	public void setResposta(int resposta) {
-		this.resposta = resposta;
+	public void setResposta (int resposta) {
+		this.responseTime = resposta;
 	}
 
-	public int getEspera() {
-		return espera;
+	public int getEspera () {
+		return waitingTime;
 	}
 
-	public void setEspera(int espera) {
-		this.espera = espera;
+	public void setEspera (int espera) {
+		this.waitingTime = espera;
 	}
 	
-	public int getPid() {
+	public int getPid () {
 		return pid;
 	}
 
@@ -116,7 +132,7 @@ public class Process {
 		this.submitionTime = submitionTime;
 	}
 
-	public int getPriority() {
+	public int getPriority () {
 		return priority;
 	}
 
@@ -143,6 +159,4 @@ public class Process {
 	public int getSecondTimeToBlock() {
 		return secondTimeToBlock;
 	}
-
-	
 }

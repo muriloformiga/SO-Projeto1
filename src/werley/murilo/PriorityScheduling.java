@@ -1,5 +1,8 @@
 package werley.murilo;
 
+import java.util.Collections;
+import java.util.List;
+
 public class PriorityScheduling extends Scheduling{
 
 	public PriorityScheduling (int alpha) {
@@ -7,52 +10,30 @@ public class PriorityScheduling extends Scheduling{
 	}	
 
 	@Override
-	public void prepareProcess() {
-		if (changeProcess) {
-			if (ready.size() > 0) {
-				Process mostPriority = null;
-				for (int i = 0; i < ready.size(); i++) {
-					if (i == 0) {
-						mostPriority = ready.get(i);
-					} else {
-						if (ready.get(i).getPriority() > mostPriority.getPriority()) {
-							mostPriority = ready.get(i);
-						}
-					}
-				}
-				running = mostPriority;
-				ready.remove(mostPriority);
-			} else {
-				running = null;
-			}
-		}
-		//Collections.sort(ready, new OrdenarPriority());
-		//super.prepareProcess();
+	public void prepareProcess() {		
+		Collections.sort(ready, new OrdenarPriority());
+		super.prepareProcess();
 	}
-
-
 	
-	/*@Override
+	@Override
 	public void executeProcess () {
 
 		if (running != null) {
 			running.setServiceTime(running.getServiceTime() - 1);
-			if (running.getServiceTime() == 0) {
-				//saveProcess(running);
-				//exibe();
+			if (running.getServiceTime() == 0) {				
 				running = null;
 				changeProcess = true;
-				loadProcess(1);
+				//loadProcess(1);
 			} else if (running.isTimeToBlock()) {
 				blocked.add(running);
 				running = null;
-				changeProcess = true;
+				//changeProcess = true;
 			} else {
 				changeProcess = false;
 			}
 		}
-	}*/
-	/*
+	}
+
 	@Override
 	public void decrementBlocked () {
 
@@ -66,5 +47,5 @@ public class PriorityScheduling extends Scheduling{
 				blocked.remove(blocked.get(0));
 			}
 		}
-	}*/
+	}
 }
