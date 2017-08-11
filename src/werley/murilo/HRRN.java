@@ -2,29 +2,32 @@ package werley.murilo;
 
 import java.util.Collections;
 
-public class HNNR extends Scheduling {
-	
-	public HNNR(int alpha) {
+public class HRRN extends Scheduling {
+
+	public HRRN (int alpha) {
 		super(alpha);		
-	}	
-	public int service_time(Process p) {
-		int s = 0;	
-		s = p.getSubmitionTime() - p.getRetorno();				
-		return s;
-	}	
-	
-	public void ration(Process p) {
-		p.setRation(((service_time(p) +  service_time(p))/ service_time(p)));			
 	}
-	
+
+	public int calculateServiceTime (Process p) {
+		
+		int serviceTime = p.getSubmitionTime() - p.getReturnTime();				
+		return serviceTime;
+	}	
+
+	public void ration (Process p) {
+		
+		p.setRation((calculateServiceTime(p) + calculateServiceTime(p)) / calculateServiceTime(p));			
+	}
+
 	@Override
-	public void prepareProcess() {		
+	public void prepareProcess () {		
+		
 		Collections.sort(ready, new OrdenarHRRN());
 		super.prepareProcess();
 	}
-	
-	
-	//@Override
+
+
+	@Override
 	public void decrementBlocked () {
 
 		if (blocked.size() > 0) {
@@ -38,11 +41,4 @@ public class HNNR extends Scheduling {
 			}
 		}
 	}
-	
-		
-	
-	
-	}
-	
-
-
+}
