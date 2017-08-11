@@ -1,41 +1,33 @@
 package werley.murilo;
 
 public class Process {
-
-	private int pid;
+	
 	private int submitionTime;
 	private int priority;
 	private int serviceTime;
 	private int blockTime;
 	
-<<<<<<< HEAD
 	private int returnTime;
 	private int responseTime;
 	private int waitingTime;
 	private int ration;
-=======
+
 	private int retorno = 0;
 	private int resposta = 0;
 	private int espera = 0;
-	private int ration = 0;
 	private int TempExecucao = 0;
 	private int fila;
->>>>>>> b827d98286585555ceea017b63322f23600d9260
 
 	private int firstTimeToBlock;
 	private int secondTimeToBlock;
 	private int halfBlockTime;
-
+	
 	public Process (int pid, int submitionTime, int priority, int serviceTime, int blockTime) {
 		this.pid = pid;
 		this.submitionTime = submitionTime;
 		this.priority = priority;
 		this.serviceTime = serviceTime;
-<<<<<<< HEAD
 		this.blockTime = blockTime;
-=======
-		this.blockTime = blockTime;			
->>>>>>> b827d98286585555ceea017b63322f23600d9260
 		checkBlockTime();
 	}
 
@@ -65,18 +57,102 @@ public class Process {
 			return false;
 		}
 	}
-<<<<<<< HEAD
 
-	public int getRation () {
-=======
-	
-	
-	public int getFila() {
-		return fila;
+	private int pid;
+	public int getPid() {
+		return pid;
 	}
 
-	public void setFila(int fila) {
-		this.fila = fila;
+	public void setPid(int pid) {
+		this.pid = pid;
+	}
+
+	public int getSubmitionTime() {
+		return submitionTime;
+	}
+
+	public void setSubmitionTime(int submitionTime) {
+		this.submitionTime = submitionTime;
+	}
+
+	public int getPriority() {
+		return priority;
+	}
+
+	public void setPriority(int priority) {
+		this.priority = priority;
+	}
+
+	public int getServiceTime() {
+		return serviceTime;
+	}
+
+	public void setServiceTime(int serviceTime) {
+		this.serviceTime = serviceTime;
+	}
+
+	public int getBlockTime() {
+		return blockTime;
+	}
+
+	public void setBlockTime(int blockTime) {
+		this.blockTime = blockTime;
+	}
+
+	public int getReturnTime() {
+		return returnTime;
+	}
+
+	public void setReturnTime(int returnTime) {
+		this.returnTime = returnTime;
+	}
+
+	public int getResponseTime() {
+		return responseTime;
+	}
+
+	public void setResponseTime(int responseTime) {
+		this.responseTime = responseTime;
+	}
+
+	public int getWaitingTime() {
+		return waitingTime;
+	}
+
+	public void setWaitingTime(int waitingTime) {
+		this.waitingTime = waitingTime;
+	}
+
+	public int getRation() {
+		return ration;
+	}
+
+	public void setRation(int ration) {
+		this.ration = ration;
+	}
+
+	public int getRetorno() {
+		return retorno;
+	}
+
+	public void setRetorno(int retorno) {
+		this.retorno = retorno;
+	}
+
+	public int getResposta() {
+		return resposta;
+	}
+
+	public void setResposta(int resposta) {
+		this.resposta = resposta;
+	}
+
+	public int getEspera() {
+		return espera;
+	}
+
+	public void setEspera(int espera) {
+		this.espera = espera;
 	}
 
 	public int getTempExecucao() {
@@ -87,76 +163,35 @@ public class Process {
 		TempExecucao = tempExecucao;
 	}
 
-	public int getRation() {
->>>>>>> b827d98286585555ceea017b63322f23600d9260
-		return ration;
+	public int getFila() {
+		return fila;
 	}
 
-	public void setRation (int ration) {
-		this.ration = ration;
+	public void setFila(int fila) {
+		this.fila = fila;
 	}
 
-	public int getReturnTime () {
-		return returnTime;
+	public int getFirstTimeToBlock() {
+		return firstTimeToBlock;
 	}
 
-	public void setReturnTime (int returnTime) {
-		this.returnTime = returnTime;
-	}
-
-	public int getResposta () {
-		return responseTime;
-	}
-
-	public void setResposta (int resposta) {
-		this.responseTime = resposta;
-	}
-
-	public int getEspera () {
-		return waitingTime;
-	}
-
-	public void setEspera (int espera) {
-		this.waitingTime = espera;
-	}
-	
-	public int getPid () {
-		return pid;
-	}
-
-	public int getSubmitionTime () {
-		return submitionTime;
-	}
-
-	public void setSubmitionTime (int submitionTime) {
-		this.submitionTime = submitionTime;
-	}
-
-	public int getPriority () {
-		return priority;
-	}
-
-	public int getServiceTime () {
-		return serviceTime;
-	}
-
-	public void setServiceTime (int serviceTime) {
-		this.serviceTime = serviceTime;
-	}
-
-	public int getBlockTime () {
-		return blockTime;
-	}
-
-	public void setBlockTime (int blockTime) {
-		this.blockTime = blockTime;
-	}
-	
-	public int getHalfBlockTime () {
-		return halfBlockTime;
+	public void setFirstTimeToBlock(int firstTimeToBlock) {
+		this.firstTimeToBlock = firstTimeToBlock;
 	}
 
 	public int getSecondTimeToBlock() {
 		return secondTimeToBlock;
+	}
+
+	public void setSecondTimeToBlock(int secondTimeToBlock) {
+		this.secondTimeToBlock = secondTimeToBlock;
+	}
+
+	public int getHalfBlockTime() {
+		return halfBlockTime;
+	}
+
+	public void setHalfBlockTime(int halfBlockTime) {
+		this.halfBlockTime = halfBlockTime;
 	}
 }

@@ -8,6 +8,7 @@ public class MultilevelFeedback extends Scheduling {
 	public static ArrayList<Process> RQ1 = new ArrayList<>(); // prioridade 10-14, q = 20
 	public static ArrayList<Process> RQ2 = new ArrayList<>(); // prioridade 05-09, q = 40
 	public static ArrayList<Process> RQ3 = new ArrayList<>(); // prioridade 00-04, q = 80
+	public static ArrayList<Process> novo = new ArrayList<>(); // prioridade 00-04, q = 80
 	
 	public MultilevelFeedback(int alpha) {
 		super(alpha);		
@@ -29,6 +30,7 @@ public class MultilevelFeedback extends Scheduling {
 			RQ0.add(p);
 		}		
 	}
+	
 	
 
 	

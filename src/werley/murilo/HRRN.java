@@ -4,6 +4,11 @@ import java.util.Collections;
 
 public class HRRN extends Scheduling {
 
+	public HRRN(int alpha) {
+		super(alpha);
+		// TODO Auto-generated constructor stub
+	}
+	/*
 	public HRRN (int alpha) {
 		super(alpha);		
 	}
@@ -12,13 +17,11 @@ public class HRRN extends Scheduling {
 		
 		int serviceTime = p.getSubmitionTime() - p.getReturnTime();				
 		return serviceTime;
-	}	
-<<<<<<< HEAD:src/werley/murilo/HRRN.java
+	}
 
 	public void ration (Process p) {
 		
 		p.setRation((calculateServiceTime(p) + calculateServiceTime(p)) / calculateServiceTime(p));			
-=======
 	public int service_time(Process p) {
 		int s = 0;	
 		s = p.getSubmitionTime() - p.getRetorno();				
@@ -26,8 +29,7 @@ public class HRRN extends Scheduling {
 	}		
 	
 	public void ration(Process p) {
-		p.setRation(((p.getEspera() +  service_time(p))/ service_time(p)));			
->>>>>>> b827d98286585555ceea017b63322f23600d9260:src/werley/murilo/HNNR.java
+		p.setRation(((p.getEspera() +  service_time(p))/ service_time(p)));
 	}
 
 	@Override
@@ -51,5 +53,5 @@ public class HRRN extends Scheduling {
 				blocked.remove(blocked.get(0));
 			}
 		}
-	}
+	}*/
 }
