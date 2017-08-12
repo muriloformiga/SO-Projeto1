@@ -1,29 +1,32 @@
-2----- 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
------ 
- -- Tempo média de retorno: 0.0 -- Tempo médio de Resposta: 0.0 -- Tempo médio de Esoera: 0.0 --
+----- PID: 2 -----
+Turnaround Time: 6
+Response Time: 0
+Waiting Time: 0
+
+----- PID: 1 -----
+Turnaround Time: 12
+Response Time: 6
+Waiting Time: 6
+
+----- PID: 5 -----
+Turnaround Time: 17
+Response Time: 11
+Waiting Time: 11
+
+----- PID: 4 -----
+Turnaround Time: 23
+Response Time: 17
+Waiting Time: 17
+
+----- PID: 3 -----
+Turnaround Time: 29
+Response Time: 23
+Waiting Time: 23
+
+-------------------- PROCESS SCHEDULING INFORMATIONS --------------------
+Avg. Turnaround Time: 17,40
+CPU Usage (%): 82,86
+Avg. Response Time: 11,40
+Avg. Waiting Time: 11,40
+Simulation Time: 35
+-------------------------------------------------------------------------

@@ -7,9 +7,11 @@ public class Process {
 	private int serviceTime;
 	private int blockTime;
 	
-	private int returnTime;
+	private int turnaroundTime;
 	private int responseTime;
 	private int waitingTime;
+	private boolean executionStarted;
+
 	private int ration;
 
 	private int retorno = 0;
@@ -28,6 +30,10 @@ public class Process {
 		this.priority = priority;
 		this.serviceTime = serviceTime;
 		this.blockTime = blockTime;
+		this.turnaroundTime = 0;
+		this.responseTime = 0;
+		this.waitingTime = 0;
+		executionStarted = false;
 		checkBlockTime();
 	}
 
@@ -99,12 +105,12 @@ public class Process {
 		this.blockTime = blockTime;
 	}
 
-	public int getReturnTime() {
-		return returnTime;
+	public int getTurnaroundTime () {
+		return turnaroundTime;
 	}
 
-	public void setReturnTime(int returnTime) {
-		this.returnTime = returnTime;
+	public void setTurnaroundTime (int turnaroundTime) {
+		this.turnaroundTime = turnaroundTime;
 	}
 
 	public int getResponseTime() {
@@ -121,6 +127,14 @@ public class Process {
 
 	public void setWaitingTime(int waitingTime) {
 		this.waitingTime = waitingTime;
+	}
+	
+	public boolean isExecutionStarted() {
+		return executionStarted;
+	}
+
+	public void setExecutionStarted(boolean executionStarted) {
+		this.executionStarted = executionStarted;
 	}
 
 	public int getRation() {
