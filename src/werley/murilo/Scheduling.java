@@ -27,9 +27,9 @@ public abstract class Scheduling {
 	protected int alpha;
 	public long unitTime;
 
-	private Scanner scanFile;
+	protected Scanner scanFile;
 
-	private File inFile = new File("cenario1.txt");
+	protected File inFile = new File("cenario1.txt");
 	private File outFile = new File("resultado-teste.txt");
 
 	public Scheduling (int alpha) {
@@ -72,7 +72,7 @@ public abstract class Scheduling {
 		}
 	}
 
-	private void distributeProcess (Process p) {
+	protected void distributeProcess (Process p) {
 		if (p.getSubmitionTime() > 0) {
 			incoming.add(p);
 		} else {
@@ -191,7 +191,7 @@ public abstract class Scheduling {
 		}
 	}
 
-	private void saveProcessMetrics () {
+	public void saveProcessMetrics () {
 		try {
 			if (!outFile.exists()) {            
 				outFile.createNewFile();
@@ -220,7 +220,7 @@ public abstract class Scheduling {
 		}
 	}
 
-	private void exibe () {
+	public void exibe () {
 		System.out.println("----- Time " + unitTime + " -----");
 		System.out.println("----- Running -----");
 		if (running != null) {

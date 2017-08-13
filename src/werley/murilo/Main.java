@@ -16,7 +16,7 @@ public class Main {
 		//PriorityScheduling ps = new PriorityScheduling(50);
 		//ps.startScheduling();
 		
-		// HRRN (Highest Response Ratio Next): alpha = 50.
+		 //HRRN (Highest Response Ratio Next): alpha = 50.
 		//HRRN hrrn = new HRRN(50);
 		//hrrn.startScheduling();
 		
