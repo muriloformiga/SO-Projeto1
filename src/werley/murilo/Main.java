@@ -13,11 +13,15 @@ public class Main {
 		//ls.startScheduling();
 		
 		// Priority Scheduling: alpha = 50.
-		PriorityScheduling ps = new PriorityScheduling(50);
-		ps.startScheduling();
+		//PriorityScheduling ps = new PriorityScheduling(50);
+		//ps.startScheduling();
 		
 		// HRRN (Highest Response Ratio Next): alpha = 50.
 		//HRRN hrrn = new HRRN(50);
 		//hrrn.startScheduling();
+		
+		// State-dependent Priority (1): alpha = 50.
+		//StateDependentPriority sdp = new StateDependentPriority(50);
+		//sdp.startScheduling();
 	}
 }

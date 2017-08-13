@@ -25,6 +25,7 @@ public class LotteryScheduling extends Scheduling {
 			}
 			if (ready.size() > 0) {
 				Process p = chosenProcess(drawNextTicket());
+				p.setExecutionStarted(true);
 				running = p;
 				ready.remove(p);
 			} else {

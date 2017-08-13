@@ -24,12 +24,12 @@ public abstract class Scheduling {
 
 	public boolean changeProcess = true;
 
-	private int alpha;
+	protected int alpha;
 	public long unitTime;
 
 	private Scanner scanFile;
 
-	private File inFile = new File("cenario-teste-1.txt");
+	private File inFile = new File("cenario1.txt");
 	private File outFile = new File("resultado-teste.txt");
 
 	public Scheduling (int alpha) {
