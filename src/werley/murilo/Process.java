@@ -14,10 +14,7 @@ public class Process {
 
 	private int ration;
 
-	private int retorno = 0;
-	private int resposta = 0;
-	private int espera = 0;
-	private int TempExecucao = 0;
+	private int quantum;
 	private int fila;
 
 	private int firstTimeToBlock;
@@ -62,6 +59,14 @@ public class Process {
 		} else {
 			return false;
 		}
+	}
+
+	public int getQuantum() {
+		return quantum;
+	}
+
+	public void setQuantum(int quantum) {
+		this.quantum = quantum;
 	}
 
 	private int pid;
@@ -144,38 +149,7 @@ public class Process {
 	public void setRation(int ration) {
 		this.ration = ration;
 	}
-
-	public int getRetorno() {
-		return retorno;
-	}
-
-	public void setRetorno(int retorno) {
-		this.retorno = retorno;
-	}
-
-	public int getResposta() {
-		return resposta;
-	}
-
-	public void setResposta(int resposta) {
-		this.resposta = resposta;
-	}
-
-	public int getEspera() {
-		return espera;
-	}
-
-	public void setEspera(int espera) {
-		this.espera = espera;
-	}
-
-	public int getTempExecucao() {
-		return TempExecucao;
-	}
-
-	public void setTempExecucao(int tempExecucao) {
-		TempExecucao = tempExecucao;
-	}
+	
 
 	public int getFila() {
 		return fila;

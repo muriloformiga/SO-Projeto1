@@ -19,7 +19,7 @@ public abstract class Scheduling {
 	private int totalTurnaroundTime;
 	private int totalResponseTime;
 	private int totalWaitingTime;
-	private int totalProcesses;
+	protected int totalProcesses;
 	private int CPUExecuting;
 
 	public boolean changeProcess = true;

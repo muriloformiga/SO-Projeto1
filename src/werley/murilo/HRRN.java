@@ -22,8 +22,7 @@ public class HRRN extends Scheduling {
 		}			
 	}
 
-	class OrdenarHRRN implements Comparator<Process> {
-	
+	class OrdenarHRRN implements Comparator<Process> {	
 			
 		public int compare2(Process arg0, Process arg1) {
 		

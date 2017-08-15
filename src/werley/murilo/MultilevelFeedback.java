@@ -2,6 +2,7 @@ package werley.murilo;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class MultilevelFeedback extends Scheduling {
@@ -15,125 +16,84 @@ public class MultilevelFeedback extends Scheduling {
 	public static ArrayList<Process> RQ2 = new ArrayList<>(); // prioridade 05-09, q = 40
 	public static ArrayList<Process> RQ3 = new ArrayList<>(); // prioridade 00-04, q = 80	
 	
-	public MultilevelFeedback(int alpha, int quatum) {
-		super(alpha);
-		this.quantum = recalculateQuantum();
-	}
-	
-	
-	@Override
-	public void startScheduling () {
-		try {
-			super.scanFile = new Scanner(super.inFile);
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
-		loadProcessFromFile();
-		for (int i = 0; i < 4; i++) {
-			relocateProcess ();
-			while (ready.size() + blocked.size() + incoming.size() > 0 || running != null) {
-				decrementIncoming();
-				decrementBlocked();
-				prepareProcess();
-				calculatePerformanceMetrics();
-				executeProcess();
-				super.exibe();
-				unitTime++;
-		
-			}
-			super.saveProcessMetrics();
-			}
-	}
-	
-	@Override
-	private void distributeProcess (Process p) {		
-		if(p.getPriority() >= 0 && p.getPriority() <= 4 ) {
-			p.setFila(3);
-			RQ3.add(p);		
-		}else if (p.getPriority() >= 5 && p.getPriority() <= 9) {
-			p.setFila(2);
-			RQ2.add(p);
-		}else if (p.getPriority() >= 10 && p.getPriority() <= 14) {
-			p.setFila(1);
-			RQ1.add(p);
-		}else if (p.getPriority() >= 15 && p.getPriority() <= 19) {
-			p.setFila(0);
-			RQ0.add(p);
-		}		
+	public MultilevelFeedback(int alpha) {
+		super(alpha);		
 	}	
 	
-	
-	private void relocateProcess () {			
-		
-		if(RQ0.size() > 0 ) {
-			while (RQ0.size() > 0) {			
-				super.distributeProcess (RQ3.get(0));				
-				RQ0.remove(0);				
-			}
-		}			
-		else if (RQ1.size() > 0) {
-			while (RQ1.size() > 0) {			
-				super.distributeProcess (RQ3.get(0));
-				RQ1.remove(0);
-			}
-		}			
-		else if (RQ2.size() > 0) {
-			while (RQ2.size() > 0) {			
-				super.distributeProcess (RQ3.get(0));
-				RQ2.remove(0);
-			}
-		}			
-		else if (RQ3.size() > 0) {
-			while (RQ3.size() > 0) {			
-				super.distributeProcess (RQ3.get(0));
-				RQ3.remove(0);
-			}
-		}	
-	}
-		
-	private int recalculateQuantum () {
-		
-		if (RQ0.size() > 0) {
-			return 10;
-		}			
-		else if (RQ1.size() > 0) {
-			return 20;
-		}			
-		else if (RQ2.size() > 0) {
-			return 40;
-		}			
-		else  {
-			return 80;
-		}
-	}
+	protected void PreProcessamento (Process p) {		
+		if(p.getPriority() >= 0 && p.getPriority() <= 4 ) {
+			p.setFila(3);
+			p.setQuantum(80); 
+		}else if (p.getPriority() >= 5 && p.getPriority() <= 9) {
+			p.setFila(2);	
+			p.setQuantum(40); 
+		}else if (p.getPriority() >= 10 && p.getPriority() <= 14) {
+			p.setFila(1);
+			p.setQuantum(20); 
+		}else if (p.getPriority() >= 15 && p.getPriority() <= 19) {
+			p.setFila(0);	
+			p.setQuantum(10); 
+		}		
+	}	
 
 	@Override
-	public void prepareProcess () {
+	public void loadProcessFromFile () {
+		while(scanFile.hasNext()) {
+			String line = scanFile.nextLine().replace(",", " ");
+			Scanner scanLine = new Scanner(line);
+			Process process = new Process(scanLine.nextInt(),
+					scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt(), scanLine.nextInt());
+			PreProcessamento (process);
+			distributeProcess(process);
+			totalProcesses++;
+		}
+	}	
 
-		if (countQuantum > recalculateQuantum ()  || super.changeProcess) {
-			if (super.changeProcess) {
-				countQuantum = 0;
-				super.prepareProcess();
-			} else {
-				if (running != null) {
-					ready.add(running);
+	
+	@Override
+	public void prepareProcess () {
+		if(ready.size() > 0) {
+			if ( ready.get(0).getQuantum() > 0  || super.changeProcess) {
+				if (super.changeProcess) {				
+					super.prepareProcess();
+				} else {
+					if (running != null) {
+						ready.add(running);
+					}
+					super.changeProcess = true;
+					super.prepareProcess();
 				}
-				super.changeProcess = true;
-				super.prepareProcess();
 			}
+		ready.get(0).setQuantum(ready.get(0).getQuantum() - 1);
 		}
-		else {
-			
-		}
-		countQuantum++;
 	}
 	
-	
-
-	
-	
-	
-	
+	class OrdenarMultilevel implements Comparator<Process> {	
+		
+		public int compare2(Process arg0, Process arg1) {
+		
+			if (arg0.getSubmitionTime() > arg1.getSubmitionTime()) {
+				return -1;
+			} else if (arg0.getSubmitionTime() < arg1.getSubmitionTime()) {
+				return 1;
+			} else { 		
+				return 0;
+			}
+		}
+		
+		@Override
+		public int compare(Process arg0, Process arg1) {
+			
+			if (arg0.getFila() > arg1.getFila()) {
+				return -1;
+			} else if (arg0.getFila() < arg1.getFila()) {
+				return 1;
+			} else { 		
+				return compare2(arg0, arg1);
+			}
+		}		
+		
+	}
 	
 	
 }
