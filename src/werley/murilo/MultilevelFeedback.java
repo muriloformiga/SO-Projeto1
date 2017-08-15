@@ -5,16 +5,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class MultilevelFeedback extends Scheduling {
-	
-	private int quantum;	
-	private int countQuantum = 0;
-	private boolean distribute = true;
-
-	public static ArrayList<Process> RQ0 = new ArrayList<>(); // prioridade 15-19, quanto = 10
-	public static ArrayList<Process> RQ1 = new ArrayList<>(); // prioridade 10-14, q = 20
-	public static ArrayList<Process> RQ2 = new ArrayList<>(); // prioridade 05-09, q = 40
-	public static ArrayList<Process> RQ3 = new ArrayList<>(); // prioridade 00-04, q = 80	
+public class MultilevelFeedback extends Scheduling {			
 	
 	public MultilevelFeedback(int alpha) {
 		super(alpha);		
@@ -93,7 +84,6 @@ public class MultilevelFeedback extends Scheduling {
 			}
 		}		
 		
-	}
-	
+	}	
 	
 }
