@@ -30,7 +30,7 @@ public abstract class Scheduling {
 	protected Scanner scanFile;
 
 	protected File inFile = new File("cenario3.txt");
-	private File outFile = new File("resultado-statedependent-cenario3.txt");
+	private File outFile = new File("resultado-priority-cenario3.txt");
 
 	public Scheduling (int alpha) {
 		this.alpha = alpha;
