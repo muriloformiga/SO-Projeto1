@@ -21,12 +21,12 @@ public class Main {
 		//hrrn.startScheduling();
 		
 		// State-dependent Priority (1): alpha = 50.
-		//StateDependentPriority sdp = new StateDependentPriority(50);
-		//sdp.startScheduling();
+		StateDependentPriority sdp = new StateDependentPriority(50);
+		sdp.startScheduling();
 		
-		// Multilevel Feedback quanto 10,20,40,80
-		MultilevelFeedback mf = new MultilevelFeedback(50);
-		mf.startScheduling();
+		// Multilevel Feedback: quantum 10, 20, 40, 80.
+		//MultilevelFeedback mf = new MultilevelFeedback(50);
+		//mf.startScheduling();
 		
 	}
 }
