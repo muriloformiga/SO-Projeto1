@@ -1,0 +1,10007 @@
+----- PID: 988 -----
+Turnaround Time: 11
+Response Time: 0
+Waiting Time: 0
+
+----- PID: 468 -----
+Turnaround Time: 62
+Response Time: 4
+Waiting Time: 8
+
+----- PID: 618 -----
+Turnaround Time: 47
+Response Time: 0
+Waiting Time: 5
+
+----- PID: 1008 -----
+Turnaround Time: 118
+Response Time: 0
+Waiting Time: 6
+
+----- PID: 225 -----
+Turnaround Time: 76
+Response Time: 21
+Waiting Time: 52
+
+----- PID: 609 -----
+Turnaround Time: 85
+Response Time: 13
+Waiting Time: 48
+
+----- PID: 104 -----
+Turnaround Time: 85
+Response Time: 12
+Waiting Time: 28
+
+----- PID: 248 -----
+Turnaround Time: 56
+Response Time: 25
+Waiting Time: 40
+
+----- PID: 41 -----
+Turnaround Time: 77
+Response Time: 41
+Waiting Time: 45
+
+----- PID: 183 -----
+Turnaround Time: 92
+Response Time: 41
+Waiting Time: 61
+
+----- PID: 392 -----
+Turnaround Time: 135
+Response Time: 80
+Waiting Time: 80
+
+----- PID: 219 -----
+Turnaround Time: 141
+Response Time: 70
+Waiting Time: 104
+
+----- PID: 327 -----
+Turnaround Time: 88
+Response Time: 34
+Waiting Time: 34
+
+----- PID: 467 -----
+Turnaround Time: 43
+Response Time: 17
+Waiting Time: 17
+
+----- PID: 544 -----
+Turnaround Time: 108
+Response Time: 56
+Waiting Time: 56
+
+----- PID: 351 -----
+Turnaround Time: 27
+Response Time: 0
+Waiting Time: 7
+
+----- PID: 796 -----
+Turnaround Time: 137
+Response Time: 51
+Waiting Time: 51
+
+----- PID: 1164 -----
+Turnaround Time: 137
+Response Time: 26
+Waiting Time: 49
+
+----- PID: 651 -----
+Turnaround Time: 87
+Response Time: 7
+Waiting Time: 50
+
+----- PID: 129 -----
+Turnaround Time: 74
+Response Time: 50
+Waiting Time: 61
+
+----- PID: 503 -----
+Turnaround Time: 108
+Response Time: 7
+Waiting Time: 63
+
+----- PID: 733 -----
+Turnaround Time: 537
+Response Time: 5
+Waiting Time: 36
+
+----- PID: 35 -----
+Turnaround Time: 231
+Response Time: 207
+Waiting Time: 207
+
+----- PID: 243 -----
+Turnaround Time: 184
+Response Time: 157
+Waiting Time: 174
+
+----- PID: 358 -----
+Turnaround Time: 235
+Response Time: 203
+Waiting Time: 223
+
+----- PID: 128 -----
+Turnaround Time: 181
+Response Time: 148
+Waiting Time: 169
+
+----- PID: 574 -----
+Turnaround Time: 220
+Response Time: 179
+Waiting Time: 192
+
+----- PID: 1248 -----
+Turnaround Time: 473
+Response Time: 52
+Waiting Time: 163
+
+----- PID: 415 -----
+Turnaround Time: 140
+Response Time: 114
+Waiting Time: 128
+
+----- PID: 326 -----
+Turnaround Time: 266
+Response Time: 233
+Waiting Time: 235
+
+----- PID: 562 -----
+Turnaround Time: 129
+Response Time: 118
+Waiting Time: 118
+
+----- PID: 81 -----
+Turnaround Time: 130
+Response Time: 114
+Waiting Time: 114
+
+----- PID: 58 -----
+Turnaround Time: 168
+Response Time: 136
+Waiting Time: 149
+
+----- PID: 1082 -----
+Turnaround Time: 707
+Response Time: 89
+Waiting Time: 347
+
+----- PID: 306 -----
+Turnaround Time: 372
+Response Time: 293
+Waiting Time: 332
+
+----- PID: 308 -----
+Turnaround Time: 203
+Response Time: 140
+Waiting Time: 187
+
+----- PID: 345 -----
+Turnaround Time: 345
+Response Time: 256
+Waiting Time: 313
+
+----- PID: 1255 -----
+Turnaround Time: 550
+Response Time: 79
+Waiting Time: 249
+
+----- PID: 829 -----
+Turnaround Time: 747
+Response Time: 52
+Waiting Time: 520
+
+----- PID: 492 -----
+Turnaround Time: 559
+Response Time: 467
+Waiting Time: 503
+
+----- PID: 357 -----
+Turnaround Time: 407
+Response Time: 287
+Waiting Time: 374
+
+----- PID: 201 -----
+Turnaround Time: 302
+Response Time: 280
+Waiting Time: 280
+
+----- PID: 101 -----
+Turnaround Time: 300
+Response Time: 261
+Waiting Time: 281
+
+----- PID: 401 -----
+Turnaround Time: 418
+Response Time: 387
+Waiting Time: 387
+
+----- PID: 422 -----
+Turnaround Time: 247
+Response Time: 204
+Waiting Time: 231
+
+----- PID: 31 -----
+Turnaround Time: 552
+Response Time: 493
+Waiting Time: 508
+
+----- PID: 167 -----
+Turnaround Time: 305
+Response Time: 266
+Waiting Time: 282
+
+----- PID: 491 -----
+Turnaround Time: 416
+Response Time: 377
+Waiting Time: 377
+
+----- PID: 1162 -----
+Turnaround Time: 283
+Response Time: 234
+Waiting Time: 263
+
+----- PID: 709 -----
+Turnaround Time: 285
+Response Time: 241
+Waiting Time: 256
+
+----- PID: 240 -----
+Turnaround Time: 340
+Response Time: 299
+Waiting Time: 299
+
+----- PID: 108 -----
+Turnaround Time: 389
+Response Time: 330
+Waiting Time: 356
+
+----- PID: 403 -----
+Turnaround Time: 669
+Response Time: 607
+Waiting Time: 612
+
+----- PID: 494 -----
+Turnaround Time: 621
+Response Time: 557
+Waiting Time: 562
+
+----- PID: 484 -----
+Turnaround Time: 550
+Response Time: 485
+Waiting Time: 493
+
+----- PID: 244 -----
+Turnaround Time: 357
+Response Time: 276
+Waiting Time: 329
+
+----- PID: 627 -----
+Turnaround Time: 582
+Response Time: 478
+Waiting Time: 526
+
+----- PID: 375 -----
+Turnaround Time: 694
+Response Time: 543
+Waiting Time: 636
+
+----- PID: 397 -----
+Turnaround Time: 447
+Response Time: 273
+Waiting Time: 414
+
+----- PID: 395 -----
+Turnaround Time: 135
+Response Time: 125
+Waiting Time: 125
+
+----- PID: 594 -----
+Turnaround Time: 335
+Response Time: 312
+Waiting Time: 316
+
+----- PID: 442 -----
+Turnaround Time: 371
+Response Time: 344
+Waiting Time: 344
+
+----- PID: 641 -----
+Turnaround Time: 171
+Response Time: 155
+Waiting Time: 155
+
+----- PID: 302 -----
+Turnaround Time: 492
+Response Time: 439
+Waiting Time: 451
+
+----- PID: 465 -----
+Turnaround Time: 597
+Response Time: 539
+Waiting Time: 548
+
+----- PID: 20 -----
+Turnaround Time: 551
+Response Time: 473
+Waiting Time: 500
+
+----- PID: 404 -----
+Turnaround Time: 528
+Response Time: 475
+Waiting Time: 483
+
+----- PID: 635 -----
+Turnaround Time: 311
+Response Time: 285
+Waiting Time: 285
+
+----- PID: 228 -----
+Turnaround Time: 281
+Response Time: 255
+Waiting Time: 255
+
+----- PID: 18 -----
+Turnaround Time: 259
+Response Time: 230
+Waiting Time: 235
+
+----- PID: 489 -----
+Turnaround Time: 652
+Response Time: 581
+Waiting Time: 594
+
+----- PID: 17 -----
+Turnaround Time: 349
+Response Time: 304
+Waiting Time: 319
+
+----- PID: 312 -----
+Turnaround Time: 180
+Response Time: 148
+Waiting Time: 166
+
+----- PID: 95 -----
+Turnaround Time: 656
+Response Time: 596
+Waiting Time: 597
+
+----- PID: 40 -----
+Turnaround Time: 249
+Response Time: 230
+Waiting Time: 230
+
+----- PID: 428 -----
+Turnaround Time: 517
+Response Time: 469
+Waiting Time: 469
+
+----- PID: 629 -----
+Turnaround Time: 411
+Response Time: 351
+Waiting Time: 378
+
+----- PID: 352 -----
+Turnaround Time: 215
+Response Time: 200
+Waiting Time: 200
+
+----- PID: 557 -----
+Turnaround Time: 487
+Response Time: 436
+Waiting Time: 436
+
+----- PID: 197 -----
+Turnaround Time: 615
+Response Time: 554
+Waiting Time: 560
+
+----- PID: 204 -----
+Turnaround Time: 567
+Response Time: 503
+Waiting Time: 510
+
+----- PID: 317 -----
+Turnaround Time: 672
+Response Time: 576
+Waiting Time: 615
+
+----- PID: 824 -----
+Turnaround Time: 833
+Response Time: 723
+Waiting Time: 730
+
+----- PID: 337 -----
+Turnaround Time: 386
+Response Time: 261
+Waiting Time: 349
+
+----- PID: 450 -----
+Turnaround Time: 232
+Response Time: 98
+Waiting Time: 218
+
+----- PID: 388 -----
+Turnaround Time: 609
+Response Time: 435
+Waiting Time: 565
+
+----- PID: 339 -----
+Turnaround Time: 710
+Response Time: 499
+Waiting Time: 657
+
+----- PID: 185 -----
+Turnaround Time: 343
+Response Time: 322
+Waiting Time: 322
+
+----- PID: 294 -----
+Turnaround Time: 326
+Response Time: 289
+Waiting Time: 308
+
+----- PID: 350 -----
+Turnaround Time: 361
+Response Time: 337
+Waiting Time: 337
+
+----- PID: 229 -----
+Turnaround Time: 387
+Response Time: 355
+Waiting Time: 361
+
+----- PID: 110 -----
+Turnaround Time: 587
+Response Time: 542
+Waiting Time: 543
+
+----- PID: 387 -----
+Turnaround Time: 515
+Response Time: 463
+Waiting Time: 475
+
+----- PID: 469 -----
+Turnaround Time: 415
+Response Time: 374
+Waiting Time: 384
+
+----- PID: 130 -----
+Turnaround Time: 521
+Response Time: 442
+Waiting Time: 479
+
+----- PID: 347 -----
+Turnaround Time: 636
+Response Time: 557
+Waiting Time: 581
+
+----- PID: 480 -----
+Turnaround Time: 454
+Response Time: 401
+Waiting Time: 419
+
+----- PID: 189 -----
+Turnaround Time: 324
+Response Time: 268
+Waiting Time: 302
+
+----- PID: 154 -----
+Turnaround Time: 384
+Response Time: 326
+Waiting Time: 353
+
+----- PID: 261 -----
+Turnaround Time: 740
+Response Time: 657
+Waiting Time: 681
+
+----- PID: 325 -----
+Turnaround Time: 272
+Response Time: 256
+Waiting Time: 256
+
+----- PID: 303 -----
+Turnaround Time: 372
+Response Time: 344
+Waiting Time: 344
+
+----- PID: 193 -----
+Turnaround Time: 339
+Response Time: 296
+Waiting Time: 316
+
+----- PID: 151 -----
+Turnaround Time: 682
+Response Time: 631
+Waiting Time: 631
+
+----- PID: 19 -----
+Turnaround Time: 228
+Response Time: 169
+Waiting Time: 217
+
+----- PID: 441 -----
+Turnaround Time: 814
+Response Time: 708
+Waiting Time: 757
+
+----- PID: 50 -----
+Turnaround Time: 331
+Response Time: 222
+Waiting Time: 315
+
+----- PID: 421 -----
+Turnaround Time: 373
+Response Time: 346
+Waiting Time: 348
+
+----- PID: 86 -----
+Turnaround Time: 219
+Response Time: 188
+Waiting Time: 207
+
+----- PID: 98 -----
+Turnaround Time: 614
+Response Time: 573
+Waiting Time: 575
+
+----- PID: 80 -----
+Turnaround Time: 315
+Response Time: 271
+Waiting Time: 296
+
+----- PID: 341 -----
+Turnaround Time: 828
+Response Time: 765
+Waiting Time: 773
+
+----- PID: 27 -----
+Turnaround Time: 758
+Response Time: 693
+Waiting Time: 704
+
+----- PID: 103 -----
+Turnaround Time: 496
+Response Time: 450
+Waiting Time: 459
+
+----- PID: 521 -----
+Turnaround Time: 761
+Response Time: 670
+Waiting Time: 713
+
+----- PID: 131 -----
+Turnaround Time: 554
+Response Time: 463
+Waiting Time: 517
+
+----- PID: 264 -----
+Turnaround Time: 359
+Response Time: 319
+Waiting Time: 340
+
+----- PID: 142 -----
+Turnaround Time: 734
+Response Time: 667
+Waiting Time: 687
+
+----- PID: 221 -----
+Turnaround Time: 774
+Response Time: 704
+Waiting Time: 720
+
+----- PID: 190 -----
+Turnaround Time: 228
+Response Time: 213
+Waiting Time: 213
+
+----- PID: 164 -----
+Turnaround Time: 627
+Response Time: 578
+Waiting Time: 584
+
+----- PID: 196 -----
+Turnaround Time: 872
+Response Time: 813
+Waiting Time: 813
+
+----- PID: 301 -----
+Turnaround Time: 462
+Response Time: 399
+Waiting Time: 432
+
+----- PID: 440 -----
+Turnaround Time: 228
+Response Time: 214
+Waiting Time: 214
+
+----- PID: 452 -----
+Turnaround Time: 248
+Response Time: 232
+Waiting Time: 232
+
+----- PID: 143 -----
+Turnaround Time: 555
+Response Time: 519
+Waiting Time: 521
+
+----- PID: 447 -----
+Turnaround Time: 261
+Response Time: 240
+Waiting Time: 245
+
+----- PID: 217 -----
+Turnaround Time: 372
+Response Time: 349
+Waiting Time: 350
+
+----- PID: 300 -----
+Turnaround Time: 273
+Response Time: 240
+Waiting Time: 256
+
+----- PID: 305 -----
+Turnaround Time: 523
+Response Time: 487
+Waiting Time: 487
+
+----- PID: 386 -----
+Turnaround Time: 498
+Response Time: 465
+Waiting Time: 465
+
+----- PID: 275 -----
+Turnaround Time: 413
+Response Time: 381
+Waiting Time: 384
+
+----- PID: 361 -----
+Turnaround Time: 804
+Response Time: 726
+Waiting Time: 753
+
+----- PID: 231 -----
+Turnaround Time: 653
+Response Time: 594
+Waiting Time: 607
+
+----- PID: 118 -----
+Turnaround Time: 304
+Response Time: 289
+Waiting Time: 289
+
+----- PID: 475 -----
+Turnaround Time: 202
+Response Time: 190
+Waiting Time: 190
+
+----- PID: 246 -----
+Turnaround Time: 720
+Response Time: 675
+Waiting Time: 675
+
+----- PID: 1005 -----
+Turnaround Time: 2080
+Response Time: 1883
+Waiting Time: 1928
+
+----- PID: 277 -----
+Turnaround Time: 569
+Response Time: 517
+Waiting Time: 538
+
+----- PID: 12 -----
+Turnaround Time: 915
+Response Time: 854
+Waiting Time: 860
+
+----- PID: 378 -----
+Turnaround Time: 308
+Response Time: 247
+Waiting Time: 292
+
+----- PID: 336 -----
+Turnaround Time: 613
+Response Time: 540
+Waiting Time: 578
+
+----- PID: 153 -----
+Turnaround Time: 406
+Response Time: 381
+Waiting Time: 384
+
+----- PID: 481 -----
+Turnaround Time: 358
+Response Time: 326
+Waiting Time: 338
+
+----- PID: 235 -----
+Turnaround Time: 579
+Response Time: 535
+Waiting Time: 546
+
+----- PID: 55 -----
+Turnaround Time: 743
+Response Time: 697
+Waiting Time: 702
+
+----- PID: 253 -----
+Turnaround Time: 546
+Response Time: 509
+Waiting Time: 509
+
+----- PID: 410 -----
+Turnaround Time: 450
+Response Time: 421
+Waiting Time: 421
+
+----- PID: 72 -----
+Turnaround Time: 314
+Response Time: 239
+Waiting Time: 298
+
+----- PID: 431 -----
+Turnaround Time: 891
+Response Time: 809
+Waiting Time: 834
+
+----- PID: 205 -----
+Turnaround Time: 468
+Response Time: 432
+Waiting Time: 442
+
+----- PID: 434 -----
+Turnaround Time: 568
+Response Time: 531
+Waiting Time: 536
+
+----- PID: 414 -----
+Turnaround Time: 321
+Response Time: 301
+Waiting Time: 301
+
+----- PID: 429 -----
+Turnaround Time: 693
+Response Time: 645
+Waiting Time: 650
+
+----- PID: 53 -----
+Turnaround Time: 705
+Response Time: 654
+Waiting Time: 657
+
+----- PID: 455 -----
+Turnaround Time: 588
+Response Time: 524
+Waiting Time: 550
+
+----- PID: 495 -----
+Turnaround Time: 548
+Response Time: 512
+Waiting Time: 512
+
+----- PID: 443 -----
+Turnaround Time: 246
+Response Time: 207
+Waiting Time: 234
+
+----- PID: 241 -----
+Turnaround Time: 561
+Response Time: 515
+Waiting Time: 524
+
+----- PID: 393 -----
+Turnaround Time: 708
+Response Time: 647
+Waiting Time: 655
+
+----- PID: 868 -----
+Turnaround Time: 2755
+Response Time: 2551
+Waiting Time: 2573
+
+----- PID: 102 -----
+Turnaround Time: 422
+Response Time: 273
+Waiting Time: 401
+
+----- PID: 938 -----
+Turnaround Time: 2820
+Response Time: 2600
+Waiting Time: 2610
+
+----- PID: 737 -----
+Turnaround Time: 2228
+Response Time: 1996
+Waiting Time: 2063
+
+----- PID: 119 -----
+Turnaround Time: 339
+Response Time: 320
+Waiting Time: 327
+
+----- PID: 505 -----
+Turnaround Time: 434
+Response Time: 416
+Waiting Time: 418
+
+----- PID: 127 -----
+Turnaround Time: 493
+Response Time: 470
+Waiting Time: 473
+
+----- PID: 188 -----
+Turnaround Time: 290
+Response Time: 278
+Waiting Time: 278
+
+----- PID: 109 -----
+Turnaround Time: 559
+Response Time: 525
+Waiting Time: 530
+
+----- PID: 65 -----
+Turnaround Time: 600
+Response Time: 562
+Waiting Time: 574
+
+----- PID: 14 -----
+Turnaround Time: 718
+Response Time: 676
+Waiting Time: 680
+
+----- PID: 313 -----
+Turnaround Time: 554
+Response Time: 492
+Waiting Time: 533
+
+----- PID: 150 -----
+Turnaround Time: 300
+Response Time: 273
+Waiting Time: 286
+
+----- PID: 407 -----
+Turnaround Time: 600
+Response Time: 559
+Waiting Time: 568
+
+----- PID: 490 -----
+Turnaround Time: 964
+Response Time: 891
+Waiting Time: 913
+
+----- PID: 140 -----
+Turnaround Time: 768
+Response Time: 708
+Waiting Time: 728
+
+----- PID: 500 -----
+Turnaround Time: 603
+Response Time: 560
+Waiting Time: 570
+
+----- PID: 45 -----
+Turnaround Time: 787
+Response Time: 738
+Waiting Time: 741
+
+----- PID: 159 -----
+Turnaround Time: 523
+Response Time: 452
+Waiting Time: 496
+
+----- PID: 436 -----
+Turnaround Time: 1008
+Response Time: 893
+Waiting Time: 954
+
+----- PID: 255 -----
+Turnaround Time: 277
+Response Time: 240
+Waiting Time: 263
+
+----- PID: 85 -----
+Turnaround Time: 694
+Response Time: 652
+Waiting Time: 652
+
+----- PID: 136 -----
+Turnaround Time: 936
+Response Time: 850
+Waiting Time: 884
+
+----- PID: 314 -----
+Turnaround Time: 269
+Response Time: 211
+Waiting Time: 258
+
+----- PID: 178 -----
+Turnaround Time: 642
+Response Time: 557
+Waiting Time: 605
+
+----- PID: 321 -----
+Turnaround Time: 300
+Response Time: 285
+Waiting Time: 285
+
+----- PID: 90 -----
+Turnaround Time: 354
+Response Time: 326
+Waiting Time: 337
+
+----- PID: 10 -----
+Turnaround Time: 517
+Response Time: 488
+Waiting Time: 490
+
+----- PID: 788 -----
+Turnaround Time: 3147
+Response Time: 2938
+Waiting Time: 2947
+
+----- PID: 328 -----
+Turnaround Time: 328
+Response Time: 308
+Waiting Time: 313
+
+----- PID: 286 -----
+Turnaround Time: 347
+Response Time: 323
+Waiting Time: 331
+
+----- PID: 92 -----
+Turnaround Time: 656
+Response Time: 612
+Waiting Time: 625
+
+----- PID: 60 -----
+Turnaround Time: 575
+Response Time: 547
+Waiting Time: 547
+
+----- PID: 22 -----
+Turnaround Time: 563
+Response Time: 506
+Waiting Time: 532
+
+----- PID: 139 -----
+Turnaround Time: 1117
+Response Time: 1053
+Waiting Time: 1058
+
+----- PID: 258 -----
+Turnaround Time: 842
+Response Time: 761
+Waiting Time: 796
+
+----- PID: 147 -----
+Turnaround Time: 960
+Response Time: 868
+Waiting Time: 903
+
+----- PID: 4 -----
+Turnaround Time: 478
+Response Time: 432
+Waiting Time: 454
+
+----- PID: 269 -----
+Turnaround Time: 898
+Response Time: 843
+Waiting Time: 848
+
+----- PID: 122 -----
+Turnaround Time: 398
+Response Time: 370
+Waiting Time: 378
+
+----- PID: 121 -----
+Turnaround Time: 737
+Response Time: 691
+Waiting Time: 699
+
+----- PID: 186 -----
+Turnaround Time: 741
+Response Time: 695
+Waiting Time: 704
+
+----- PID: 191 -----
+Turnaround Time: 528
+Response Time: 490
+Waiting Time: 501
+
+----- PID: 379 -----
+Turnaround Time: 651
+Response Time: 608
+Waiting Time: 614
+
+----- PID: 21 -----
+Turnaround Time: 1091
+Response Time: 993
+Waiting Time: 1033
+
+----- PID: 207 -----
+Turnaround Time: 1058
+Response Time: 958
+Waiting Time: 1000
+
+----- PID: 28 -----
+Turnaround Time: 739
+Response Time: 699
+Waiting Time: 699
+
+----- PID: 123 -----
+Turnaround Time: 850
+Response Time: 778
+Waiting Time: 804
+
+----- PID: 24 -----
+Turnaround Time: 415
+Response Time: 395
+Waiting Time: 395
+
+----- PID: 114 -----
+Turnaround Time: 996
+Response Time: 938
+Waiting Time: 938
+
+----- PID: 288 -----
+Turnaround Time: 573
+Response Time: 509
+Waiting Time: 541
+
+----- PID: 162 -----
+Turnaround Time: 837
+Response Time: 750
+Waiting Time: 784
+
+----- PID: 149 -----
+Turnaround Time: 285
+Response Time: 248
+Waiting Time: 273
+
+----- PID: 273 -----
+Turnaround Time: 766
+Response Time: 717
+Waiting Time: 717
+
+----- PID: 89 -----
+Turnaround Time: 998
+Response Time: 907
+Waiting Time: 940
+
+----- PID: 840 -----
+Turnaround Time: 3831
+Response Time: 3576
+Waiting Time: 3601
+
+----- PID: 1188 -----
+Turnaround Time: 3750
+Response Time: 3445
+Waiting Time: 3512
+
+----- PID: 784 -----
+Turnaround Time: 4099
+Response Time: 3701
+Waiting Time: 3835
+
+----- PID: 311 -----
+Turnaround Time: 1008
+Response Time: 714
+Waiting Time: 959
+
+----- PID: 1168 -----
+Turnaround Time: 4328
+Response Time: 3910
+Waiting Time: 4055
+
+----- PID: 716 -----
+Turnaround Time: 3823
+Response Time: 3296
+Waiting Time: 3595
+
+----- PID: 117 -----
+Turnaround Time: 567
+Response Time: 455
+Waiting Time: 556
+
+----- PID: 156 -----
+Turnaround Time: 1095
+Response Time: 538
+Waiting Time: 1059
+
+----- PID: 322 -----
+Turnaround Time: 796
+Response Time: 765
+Waiting Time: 775
+
+----- PID: 34 -----
+Turnaround Time: 1027
+Response Time: 992
+Waiting Time: 992
+
+----- PID: 184 -----
+Turnaround Time: 878
+Response Time: 840
+Waiting Time: 854
+
+----- PID: 212 -----
+Turnaround Time: 965
+Response Time: 926
+Waiting Time: 932
+
+----- PID: 157 -----
+Turnaround Time: 365
+Response Time: 353
+Waiting Time: 353
+
+----- PID: 116 -----
+Turnaround Time: 1227
+Response Time: 1165
+Waiting Time: 1186
+
+----- PID: 125 -----
+Turnaround Time: 1328
+Response Time: 1279
+Waiting Time: 1283
+
+----- PID: 320 -----
+Turnaround Time: 1165
+Response Time: 1108
+Waiting Time: 1127
+
+----- PID: 192 -----
+Turnaround Time: 1073
+Response Time: 1037
+Waiting Time: 1037
+
+----- PID: 213 -----
+Turnaround Time: 1251
+Response Time: 1202
+Waiting Time: 1209
+
+----- PID: 249 -----
+Turnaround Time: 1232
+Response Time: 1179
+Waiting Time: 1184
+
+----- PID: 46 -----
+Turnaround Time: 1540
+Response Time: 1465
+Waiting Time: 1483
+
+----- PID: 33 -----
+Turnaround Time: 1439
+Response Time: 1370
+Waiting Time: 1382
+
+----- PID: 11 -----
+Turnaround Time: 1501
+Response Time: 1379
+Waiting Time: 1447
+
+----- PID: 79 -----
+Turnaround Time: 928
+Response Time: 891
+Waiting Time: 892
+
+----- PID: 62 -----
+Turnaround Time: 1294
+Response Time: 1235
+Waiting Time: 1243
+
+----- PID: 263 -----
+Turnaround Time: 1219
+Response Time: 1156
+Waiting Time: 1160
+
+----- PID: 42 -----
+Turnaround Time: 1444
+Response Time: 1332
+Waiting Time: 1392
+
+----- PID: 316 -----
+Turnaround Time: 1102
+Response Time: 962
+Waiting Time: 1058
+
+----- PID: 37 -----
+Turnaround Time: 1320
+Response Time: 1135
+Waiting Time: 1272
+
+----- PID: 91 -----
+Turnaround Time: 465
+Response Time: 451
+Waiting Time: 451
+
+----- PID: 158 -----
+Turnaround Time: 760
+Response Time: 723
+Waiting Time: 730
+
+----- PID: 239 -----
+Turnaround Time: 1078
+Response Time: 1010
+Waiting Time: 1035
+
+----- PID: 282 -----
+Turnaround Time: 1297
+Response Time: 1237
+Waiting Time: 1238
+
+----- PID: 333 -----
+Turnaround Time: 1243
+Response Time: 1170
+Waiting Time: 1185
+
+----- PID: 242 -----
+Turnaround Time: 1389
+Response Time: 1288
+Waiting Time: 1333
+
+----- PID: 93 -----
+Turnaround Time: 1285
+Response Time: 1141
+Waiting Time: 1231
+
+----- PID: 257 -----
+Turnaround Time: 421
+Response Time: 407
+Waiting Time: 407
+
+----- PID: 218 -----
+Turnaround Time: 506
+Response Time: 481
+Waiting Time: 483
+
+----- PID: 83 -----
+Turnaround Time: 670
+Response Time: 638
+Waiting Time: 643
+
+----- PID: 252 -----
+Turnaround Time: 458
+Response Time: 421
+Waiting Time: 440
+
+----- PID: 176 -----
+Turnaround Time: 1186
+Response Time: 1111
+Waiting Time: 1135
+
+----- PID: 137 -----
+Turnaround Time: 1067
+Response Time: 991
+Waiting Time: 1016
+
+----- PID: 63 -----
+Turnaround Time: 1328
+Response Time: 1231
+Waiting Time: 1274
+
+----- PID: 78 -----
+Turnaround Time: 1258
+Response Time: 1121
+Waiting Time: 1203
+
+----- PID: 152 -----
+Turnaround Time: 256
+Response Time: 231
+Waiting Time: 246
+
+----- PID: 280 -----
+Turnaround Time: 563
+Response Time: 535
+Waiting Time: 539
+
+----- PID: 8 -----
+Turnaround Time: 955
+Response Time: 892
+Waiting Time: 914
+
+----- PID: 291 -----
+Turnaround Time: 499
+Response Time: 456
+Waiting Time: 479
+
+----- PID: 39 -----
+Turnaround Time: 1277
+Response Time: 1209
+Waiting Time: 1221
+
+----- PID: 973 -----
+Turnaround Time: 5039
+Response Time: 4762
+Waiting Time: 4778
+
+----- PID: 236 -----
+Turnaround Time: 755
+Response Time: 683
+Waiting Time: 725
+
+----- PID: 145 -----
+Turnaround Time: 364
+Response Time: 283
+Waiting Time: 353
+
+----- PID: 304 -----
+Turnaround Time: 350
+Response Time: 337
+Waiting Time: 337
+
+----- PID: 9 -----
+Turnaround Time: 683
+Response Time: 652
+Waiting Time: 652
+
+----- PID: 26 -----
+Turnaround Time: 500
+Response Time: 454
+Waiting Time: 479
+
+----- PID: 214 -----
+Turnaround Time: 258
+Response Time: 221
+Waiting Time: 248
+
+----- PID: 206 -----
+Turnaround Time: 852
+Response Time: 791
+Waiting Time: 818
+
+----- PID: 70 -----
+Turnaround Time: 989
+Response Time: 941
+Waiting Time: 945
+
+----- PID: 177 -----
+Turnaround Time: 984
+Response Time: 913
+Waiting Time: 942
+
+----- PID: 354 -----
+Turnaround Time: 416
+Response Time: 365
+Waiting Time: 398
+
+----- PID: 359 -----
+Turnaround Time: 267
+Response Time: 214
+Waiting Time: 256
+
+----- PID: 356 -----
+Turnaround Time: 412
+Response Time: 394
+Waiting Time: 394
+
+----- PID: 160 -----
+Turnaround Time: 428
+Response Time: 407
+Waiting Time: 407
+
+----- PID: 355 -----
+Turnaround Time: 443
+Response Time: 408
+Waiting Time: 419
+
+----- PID: 298 -----
+Turnaround Time: 718
+Response Time: 669
+Waiting Time: 684
+
+----- PID: 94 -----
+Turnaround Time: 946
+Response Time: 895
+Waiting Time: 901
+
+----- PID: 165 -----
+Turnaround Time: 1054
+Response Time: 999
+Waiting Time: 1001
+
+----- PID: 344 -----
+Turnaround Time: 503
+Response Time: 442
+Waiting Time: 477
+
+----- PID: 5 -----
+Turnaround Time: 1101
+Response Time: 1015
+Waiting Time: 1048
+
+----- PID: 74 -----
+Turnaround Time: 1181
+Response Time: 1071
+Waiting Time: 1127
+
+----- PID: 1006 -----
+Turnaround Time: 5589
+Response Time: 5256
+Waiting Time: 5286
+
+----- PID: 1181 -----
+Turnaround Time: 5869
+Response Time: 5378
+Waiting Time: 5591
+
+----- PID: 954 -----
+Turnaround Time: 5731
+Response Time: 5301
+Waiting Time: 5415
+
+----- PID: 705 -----
+Turnaround Time: 6097
+Response Time: 5556
+Waiting Time: 5775
+
+----- PID: 199 -----
+Turnaround Time: 707
+Response Time: 694
+Waiting Time: 694
+
+----- PID: 238 -----
+Turnaround Time: 537
+Response Time: 524
+Waiting Time: 526
+
+----- PID: 210 -----
+Turnaround Time: 583
+Response Time: 561
+Waiting Time: 566
+
+----- PID: 373 -----
+Turnaround Time: 798
+Response Time: 772
+Waiting Time: 779
+
+----- PID: 223 -----
+Turnaround Time: 1274
+Response Time: 1229
+Waiting Time: 1229
+
+----- PID: 7 -----
+Turnaround Time: 934
+Response Time: 870
+Waiting Time: 904
+
+----- PID: 281 -----
+Turnaround Time: 1489
+Response Time: 1418
+Waiting Time: 1439
+
+----- PID: 124 -----
+Turnaround Time: 1255
+Response Time: 1206
+Waiting Time: 1213
+
+----- PID: 84 -----
+Turnaround Time: 1696
+Response Time: 1624
+Waiting Time: 1638
+
+----- PID: 287 -----
+Turnaround Time: 1480
+Response Time: 1407
+Waiting Time: 1428
+
+----- PID: 382 -----
+Turnaround Time: 885
+Response Time: 832
+Waiting Time: 855
+
+----- PID: 66 -----
+Turnaround Time: 430
+Response Time: 406
+Waiting Time: 417
+
+----- PID: 338 -----
+Turnaround Time: 742
+Response Time: 717
+Waiting Time: 717
+
+----- PID: 330 -----
+Turnaround Time: 1132
+Response Time: 1079
+Waiting Time: 1094
+
+----- PID: 296 -----
+Turnaround Time: 1551
+Response Time: 1481
+Waiting Time: 1496
+
+----- PID: 368 -----
+Turnaround Time: 1071
+Response Time: 998
+Waiting Time: 1031
+
+----- PID: 96 -----
+Turnaround Time: 1478
+Response Time: 1420
+Waiting Time: 1420
+
+----- PID: 233 -----
+Turnaround Time: 940
+Response Time: 883
+Waiting Time: 906
+
+----- PID: 105 -----
+Turnaround Time: 1049
+Response Time: 992
+Waiting Time: 1008
+
+----- PID: 285 -----
+Turnaround Time: 1479
+Response Time: 1415
+Waiting Time: 1420
+
+----- PID: 57 -----
+Turnaround Time: 1332
+Response Time: 1257
+Waiting Time: 1278
+
+----- PID: 208 -----
+Turnaround Time: 346
+Response Time: 334
+Waiting Time: 334
+
+----- PID: 25 -----
+Turnaround Time: 572
+Response Time: 539
+Waiting Time: 552
+
+----- PID: 390 -----
+Turnaround Time: 968
+Response Time: 908
+Waiting Time: 931
+
+----- PID: 362 -----
+Turnaround Time: 976
+Response Time: 924
+Waiting Time: 936
+
+----- PID: 381 -----
+Turnaround Time: 1245
+Response Time: 1178
+Waiting Time: 1195
+
+----- PID: 363 -----
+Turnaround Time: 1354
+Response Time: 1245
+Waiting Time: 1302
+
+----- PID: 132 -----
+Turnaround Time: 563
+Response Time: 536
+Waiting Time: 542
+
+----- PID: 36 -----
+Turnaround Time: 412
+Response Time: 381
+Waiting Time: 400
+
+----- PID: 82 -----
+Turnaround Time: 1241
+Response Time: 1191
+Waiting Time: 1193
+
+----- PID: 389 -----
+Turnaround Time: 1277
+Response Time: 1224
+Waiting Time: 1227
+
+----- PID: 283 -----
+Turnaround Time: 1105
+Response Time: 1048
+Waiting Time: 1060
+
+----- PID: 148 -----
+Turnaround Time: 633
+Response Time: 593
+Waiting Time: 610
+
+----- PID: 87 -----
+Turnaround Time: 1361
+Response Time: 1304
+Waiting Time: 1304
+
+----- PID: 391 -----
+Turnaround Time: 1304
+Response Time: 1247
+Waiting Time: 1248
+
+----- PID: 171 -----
+Turnaround Time: 1237
+Response Time: 1159
+Waiting Time: 1187
+
+----- PID: 211 -----
+Turnaround Time: 598
+Response Time: 568
+Waiting Time: 575
+
+----- PID: 272 -----
+Turnaround Time: 468
+Response Time: 448
+Waiting Time: 449
+
+----- PID: 180 -----
+Turnaround Time: 694
+Response Time: 665
+Waiting Time: 667
+
+----- PID: 61 -----
+Turnaround Time: 1383
+Response Time: 1323
+Waiting Time: 1326
+
+----- PID: 43 -----
+Turnaround Time: 1322
+Response Time: 1254
+Waiting Time: 1269
+
+----- PID: 100 -----
+Turnaround Time: 878
+Response Time: 839
+Waiting Time: 839
+
+----- PID: 68 -----
+Turnaround Time: 1217
+Response Time: 1164
+Waiting Time: 1165
+
+----- PID: 126 -----
+Turnaround Time: 294
+Response Time: 242
+Waiting Time: 282
+
+----- PID: 406 -----
+Turnaround Time: 1253
+Response Time: 1187
+Waiting Time: 1198
+
+----- PID: 230 -----
+Turnaround Time: 1368
+Response Time: 1274
+Waiting Time: 1313
+
+----- PID: 250 -----
+Turnaround Time: 594
+Response Time: 484
+Waiting Time: 572
+
+----- PID: 276 -----
+Turnaround Time: 1391
+Response Time: 1233
+Waiting Time: 1335
+
+----- PID: 297 -----
+Turnaround Time: 406
+Response Time: 394
+Waiting Time: 394
+
+----- PID: 169 -----
+Turnaround Time: 567
+Response Time: 534
+Waiting Time: 542
+
+----- PID: 187 -----
+Turnaround Time: 486
+Response Time: 457
+Waiting Time: 465
+
+----- PID: 279 -----
+Turnaround Time: 520
+Response Time: 490
+Waiting Time: 495
+
+----- PID: 134 -----
+Turnaround Time: 736
+Response Time: 675
+Waiting Time: 702
+
+----- PID: 315 -----
+Turnaround Time: 220
+Response Time: 188
+Waiting Time: 210
+
+----- PID: 209 -----
+Turnaround Time: 539
+Response Time: 494
+Waiting Time: 512
+
+----- PID: 172 -----
+Turnaround Time: 984
+Response Time: 932
+Waiting Time: 932
+
+----- PID: 227 -----
+Turnaround Time: 857
+Response Time: 812
+Waiting Time: 812
+
+----- PID: 141 -----
+Turnaround Time: 382
+Response Time: 347
+Waiting Time: 358
+
+----- PID: 247 -----
+Turnaround Time: 860
+Response Time: 802
+Waiting Time: 816
+
+----- PID: 195 -----
+Turnaround Time: 969
+Response Time: 911
+Waiting Time: 917
+
+----- PID: 120 -----
+Turnaround Time: 1074
+Response Time: 1004
+Waiting Time: 1016
+
+----- PID: 237 -----
+Turnaround Time: 893
+Response Time: 817
+Waiting Time: 840
+
+----- PID: 135 -----
+Turnaround Time: 682
+Response Time: 589
+Waiting Time: 646
+
+----- PID: 295 -----
+Turnaround Time: 364
+Response Time: 344
+Waiting Time: 344
+
+----- PID: 111 -----
+Turnaround Time: 449
+Response Time: 413
+Waiting Time: 426
+
+----- PID: 155 -----
+Turnaround Time: 578
+Response Time: 545
+Waiting Time: 545
+
+----- PID: 6 -----
+Turnaround Time: 520
+Response Time: 468
+Waiting Time: 491
+
+----- PID: 266 -----
+Turnaround Time: 329
+Response Time: 289
+Waiting Time: 314
+
+----- PID: 299 -----
+Turnaround Time: 305
+Response Time: 268
+Waiting Time: 290
+
+----- PID: 324 -----
+Turnaround Time: 306
+Response Time: 266
+Waiting Time: 291
+
+----- PID: 826 -----
+Turnaround Time: 7158
+Response Time: 6741
+Waiting Time: 6770
+
+----- PID: 47 -----
+Turnaround Time: 1090
+Response Time: 901
+Waiting Time: 1034
+
+----- PID: 170 -----
+Turnaround Time: 750
+Response Time: 546
+Waiting Time: 719
+
+----- PID: 1308 -----
+Turnaround Time: 7403
+Response Time: 6865
+Waiting Time: 6993
+
+----- PID: 920 -----
+Turnaround Time: 7833
+Response Time: 7196
+Waiting Time: 7325
+
+----- PID: 972 -----
+Turnaround Time: 7559
+Response Time: 6767
+Waiting Time: 7157
+
+----- PID: 364 -----
+Turnaround Time: 743
+Response Time: 591
+Waiting Time: 732
+
+----- PID: 684 -----
+Turnaround Time: 8002
+Response Time: 7036
+Waiting Time: 7526
+
+----- PID: 343 -----
+Turnaround Time: 1026
+Response Time: 992
+Waiting Time: 1006
+
+----- PID: 161 -----
+Turnaround Time: 1305
+Response Time: 1267
+Waiting Time: 1275
+
+----- PID: 702 -----
+Turnaround Time: 7917
+Response Time: 6723
+Waiting Time: 7495
+
+----- PID: 2 -----
+Turnaround Time: 1375
+Response Time: 1181
+Waiting Time: 1347
+
+----- PID: 144 -----
+Turnaround Time: 1133
+Response Time: 920
+Waiting Time: 1112
+
+----- PID: 396 -----
+Turnaround Time: 862
+Response Time: 835
+Waiting Time: 846
+
+----- PID: 319 -----
+Turnaround Time: 1499
+Response Time: 1459
+Waiting Time: 1467
+
+----- PID: 268 -----
+Turnaround Time: 911
+Response Time: 874
+Waiting Time: 892
+
+----- PID: 138 -----
+Turnaround Time: 1223
+Response Time: 1185
+Waiting Time: 1197
+
+----- PID: 259 -----
+Turnaround Time: 1515
+Response Time: 1474
+Waiting Time: 1482
+
+----- PID: 179 -----
+Turnaround Time: 1311
+Response Time: 1265
+Waiting Time: 1282
+
+----- PID: 331 -----
+Turnaround Time: 1568
+Response Time: 1518
+Waiting Time: 1530
+
+----- PID: 310 -----
+Turnaround Time: 1892
+Response Time: 1808
+Waiting Time: 1849
+
+----- PID: 73 -----
+Turnaround Time: 1859
+Response Time: 1736
+Waiting Time: 1816
+
+----- PID: 323 -----
+Turnaround Time: 1698
+Response Time: 1652
+Waiting Time: 1659
+
+----- PID: 349 -----
+Turnaround Time: 1478
+Response Time: 1443
+Waiting Time: 1443
+
+----- PID: 133 -----
+Turnaround Time: 2101
+Response Time: 2051
+Waiting Time: 2051
+
+----- PID: 216 -----
+Turnaround Time: 1541
+Response Time: 1483
+Waiting Time: 1504
+
+----- PID: 69 -----
+Turnaround Time: 2306
+Response Time: 2237
+Waiting Time: 2250
+
+----- PID: 168 -----
+Turnaround Time: 1894
+Response Time: 1811
+Waiting Time: 1850
+
+----- PID: 75 -----
+Turnaround Time: 1267
+Response Time: 1237
+Waiting Time: 1237
+
+----- PID: 1 -----
+Turnaround Time: 667
+Response Time: 632
+Waiting Time: 652
+
+----- PID: 3 -----
+Turnaround Time: 645
+Response Time: 598
+Waiting Time: 631
+
+----- PID: 740 -----
+Turnaround Time: 8295
+Response Time: 6437
+Waiting Time: 7869
+
+----- PID: 182 -----
+Turnaround Time: 2299
+Response Time: 2051
+Waiting Time: 2249
+
+----- PID: 59 -----
+Turnaround Time: 2023
+Response Time: 1740
+Waiting Time: 1980
+
+----- PID: 284 -----
+Turnaround Time: 2577
+Response Time: 2250
+Waiting Time: 2521
+
+----- PID: 370 -----
+Turnaround Time: 1973
+Response Time: 1930
+Waiting Time: 1930
+
+----- PID: 38 -----
+Turnaround Time: 2484
+Response Time: 2414
+Waiting Time: 2430
+
+----- PID: 271 -----
+Turnaround Time: 2111
+Response Time: 2031
+Waiting Time: 2067
+
+----- PID: 15 -----
+Turnaround Time: 2590
+Response Time: 2520
+Waiting Time: 2533
+
+----- PID: 220 -----
+Turnaround Time: 2421
+Response Time: 2342
+Waiting Time: 2368
+
+----- PID: 88 -----
+Turnaround Time: 922
+Response Time: 892
+Waiting Time: 901
+
+----- PID: 13 -----
+Turnaround Time: 829
+Response Time: 790
+Waiting Time: 812
+
+----- PID: 163 -----
+Turnaround Time: 1970
+Response Time: 1923
+Waiting Time: 1927
+
+----- PID: 113 -----
+Turnaround Time: 2641
+Response Time: 2549
+Waiting Time: 2582
+
+----- PID: 256 -----
+Turnaround Time: 2179
+Response Time: 2088
+Waiting Time: 2129
+
+----- PID: 251 -----
+Turnaround Time: 2551
+Response Time: 2492
+Waiting Time: 2492
+
+----- PID: 97 -----
+Turnaround Time: 782
+Response Time: 711
+Waiting Time: 767
+
+----- PID: 232 -----
+Turnaround Time: 827
+Response Time: 754
+Waiting Time: 810
+
+----- PID: 106 -----
+Turnaround Time: 1126
+Response Time: 1101
+Waiting Time: 1101
+
+----- PID: 346 -----
+Turnaround Time: 2395
+Response Time: 2340
+Waiting Time: 2340
+
+----- PID: 115 -----
+Turnaround Time: 755
+Response Time: 696
+Waiting Time: 739
+
+----- PID: 372 -----
+Turnaround Time: 2335
+Response Time: 2268
+Waiting Time: 2283
+
+----- PID: 29 -----
+Turnaround Time: 1830
+Response Time: 1774
+Waiting Time: 1790
+
+----- PID: 146 -----
+Turnaround Time: 2603
+Response Time: 2541
+Waiting Time: 2544
+
+----- PID: 348 -----
+Turnaround Time: 2263
+Response Time: 2193
+Waiting Time: 2212
+
+----- PID: 376 -----
+Turnaround Time: 2327
+Response Time: 2244
+Waiting Time: 2275
+
+----- PID: 245 -----
+Turnaround Time: 891
+Response Time: 860
+Waiting Time: 872
+
+----- PID: 175 -----
+Turnaround Time: 2389
+Response Time: 2324
+Waiting Time: 2335
+
+----- PID: 174 -----
+Turnaround Time: 2403
+Response Time: 2345
+Waiting Time: 2347
+
+----- PID: 374 -----
+Turnaround Time: 2500
+Response Time: 2404
+Waiting Time: 2442
+
+----- PID: 224 -----
+Turnaround Time: 1621
+Response Time: 1554
+Waiting Time: 1584
+
+----- PID: 44 -----
+Turnaround Time: 508
+Response Time: 439
+Waiting Time: 497
+
+----- PID: 200 -----
+Turnaround Time: 414
+Response Time: 404
+Waiting Time: 404
+
+----- PID: 48 -----
+Turnaround Time: 1911
+Response Time: 1853
+Waiting Time: 1863
+
+----- PID: 54 -----
+Turnaround Time: 1113
+Response Time: 1076
+Waiting Time: 1085
+
+----- PID: 32 -----
+Turnaround Time: 2195
+Response Time: 2132
+Waiting Time: 2140
+
+----- PID: 56 -----
+Turnaround Time: 1351
+Response Time: 1295
+Waiting Time: 1317
+
+----- PID: 76 -----
+Turnaround Time: 630
+Response Time: 604
+Waiting Time: 612
+
+----- PID: 222 -----
+Turnaround Time: 1307
+Response Time: 1266
+Waiting Time: 1271
+
+----- PID: 173 -----
+Turnaround Time: 1515
+Response Time: 1470
+Waiting Time: 1473
+
+----- PID: 99 -----
+Turnaround Time: 1462
+Response Time: 1416
+Waiting Time: 1417
+
+----- PID: 112 -----
+Turnaround Time: 619
+Response Time: 563
+Waiting Time: 603
+
+----- PID: 166 -----
+Turnaround Time: 2010
+Response Time: 1948
+Waiting Time: 1953
+
+----- PID: 215 -----
+Turnaround Time: 1424
+Response Time: 1376
+Waiting Time: 1381
+
+----- PID: 52 -----
+Turnaround Time: 1691
+Response Time: 1630
+Waiting Time: 1640
+
+----- PID: 181 -----
+Turnaround Time: 1654
+Response Time: 1567
+Waiting Time: 1596
+
+----- PID: 107 -----
+Turnaround Time: 1721
+Response Time: 1627
+Waiting Time: 1662
+
+----- PID: 64 -----
+Turnaround Time: 1375
+Response Time: 1274
+Waiting Time: 1326
+
+----- PID: 226 -----
+Turnaround Time: 1619
+Response Time: 1496
+Waiting Time: 1564
+
+----- PID: 194 -----
+Turnaround Time: 1711
+Response Time: 1566
+Waiting Time: 1652
+
+----- PID: 278 -----
+Turnaround Time: 542
+Response Time: 526
+Waiting Time: 526
+
+----- PID: 342 -----
+Turnaround Time: 315
+Response Time: 282
+Waiting Time: 305
+
+----- PID: 267 -----
+Turnaround Time: 740
+Response Time: 712
+Waiting Time: 713
+
+----- PID: 203 -----
+Turnaround Time: 1456
+Response Time: 1395
+Waiting Time: 1407
+
+----- PID: 30 -----
+Turnaround Time: 1177
+Response Time: 1103
+Waiting Time: 1138
+
+----- PID: 49 -----
+Turnaround Time: 1145
+Response Time: 1087
+Waiting Time: 1097
+
+----- PID: 254 -----
+Turnaround Time: 1467
+Response Time: 1368
+Waiting Time: 1417
+
+----- PID: 292 -----
+Turnaround Time: 657
+Response Time: 619
+Waiting Time: 632
+
+----- PID: 202 -----
+Turnaround Time: 939
+Response Time: 885
+Waiting Time: 904
+
+----- PID: 16 -----
+Turnaround Time: 1327
+Response Time: 1262
+Waiting Time: 1275
+
+----- PID: 234 -----
+Turnaround Time: 1187
+Response Time: 1135
+Waiting Time: 1135
+
+----- PID: 334 -----
+Turnaround Time: 600
+Response Time: 540
+Waiting Time: 579
+
+----- PID: 67 -----
+Turnaround Time: 1308
+Response Time: 1205
+Waiting Time: 1259
+
+----- PID: 340 -----
+Turnaround Time: 613
+Response Time: 582
+Waiting Time: 590
+
+----- PID: 262 -----
+Turnaround Time: 1033
+Response Time: 988
+Waiting Time: 991
+
+----- PID: 309 -----
+Turnaround Time: 727
+Response Time: 694
+Waiting Time: 699
+
+----- PID: 385 -----
+Turnaround Time: 400
+Response Time: 376
+Waiting Time: 385
+
+----- PID: 360 -----
+Turnaround Time: 593
+Response Time: 568
+Waiting Time: 569
+
+----- PID: 51 -----
+Turnaround Time: 1061
+Response Time: 1001
+Waiting Time: 1019
+
+----- PID: 270 -----
+Turnaround Time: 1007
+Response Time: 944
+Waiting Time: 967
+
+----- PID: 371 -----
+Turnaround Time: 632
+Response Time: 595
+Waiting Time: 608
+
+----- PID: 274 -----
+Turnaround Time: 995
+Response Time: 943
+Waiting Time: 956
+
+----- PID: 260 -----
+Turnaround Time: 1405
+Response Time: 1342
+Waiting Time: 1348
+
+----- PID: 399 -----
+Turnaround Time: 464
+Response Time: 387
+Waiting Time: 448
+
+----- PID: 394 -----
+Turnaround Time: 534
+Response Time: 506
+Waiting Time: 513
+
+----- PID: 318 -----
+Turnaround Time: 895
+Response Time: 855
+Waiting Time: 858
+
+----- PID: 23 -----
+Turnaround Time: 1363
+Response Time: 1305
+Waiting Time: 1310
+
+----- PID: 290 -----
+Turnaround Time: 1050
+Response Time: 994
+Waiting Time: 1006
+
+----- PID: 77 -----
+Turnaround Time: 1501
+Response Time: 1428
+Waiting Time: 1442
+
+----- PID: 198 -----
+Turnaround Time: 1388
+Response Time: 1291
+Waiting Time: 1335
+
+----- PID: 265 -----
+Turnaround Time: 1320
+Response Time: 1178
+Waiting Time: 1268
+
+----- PID: 369 -----
+Turnaround Time: 866
+Response Time: 831
+Waiting Time: 831
+
+----- PID: 353 -----
+Turnaround Time: 925
+Response Time: 886
+Waiting Time: 890
+
+----- PID: 380 -----
+Turnaround Time: 792
+Response Time: 738
+Waiting Time: 764
+
+----- PID: 408 -----
+Turnaround Time: 620
+Response Time: 550
+Waiting Time: 599
+
+----- PID: 420 -----
+Turnaround Time: 394
+Response Time: 375
+Waiting Time: 381
+
+----- PID: 430 -----
+Turnaround Time: 321
+Response Time: 300
+Waiting Time: 310
+
+----- PID: 412 -----
+Turnaround Time: 566
+Response Time: 543
+Waiting Time: 546
+
+----- PID: 405 -----
+Turnaround Time: 695
+Response Time: 661
+Waiting Time: 670
+
+----- PID: 409 -----
+Turnaround Time: 679
+Response Time: 648
+Waiting Time: 653
+
+----- PID: 400 -----
+Turnaround Time: 713
+Response Time: 682
+Waiting Time: 685
+
+----- PID: 416 -----
+Turnaround Time: 583
+Response Time: 545
+Waiting Time: 559
+
+----- PID: 332 -----
+Turnaround Time: 1146
+Response Time: 1089
+Waiting Time: 1102
+
+----- PID: 71 -----
+Turnaround Time: 1405
+Response Time: 1341
+Waiting Time: 1347
+
+----- PID: 365 -----
+Turnaround Time: 1028
+Response Time: 945
+Waiting Time: 990
+
+----- PID: 307 -----
+Turnaround Time: 1300
+Response Time: 1160
+Waiting Time: 1253
+
+----- PID: 293 -----
+Turnaround Time: 1337
+Response Time: 1192
+Waiting Time: 1289
+
+----- PID: 446 -----
+Turnaround Time: 326
+Response Time: 313
+Waiting Time: 315
+
+----- PID: 444 -----
+Turnaround Time: 373
+Response Time: 337
+Waiting Time: 361
+
+----- PID: 402 -----
+Turnaround Time: 885
+Response Time: 829
+Waiting Time: 851
+
+----- PID: 329 -----
+Turnaround Time: 1311
+Response Time: 1246
+Waiting Time: 1259
+
+----- PID: 454 -----
+Turnaround Time: 305
+Response Time: 267
+Waiting Time: 295
+
+----- PID: 413 -----
+Turnaround Time: 823
+Response Time: 777
+Waiting Time: 792
+
+----- PID: 398 -----
+Turnaround Time: 997
+Response Time: 949
+Waiting Time: 960
+
+----- PID: 289 -----
+Turnaround Time: 1536
+Response Time: 1469
+Waiting Time: 1477
+
+----- PID: 424 -----
+Turnaround Time: 701
+Response Time: 674
+Waiting Time: 674
+
+----- PID: 457 -----
+Turnaround Time: 341
+Response Time: 306
+Waiting Time: 330
+
+----- PID: 383 -----
+Turnaround Time: 1124
+Response Time: 1057
+Waiting Time: 1083
+
+----- PID: 423 -----
+Turnaround Time: 737
+Response Time: 690
+Waiting Time: 710
+
+----- PID: 1178 -----
+Turnaround Time: 10948
+Response Time: 10433
+Waiting Time: 10468
+
+----- PID: 1214 -----
+Turnaround Time: 11166
+Response Time: 10637
+Waiting Time: 10672
+
+----- PID: 918 -----
+Turnaround Time: 11196
+Response Time: 10628
+Waiting Time: 10700
+
+----- PID: 472 -----
+Turnaround Time: 444
+Response Time: 434
+Waiting Time: 434
+
+----- PID: 335 -----
+Turnaround Time: 1648
+Response Time: 1320
+Waiting Time: 1596
+
+----- PID: 458 -----
+Turnaround Time: 659
+Response Time: 631
+Waiting Time: 644
+
+----- PID: 466 -----
+Turnaround Time: 593
+Response Time: 563
+Waiting Time: 579
+
+----- PID: 433 -----
+Turnaround Time: 943
+Response Time: 907
+Waiting Time: 915
+
+----- PID: 449 -----
+Turnaround Time: 789
+Response Time: 735
+Waiting Time: 769
+
+----- PID: 448 -----
+Turnaround Time: 876
+Response Time: 838
+Waiting Time: 850
+
+----- PID: 418 -----
+Turnaround Time: 1222
+Response Time: 1167
+Waiting Time: 1186
+
+----- PID: 366 -----
+Turnaround Time: 1689
+Response Time: 1626
+Waiting Time: 1637
+
+----- PID: 488 -----
+Turnaround Time: 435
+Response Time: 405
+Waiting Time: 424
+
+----- PID: 438 -----
+Turnaround Time: 1006
+Response Time: 969
+Waiting Time: 977
+
+----- PID: 367 -----
+Turnaround Time: 1773
+Response Time: 1688
+Waiting Time: 1721
+
+----- PID: 384 -----
+Turnaround Time: 1622
+Response Time: 1533
+Waiting Time: 1574
+
+----- PID: 493 -----
+Turnaround Time: 331
+Response Time: 321
+Waiting Time: 321
+
+----- PID: 451 -----
+Turnaround Time: 943
+Response Time: 905
+Waiting Time: 917
+
+----- PID: 377 -----
+Turnaround Time: 1775
+Response Time: 1716
+Waiting Time: 1723
+
+----- PID: 439 -----
+Turnaround Time: 1111
+Response Time: 1057
+Waiting Time: 1078
+
+----- PID: 425 -----
+Turnaround Time: 1287
+Response Time: 1247
+Waiting Time: 1247
+
+----- PID: 473 -----
+Turnaround Time: 787
+Response Time: 755
+Waiting Time: 762
+
+----- PID: 435 -----
+Turnaround Time: 1212
+Response Time: 1167
+Waiting Time: 1175
+
+----- PID: 417 -----
+Turnaround Time: 1440
+Response Time: 1394
+Waiting Time: 1395
+
+----- PID: 485 -----
+Turnaround Time: 647
+Response Time: 627
+Waiting Time: 627
+
+----- PID: 486 -----
+Turnaround Time: 666
+Response Time: 646
+Waiting Time: 646
+
+----- PID: 470 -----
+Turnaround Time: 939
+Response Time: 910
+Waiting Time: 910
+
+----- PID: 482 -----
+Turnaround Time: 759
+Response Time: 721
+Waiting Time: 737
+
+----- PID: 464 -----
+Turnaround Time: 997
+Response Time: 937
+Waiting Time: 967
+
+----- PID: 437 -----
+Turnaround Time: 1342
+Response Time: 1302
+Waiting Time: 1302
+
+----- PID: 487 -----
+Turnaround Time: 779
+Response Time: 757
+Waiting Time: 757
+
+----- PID: 497 -----
+Turnaround Time: 555
+Response Time: 540
+Waiting Time: 540
+
+----- PID: 432 -----
+Turnaround Time: 1455
+Response Time: 1413
+Waiting Time: 1413
+
+----- PID: 459 -----
+Turnaround Time: 1174
+Response Time: 1128
+Waiting Time: 1140
+
+----- PID: 478 -----
+Turnaround Time: 921
+Response Time: 869
+Waiting Time: 895
+
+----- PID: 427 -----
+Turnaround Time: 1543
+Response Time: 1453
+Waiting Time: 1500
+
+----- PID: 476 -----
+Turnaround Time: 1048
+Response Time: 1019
+Waiting Time: 1019
+
+----- PID: 461 -----
+Turnaround Time: 1231
+Response Time: 1181
+Waiting Time: 1198
+
+----- PID: 411 -----
+Turnaround Time: 1920
+Response Time: 1867
+Waiting Time: 1867
+
+----- PID: 507 -----
+Turnaround Time: 590
+Response Time: 538
+Waiting Time: 575
+
+----- PID: 426 -----
+Turnaround Time: 1691
+Response Time: 1634
+Waiting Time: 1644
+
+----- PID: 479 -----
+Turnaround Time: 1098
+Response Time: 1057
+Waiting Time: 1069
+
+----- PID: 477 -----
+Turnaround Time: 1156
+Response Time: 1109
+Waiting Time: 1125
+
+----- PID: 526 -----
+Turnaround Time: 357
+Response Time: 347
+Waiting Time: 347
+
+----- PID: 509 -----
+Turnaround Time: 650
+Response Time: 625
+Waiting Time: 632
+
+----- PID: 516 -----
+Turnaround Time: 501
+Response Time: 476
+Waiting Time: 487
+
+----- PID: 462 -----
+Turnaround Time: 1385
+Response Time: 1339
+Waiting Time: 1348
+
+----- PID: 460 -----
+Turnaround Time: 1396
+Response Time: 1343
+Waiting Time: 1359
+
+----- PID: 502 -----
+Turnaround Time: 811
+Response Time: 763
+Waiting Time: 789
+
+----- PID: 453 -----
+Turnaround Time: 1539
+Response Time: 1487
+Waiting Time: 1490
+
+----- PID: 445 -----
+Turnaround Time: 1672
+Response Time: 1616
+Waiting Time: 1617
+
+----- PID: 463 -----
+Turnaround Time: 1455
+Response Time: 1386
+Waiting Time: 1408
+
+----- PID: 419 -----
+Turnaround Time: 1958
+Response Time: 1863
+Waiting Time: 1901
+
+----- PID: 522 -----
+Turnaround Time: 584
+Response Time: 568
+Waiting Time: 568
+
+----- PID: 530 -----
+Turnaround Time: 420
+Response Time: 408
+Waiting Time: 408
+
+----- PID: 499 -----
+Turnaround Time: 959
+Response Time: 923
+Waiting Time: 929
+
+----- PID: 517 -----
+Turnaround Time: 700
+Response Time: 677
+Waiting Time: 677
+
+----- PID: 471 -----
+Turnaround Time: 1469
+Response Time: 1409
+Waiting Time: 1419
+
+----- PID: 496 -----
+Turnaround Time: 1085
+Response Time: 1048
+Waiting Time: 1049
+
+----- PID: 456 -----
+Turnaround Time: 1676
+Response Time: 1617
+Waiting Time: 1618
+
+----- PID: 474 -----
+Turnaround Time: 1472
+Response Time: 1405
+Waiting Time: 1419
+
+----- PID: 501 -----
+Turnaround Time: 1009
+Response Time: 971
+Waiting Time: 972
+
+----- PID: 523 -----
+Turnaround Time: 696
+Response Time: 649
+Waiting Time: 672
+
+----- PID: 547 -----
+Turnaround Time: 257
+Response Time: 247
+Waiting Time: 247
+
+----- PID: 524 -----
+Turnaround Time: 702
+Response Time: 677
+Waiting Time: 677
+
+----- PID: 504 -----
+Turnaround Time: 1053
+Response Time: 1001
+Waiting Time: 1016
+
+----- PID: 512 -----
+Turnaround Time: 893
+Response Time: 835
+Waiting Time: 861
+
+----- PID: 542 -----
+Turnaround Time: 356
+Response Time: 344
+Waiting Time: 344
+
+----- PID: 514 -----
+Turnaround Time: 941
+Response Time: 888
+Waiting Time: 906
+
+----- PID: 510 -----
+Turnaround Time: 1017
+Response Time: 966
+Waiting Time: 972
+
+----- PID: 483 -----
+Turnaround Time: 1512
+Response Time: 1450
+Waiting Time: 1453
+
+----- PID: 498 -----
+Turnaround Time: 1239
+Response Time: 1159
+Waiting Time: 1189
+
+----- PID: 508 -----
+Turnaround Time: 1123
+Response Time: 1003
+Waiting Time: 1081
+
+----- PID: 527 -----
+Turnaround Time: 847
+Response Time: 809
+Waiting Time: 814
+
+----- PID: 540 -----
+Turnaround Time: 539
+Response Time: 498
+Waiting Time: 519
+
+----- PID: 531 -----
+Turnaround Time: 747
+Response Time: 698
+Waiting Time: 719
+
+----- PID: 529 -----
+Turnaround Time: 826
+Response Time: 795
+Waiting Time: 795
+
+----- PID: 511 -----
+Turnaround Time: 1173
+Response Time: 1123
+Waiting Time: 1127
+
+----- PID: 536 -----
+Turnaround Time: 712
+Response Time: 673
+Waiting Time: 685
+
+----- PID: 519 -----
+Turnaround Time: 1058
+Response Time: 1001
+Waiting Time: 1017
+
+----- PID: 513 -----
+Turnaround Time: 1197
+Response Time: 1131
+Waiting Time: 1151
+
+----- PID: 518 -----
+Turnaround Time: 1157
+Response Time: 1079
+Waiting Time: 1112
+
+----- PID: 506 -----
+Turnaround Time: 1395
+Response Time: 1311
+Waiting Time: 1337
+
+----- PID: 565 -----
+Turnaround Time: 412
+Response Time: 398
+Waiting Time: 398
+
+----- PID: 569 -----
+Turnaround Time: 378
+Response Time: 353
+Waiting Time: 366
+
+----- PID: 539 -----
+Turnaround Time: 816
+Response Time: 774
+Waiting Time: 786
+
+----- PID: 525 -----
+Turnaround Time: 1156
+Response Time: 1097
+Waiting Time: 1113
+
+----- PID: 515 -----
+Turnaround Time: 1326
+Response Time: 1263
+Waiting Time: 1275
+
+----- PID: 545 -----
+Turnaround Time: 828
+Response Time: 774
+Waiting Time: 798
+
+----- PID: 535 -----
+Turnaround Time: 981
+Response Time: 920
+Waiting Time: 943
+
+----- PID: 548 -----
+Turnaround Time: 810
+Response Time: 780
+Waiting Time: 780
+
+----- PID: 566 -----
+Turnaround Time: 590
+Response Time: 558
+Waiting Time: 569
+
+----- PID: 550 -----
+Turnaround Time: 801
+Response Time: 751
+Waiting Time: 772
+
+----- PID: 567 -----
+Turnaround Time: 593
+Response Time: 566
+Waiting Time: 571
+
+----- PID: 533 -----
+Turnaround Time: 1169
+Response Time: 1121
+Waiting Time: 1124
+
+----- PID: 560 -----
+Turnaround Time: 704
+Response Time: 655
+Waiting Time: 677
+
+----- PID: 520 -----
+Turnaround Time: 1407
+Response Time: 1335
+Waiting Time: 1355
+
+----- PID: 586 -----
+Turnaround Time: 273
+Response Time: 263
+Waiting Time: 263
+
+----- PID: 572 -----
+Turnaround Time: 579
+Response Time: 554
+Waiting Time: 557
+
+----- PID: 582 -----
+Turnaround Time: 432
+Response Time: 415
+Waiting Time: 415
+
+----- PID: 534 -----
+Turnaround Time: 1224
+Response Time: 1171
+Waiting Time: 1177
+
+----- PID: 528 -----
+Turnaround Time: 1346
+Response Time: 1290
+Waiting Time: 1293
+
+----- PID: 555 -----
+Turnaround Time: 872
+Response Time: 827
+Waiting Time: 838
+
+----- PID: 559 -----
+Turnaround Time: 844
+Response Time: 790
+Waiting Time: 811
+
+----- PID: 585 -----
+Turnaround Time: 415
+Response Time: 333
+Waiting Time: 401
+
+----- PID: 553 -----
+Turnaround Time: 983
+Response Time: 936
+Waiting Time: 944
+
+----- PID: 588 -----
+Turnaround Time: 382
+Response Time: 355
+Waiting Time: 367
+
+----- PID: 551 -----
+Turnaround Time: 1038
+Response Time: 997
+Waiting Time: 997
+
+----- PID: 575 -----
+Turnaround Time: 679
+Response Time: 642
+Waiting Time: 650
+
+----- PID: 537 -----
+Turnaround Time: 1244
+Response Time: 1182
+Waiting Time: 1193
+
+----- PID: 538 -----
+Turnaround Time: 1259
+Response Time: 1189
+Waiting Time: 1208
+
+----- PID: 532 -----
+Turnaround Time: 1430
+Response Time: 1323
+Waiting Time: 1373
+
+----- PID: 546 -----
+Turnaround Time: 1236
+Response Time: 1184
+Waiting Time: 1186
+
+----- PID: 589 -----
+Turnaround Time: 481
+Response Time: 425
+Waiting Time: 464
+
+----- PID: 587 -----
+Turnaround Time: 541
+Response Time: 486
+Waiting Time: 520
+
+----- PID: 577 -----
+Turnaround Time: 766
+Response Time: 698
+Waiting Time: 737
+
+----- PID: 592 -----
+Turnaround Time: 449
+Response Time: 433
+Waiting Time: 433
+
+----- PID: 580 -----
+Turnaround Time: 770
+Response Time: 725
+Waiting Time: 742
+
+----- PID: 597 -----
+Turnaround Time: 422
+Response Time: 387
+Waiting Time: 407
+
+----- PID: 571 -----
+Turnaround Time: 943
+Response Time: 906
+Waiting Time: 906
+
+----- PID: 576 -----
+Turnaround Time: 850
+Response Time: 801
+Waiting Time: 818
+
+----- PID: 549 -----
+Turnaround Time: 1284
+Response Time: 1224
+Waiting Time: 1232
+
+----- PID: 601 -----
+Turnaround Time: 436
+Response Time: 397
+Waiting Time: 421
+
+----- PID: 543 -----
+Turnaround Time: 1454
+Response Time: 1372
+Waiting Time: 1397
+
+----- PID: 541 -----
+Turnaround Time: 1485
+Response Time: 1397
+Waiting Time: 1427
+
+----- PID: 552 -----
+Turnaround Time: 1347
+Response Time: 1251
+Waiting Time: 1295
+
+----- PID: 604 -----
+Turnaround Time: 448
+Response Time: 433
+Waiting Time: 433
+
+----- PID: 610 -----
+Turnaround Time: 366
+Response Time: 348
+Waiting Time: 354
+
+----- PID: 583 -----
+Turnaround Time: 873
+Response Time: 832
+Waiting Time: 842
+
+----- PID: 579 -----
+Turnaround Time: 982
+Response Time: 930
+Waiting Time: 947
+
+----- PID: 561 -----
+Turnaround Time: 1320
+Response Time: 1272
+Waiting Time: 1272
+
+----- PID: 608 -----
+Turnaround Time: 490
+Response Time: 430
+Waiting Time: 475
+
+----- PID: 605 -----
+Turnaround Time: 560
+Response Time: 542
+Waiting Time: 542
+
+----- PID: 620 -----
+Turnaround Time: 343
+Response Time: 324
+Waiting Time: 331
+
+----- PID: 600 -----
+Turnaround Time: 651
+Response Time: 627
+Waiting Time: 627
+
+----- PID: 564 -----
+Turnaround Time: 1385
+Response Time: 1334
+Waiting Time: 1334
+
+----- PID: 584 -----
+Turnaround Time: 985
+Response Time: 912
+Waiting Time: 950
+
+----- PID: 596 -----
+Turnaround Time: 777
+Response Time: 723
+Waiting Time: 749
+
+----- PID: 563 -----
+Turnaround Time: 1412
+Response Time: 1342
+Waiting Time: 1361
+
+----- PID: 554 -----
+Turnaround Time: 1529
+Response Time: 1462
+Waiting Time: 1471
+
+----- PID: 558 -----
+Turnaround Time: 1485
+Response Time: 1400
+Waiting Time: 1431
+
+----- PID: 578 -----
+Turnaround Time: 1241
+Response Time: 1184
+Waiting Time: 1197
+
+----- PID: 573 -----
+Turnaround Time: 1347
+Response Time: 1292
+Waiting Time: 1299
+
+----- PID: 615 -----
+Turnaround Time: 599
+Response Time: 576
+Waiting Time: 578
+
+----- PID: 556 -----
+Turnaround Time: 1576
+Response Time: 1512
+Waiting Time: 1519
+
+----- PID: 598 -----
+Turnaround Time: 878
+Response Time: 847
+Waiting Time: 847
+
+----- PID: 607 -----
+Turnaround Time: 761
+Response Time: 713
+Waiting Time: 736
+
+----- PID: 637 -----
+Turnaround Time: 336
+Response Time: 318
+Waiting Time: 325
+
+----- PID: 628 -----
+Turnaround Time: 515
+Response Time: 471
+Waiting Time: 498
+
+----- PID: 581 -----
+Turnaround Time: 1324
+Response Time: 1261
+Waiting Time: 1278
+
+----- PID: 591 -----
+Turnaround Time: 1071
+Response Time: 1016
+Waiting Time: 1034
+
+----- PID: 568 -----
+Turnaround Time: 1576
+Response Time: 1516
+Waiting Time: 1517
+
+----- PID: 632 -----
+Turnaround Time: 473
+Response Time: 448
+Waiting Time: 458
+
+----- PID: 619 -----
+Turnaround Time: 677
+Response Time: 651
+Waiting Time: 654
+
+----- PID: 622 -----
+Turnaround Time: 651
+Response Time: 622
+Waiting Time: 629
+
+----- PID: 616 -----
+Turnaround Time: 767
+Response Time: 735
+Waiting Time: 740
+
+----- PID: 624 -----
+Turnaround Time: 641
+Response Time: 616
+Waiting Time: 618
+
+----- PID: 625 -----
+Turnaround Time: 643
+Response Time: 612
+Waiting Time: 619
+
+----- PID: 621 -----
+Turnaround Time: 713
+Response Time: 682
+Waiting Time: 686
+
+----- PID: 570 -----
+Turnaround Time: 1616
+Response Time: 1556
+Waiting Time: 1559
+
+----- PID: 644 -----
+Turnaround Time: 404
+Response Time: 381
+Waiting Time: 387
+
+----- PID: 652 -----
+Turnaround Time: 262
+Response Time: 237
+Waiting Time: 252
+
+----- PID: 643 -----
+Turnaround Time: 414
+Response Time: 382
+Waiting Time: 400
+
+----- PID: 645 -----
+Turnaround Time: 369
+Response Time: 330
+Waiting Time: 357
+
+----- PID: 611 -----
+Turnaround Time: 926
+Response Time: 864
+Waiting Time: 892
+
+----- PID: 593 -----
+Turnaround Time: 1169
+Response Time: 1107
+Waiting Time: 1120
+
+----- PID: 590 -----
+Turnaround Time: 1288
+Response Time: 1182
+Waiting Time: 1242
+
+----- PID: 648 -----
+Turnaround Time: 433
+Response Time: 418
+Waiting Time: 418
+
+----- PID: 650 -----
+Turnaround Time: 451
+Response Time: 434
+Waiting Time: 434
+
+----- PID: 599 -----
+Turnaround Time: 1205
+Response Time: 1157
+Waiting Time: 1157
+
+----- PID: 649 -----
+Turnaround Time: 475
+Response Time: 451
+Waiting Time: 455
+
+----- PID: 602 -----
+Turnaround Time: 1215
+Response Time: 1156
+Waiting Time: 1162
+
+----- PID: 623 -----
+Turnaround Time: 897
+Response Time: 853
+Waiting Time: 859
+
+----- PID: 656 -----
+Turnaround Time: 405
+Response Time: 362
+Waiting Time: 389
+
+----- PID: 595 -----
+Turnaround Time: 1354
+Response Time: 1271
+Waiting Time: 1296
+
+----- PID: 603 -----
+Turnaround Time: 1212
+Response Time: 1157
+Waiting Time: 1160
+
+----- PID: 642 -----
+Turnaround Time: 679
+Response Time: 650
+Waiting Time: 650
+
+----- PID: 654 -----
+Turnaround Time: 511
+Response Time: 467
+Waiting Time: 492
+
+----- PID: 663 -----
+Turnaround Time: 367
+Response Time: 353
+Waiting Time: 353
+
+----- PID: 612 -----
+Turnaround Time: 1208
+Response Time: 1157
+Waiting Time: 1157
+
+----- PID: 613 -----
+Turnaround Time: 1203
+Response Time: 1152
+Waiting Time: 1152
+
+----- PID: 606 -----
+Turnaround Time: 1297
+Response Time: 1239
+Waiting Time: 1239
+
+----- PID: 638 -----
+Turnaround Time: 836
+Response Time: 767
+Waiting Time: 803
+
+----- PID: 639 -----
+Turnaround Time: 841
+Response Time: 788
+Waiting Time: 807
+
+----- PID: 630 -----
+Turnaround Time: 1013
+Response Time: 959
+Waiting Time: 970
+
+----- PID: 661 -----
+Turnaround Time: 542
+Response Time: 512
+Waiting Time: 521
+
+----- PID: 660 -----
+Turnaround Time: 550
+Response Time: 518
+Waiting Time: 528
+
+----- PID: 633 -----
+Turnaround Time: 1019
+Response Time: 978
+Waiting Time: 978
+
+----- PID: 617 -----
+Turnaround Time: 1280
+Response Time: 1220
+Waiting Time: 1226
+
+----- PID: 614 -----
+Turnaround Time: 1389
+Response Time: 1289
+Waiting Time: 1334
+
+----- PID: 676 -----
+Turnaround Time: 540
+Response Time: 460
+Waiting Time: 520
+
+----- PID: 634 -----
+Turnaround Time: 1111
+Response Time: 993
+Waiting Time: 1067
+
+----- PID: 653 -----
+Turnaround Time: 859
+Response Time: 824
+Waiting Time: 824
+
+----- PID: 658 -----
+Turnaround Time: 787
+Response Time: 747
+Waiting Time: 758
+
+----- PID: 646 -----
+Turnaround Time: 982
+Response Time: 939
+Waiting Time: 940
+
+----- PID: 647 -----
+Turnaround Time: 988
+Response Time: 931
+Waiting Time: 950
+
+----- PID: 631 -----
+Turnaround Time: 1199
+Response Time: 1144
+Waiting Time: 1150
+
+----- PID: 626 -----
+Turnaround Time: 1344
+Response Time: 1243
+Waiting Time: 1292
+
+----- PID: 636 -----
+Turnaround Time: 1301
+Response Time: 1245
+Waiting Time: 1245
+
+----- PID: 688 -----
+Turnaround Time: 561
+Response Time: 468
+Waiting Time: 541
+
+----- PID: 640 -----
+Turnaround Time: 1213
+Response Time: 1113
+Waiting Time: 1163
+
+----- PID: 659 -----
+Turnaround Time: 932
+Response Time: 851
+Waiting Time: 894
+
+----- PID: 655 -----
+Turnaround Time: 1068
+Response Time: 949
+Waiting Time: 1025
+
+----- PID: 664 -----
+Turnaround Time: 953
+Response Time: 916
+Waiting Time: 916
+
+----- PID: 666 -----
+Turnaround Time: 944
+Response Time: 883
+Waiting Time: 905
+
+----- PID: 657 -----
+Turnaround Time: 1106
+Response Time: 1057
+Waiting Time: 1057
+
+----- PID: 662 -----
+Turnaround Time: 1056
+Response Time: 1005
+Waiting Time: 1005
+
+----- PID: 699 -----
+Turnaround Time: 624
+Response Time: 562
+Waiting Time: 577
+
+----- PID: 665 -----
+Turnaround Time: 1041
+Response Time: 976
+Waiting Time: 984
+
+----- PID: 703 -----
+Turnaround Time: 606
+Response Time: 505
+Waiting Time: 522
+
+----- PID: 692 -----
+Turnaround Time: 790
+Response Time: 674
+Waiting Time: 705
+
+----- PID: 667 -----
+Turnaround Time: 1106
+Response Time: 941
+Waiting Time: 956
+
+----- PID: 680 -----
+Turnaround Time: 1079
+Response Time: 868
+Waiting Time: 888
+
+----- PID: 668 -----
+Turnaround Time: 1164
+Response Time: 937
+Waiting Time: 950
+
+----- PID: 682 -----
+Turnaround Time: 1082
+Response Time: 819
+Waiting Time: 841
+
+----- PID: 679 -----
+Turnaround Time: 1149
+Response Time: 874
+Waiting Time: 897
+
+----- PID: 678 -----
+Turnaround Time: 1196
+Response Time: 903
+Waiting Time: 919
+
+----- PID: 701 -----
+Turnaround Time: 895
+Response Time: 562
+Waiting Time: 753
+
+----- PID: 693 -----
+Turnaround Time: 1017
+Response Time: 649
+Waiting Time: 813
+
+----- PID: 681 -----
+Turnaround Time: 1262
+Response Time: 830
+Waiting Time: 1038
+
+----- PID: 714 -----
+Turnaround Time: 843
+Response Time: 380
+Waiting Time: 735
+
+----- PID: 712 -----
+Turnaround Time: 896
+Response Time: 398
+Waiting Time: 733
+
+----- PID: 698 -----
+Turnaround Time: 1141
+Response Time: 581
+Waiting Time: 969
+
+----- PID: 697 -----
+Turnaround Time: 1203
+Response Time: 589
+Waiting Time: 1001
+
+----- PID: 677 -----
+Turnaround Time: 1611
+Response Time: 900
+Waiting Time: 1426
+
+----- PID: 685 -----
+Turnaround Time: 1546
+Response Time: 786
+Waiting Time: 1146
+
+----- PID: 690 -----
+Turnaround Time: 1551
+Response Time: 706
+Waiting Time: 1225
+
+----- PID: 704 -----
+Turnaround Time: 361
+Response Time: 269
+Waiting Time: 344
+
+----- PID: 683 -----
+Turnaround Time: 1749
+Response Time: 785
+Waiting Time: 1453
+
+----- PID: 669 -----
+Turnaround Time: 2025
+Response Time: 945
+Waiting Time: 1669
+
+----- PID: 710 -----
+Turnaround Time: 1671
+Response Time: 489
+Waiting Time: 1452
+
+----- PID: 751 -----
+Turnaround Time: 939
+Response Time: 809
+Waiting Time: 884
+
+----- PID: 670 -----
+Turnaround Time: 2312
+Response Time: 927
+Waiting Time: 1812
+
+----- PID: 753 -----
+Turnaround Time: 855
+Response Time: 653
+Waiting Time: 815
+
+----- PID: 748 -----
+Turnaround Time: 1216
+Response Time: 993
+Waiting Time: 1123
+
+----- PID: 755 -----
+Turnaround Time: 753
+Response Time: 509
+Waiting Time: 709
+
+----- PID: 675 -----
+Turnaround Time: 2618
+Response Time: 924
+Waiting Time: 2123
+
+----- PID: 723 -----
+Turnaround Time: 1986
+Response Time: 1732
+Waiting Time: 1814
+
+----- PID: 747 -----
+Turnaround Time: 1576
+Response Time: 1307
+Waiting Time: 1434
+
+----- PID: 726 -----
+Turnaround Time: 1901
+Response Time: 1601
+Waiting Time: 1729
+
+----- PID: 724 -----
+Turnaround Time: 2025
+Response Time: 1690
+Waiting Time: 1860
+
+----- PID: 730 -----
+Turnaround Time: 1946
+Response Time: 1573
+Waiting Time: 1805
+
+----- PID: 738 -----
+Turnaround Time: 1871
+Response Time: 1449
+Waiting Time: 1744
+
+----- PID: 762 -----
+Turnaround Time: 458
+Response Time: 441
+Waiting Time: 441
+
+----- PID: 750 -----
+Turnaround Time: 1325
+Response Time: 1115
+Waiting Time: 1200
+
+----- PID: 735 -----
+Turnaround Time: 2168
+Response Time: 1926
+Waiting Time: 1948
+
+----- PID: 754 -----
+Turnaround Time: 1535
+Response Time: 1263
+Waiting Time: 1420
+
+----- PID: 746 -----
+Turnaround Time: 2088
+Response Time: 1774
+Waiting Time: 1927
+
+----- PID: 695 -----
+Turnaround Time: 2006
+Response Time: 1698
+Waiting Time: 1738
+
+----- PID: 745 -----
+Turnaround Time: 1784
+Response Time: 1416
+Waiting Time: 1669
+
+----- PID: 721 -----
+Turnaround Time: 2577
+Response Time: 2190
+Waiting Time: 2220
+
+----- PID: 719 -----
+Turnaround Time: 2589
+Response Time: 2202
+Waiting Time: 2222
+
+----- PID: 687 -----
+Turnaround Time: 3038
+Response Time: 2626
+Waiting Time: 2639
+
+----- PID: 717 -----
+Turnaround Time: 2711
+Response Time: 2229
+Waiting Time: 2409
+
+----- PID: 756 -----
+Turnaround Time: 1565
+Response Time: 1028
+Waiting Time: 1455
+
+----- PID: 722 -----
+Turnaround Time: 2763
+Response Time: 2158
+Waiting Time: 2536
+
+----- PID: 757 -----
+Turnaround Time: 1672
+Response Time: 1019
+Waiting Time: 1575
+
+----- PID: 715 -----
+Turnaround Time: 2993
+Response Time: 2258
+Waiting Time: 2740
+
+----- PID: 686 -----
+Turnaround Time: 3497
+Response Time: 2671
+Waiting Time: 3088
+
+----- PID: 674 -----
+Turnaround Time: 2474
+Response Time: 1567
+Waiting Time: 2271
+
+----- PID: 764 -----
+Turnaround Time: 1096
+Response Time: 1011
+Waiting Time: 1064
+
+----- PID: 744 -----
+Turnaround Time: 2801
+Response Time: 1814
+Waiting Time: 2505
+
+----- PID: 739 -----
+Turnaround Time: 2942
+Response Time: 1866
+Waiting Time: 2645
+
+----- PID: 741 -----
+Turnaround Time: 3028
+Response Time: 1839
+Waiting Time: 2810
+
+----- PID: 707 -----
+Turnaround Time: 3706
+Response Time: 2406
+Waiting Time: 3412
+
+----- PID: 729 -----
+Turnaround Time: 3435
+Response Time: 2032
+Waiting Time: 3132
+
+----- PID: 743 -----
+Turnaround Time: 3376
+Response Time: 1846
+Waiting Time: 3116
+
+----- PID: 696 -----
+Turnaround Time: 4206
+Response Time: 2526
+Waiting Time: 3857
+
+----- PID: 766 -----
+Turnaround Time: 2095
+Response Time: 1818
+Waiting Time: 2016
+
+----- PID: 742 -----
+Turnaround Time: 971
+Response Time: 688
+Waiting Time: 937
+
+----- PID: 731 -----
+Turnaround Time: 3526
+Response Time: 3211
+Waiting Time: 3242
+
+----- PID: 777 -----
+Turnaround Time: 1672
+Response Time: 1336
+Waiting Time: 1543
+
+----- PID: 783 -----
+Turnaround Time: 1519
+Response Time: 1156
+Waiting Time: 1474
+
+----- PID: 772 -----
+Turnaround Time: 2071
+Response Time: 1683
+Waiting Time: 2000
+
+----- PID: 771 -----
+Turnaround Time: 2115
+Response Time: 1702
+Waiting Time: 2026
+
+----- PID: 767 -----
+Turnaround Time: 2250
+Response Time: 1787
+Waiting Time: 2133
+
+----- PID: 711 -----
+Turnaround Time: 4493
+Response Time: 4028
+Waiting Time: 4031
+
+----- PID: 694 -----
+Turnaround Time: 4729
+Response Time: 4229
+Waiting Time: 4255
+
+----- PID: 786 -----
+Turnaround Time: 1505
+Response Time: 963
+Waiting Time: 1413
+
+----- PID: 736 -----
+Turnaround Time: 4138
+Response Time: 3611
+Waiting Time: 3645
+
+----- PID: 725 -----
+Turnaround Time: 4374
+Response Time: 3735
+Waiting Time: 3901
+
+----- PID: 720 -----
+Turnaround Time: 4662
+Response Time: 3880
+Waiting Time: 4241
+
+----- PID: 749 -----
+Turnaround Time: 4231
+Response Time: 3335
+Waiting Time: 3802
+
+----- PID: 689 -----
+Turnaround Time: 3395
+Response Time: 2395
+Waiting Time: 3142
+
+----- PID: 763 -----
+Turnaround Time: 3227
+Response Time: 2136
+Waiting Time: 2961
+
+----- PID: 713 -----
+Turnaround Time: 3831
+Response Time: 2624
+Waiting Time: 3526
+
+----- PID: 759 -----
+Turnaround Time: 3699
+Response Time: 2378
+Waiting Time: 3426
+
+----- PID: 734 -----
+Turnaround Time: 5141
+Response Time: 3672
+Waiting Time: 4661
+
+----- PID: 708 -----
+Turnaround Time: 5721
+Response Time: 4075
+Waiting Time: 5232
+
+----- PID: 691 -----
+Turnaround Time: 6119
+Response Time: 4277
+Waiting Time: 5618
+
+----- PID: 791 -----
+Turnaround Time: 1575
+Response Time: 1378
+Waiting Time: 1535
+
+----- PID: 671 -----
+Turnaround Time: 2553
+Response Time: 2457
+Waiting Time: 2457
+
+----- PID: 799 -----
+Turnaround Time: 1550
+Response Time: 1444
+Waiting Time: 1460
+
+----- PID: 776 -----
+Turnaround Time: 3446
+Response Time: 3228
+Waiting Time: 3228
+
+----- PID: 789 -----
+Turnaround Time: 2470
+Response Time: 2247
+Waiting Time: 2307
+
+----- PID: 792 -----
+Turnaround Time: 1305
+Response Time: 1099
+Waiting Time: 1136
+
+----- PID: 774 -----
+Turnaround Time: 3563
+Response Time: 3312
+Waiting Time: 3322
+
+----- PID: 672 -----
+Turnaround Time: 2971
+Response Time: 2723
+Waiting Time: 2727
+
+----- PID: 803 -----
+Turnaround Time: 1623
+Response Time: 1383
+Waiting Time: 1389
+
+----- PID: 773 -----
+Turnaround Time: 3628
+Response Time: 3347
+Waiting Time: 3349
+
+----- PID: 718 -----
+Turnaround Time: 2943
+Response Time: 2633
+Waiting Time: 2736
+
+----- PID: 798 -----
+Turnaround Time: 1804
+Response Time: 1497
+Waiting Time: 1610
+
+----- PID: 804 -----
+Turnaround Time: 1545
+Response Time: 1239
+Waiting Time: 1252
+
+----- PID: 807 -----
+Turnaround Time: 988
+Response Time: 679
+Waiting Time: 717
+
+----- PID: 780 -----
+Turnaround Time: 3520
+Response Time: 3161
+Waiting Time: 3165
+
+----- PID: 760 -----
+Turnaround Time: 4420
+Response Time: 4049
+Waiting Time: 4073
+
+----- PID: 706 -----
+Turnaround Time: 3045
+Response Time: 2635
+Waiting Time: 2883
+
+----- PID: 765 -----
+Turnaround Time: 4155
+Response Time: 3723
+Waiting Time: 3776
+
+----- PID: 727 -----
+Turnaround Time: 3436
+Response Time: 2976
+Waiting Time: 2990
+
+----- PID: 782 -----
+Turnaround Time: 3601
+Response Time: 3067
+Waiting Time: 3329
+
+----- PID: 801 -----
+Turnaround Time: 1854
+Response Time: 1348
+Waiting Time: 1396
+
+----- PID: 768 -----
+Turnaround Time: 2948
+Response Time: 2384
+Waiting Time: 2629
+
+----- PID: 700 -----
+Turnaround Time: 5685
+Response Time: 5025
+Waiting Time: 5179
+
+----- PID: 808 -----
+Turnaround Time: 1221
+Response Time: 568
+Waiting Time: 945
+
+----- PID: 778 -----
+Turnaround Time: 2315
+Response Time: 1616
+Waiting Time: 2029
+
+----- PID: 761 -----
+Turnaround Time: 4853
+Response Time: 4039
+Waiting Time: 4444
+
+----- PID: 732 -----
+Turnaround Time: 2184
+Response Time: 1331
+Waiting Time: 2033
+
+----- PID: 770 -----
+Turnaround Time: 4560
+Response Time: 3629
+Waiting Time: 4064
+
+----- PID: 769 -----
+Turnaround Time: 4286
+Response Time: 3250
+Waiting Time: 4013
+
+----- PID: 794 -----
+Turnaround Time: 2611
+Response Time: 1541
+Waiting Time: 2416
+
+----- PID: 790 -----
+Turnaround Time: 3287
+Response Time: 2154
+Waiting Time: 3021
+
+----- PID: 779 -----
+Turnaround Time: 4387
+Response Time: 3146
+Waiting Time: 4163
+
+----- PID: 752 -----
+Turnaround Time: 6525
+Response Time: 5156
+Waiting Time: 6059
+
+----- PID: 805 -----
+Turnaround Time: 2274
+Response Time: 890
+Waiting Time: 1918
+
+----- PID: 797 -----
+Turnaround Time: 2983
+Response Time: 1529
+Waiting Time: 2764
+
+----- PID: 673 -----
+Turnaround Time: 3564
+Response Time: 2042
+Waiting Time: 3229
+
+----- PID: 785 -----
+Turnaround Time: 4560
+Response Time: 2920
+Waiting Time: 4236
+
+----- PID: 800 -----
+Turnaround Time: 3124
+Response Time: 1420
+Waiting Time: 2927
+
+----- PID: 812 -----
+Turnaround Time: 1775
+Response Time: 49
+Waiting Time: 1570
+
+----- PID: 810 -----
+Turnaround Time: 2018
+Response Time: 243
+Waiting Time: 1799
+
+----- PID: 793 -----
+Turnaround Time: 3445
+Response Time: 1566
+Waiting Time: 3234
+
+----- PID: 775 -----
+Turnaround Time: 5320
+Response Time: 3298
+Waiting Time: 4997
+
+----- PID: 758 -----
+Turnaround Time: 6549
+Response Time: 4363
+Waiting Time: 6170
+
+----- PID: 728 -----
+Turnaround Time: 6100
+Response Time: 3752
+Waiting Time: 5626
+
+----- PID: 822 -----
+Turnaround Time: 2057
+Response Time: 1719
+Waiting Time: 2015
+
+----- PID: 809 -----
+Turnaround Time: 2817
+Response Time: 416
+Waiting Time: 2529
+
+----- PID: 787 -----
+Turnaround Time: 4424
+Response Time: 1896
+Waiting Time: 3984
+
+----- PID: 781 -----
+Turnaround Time: 5893
+Response Time: 3151
+Waiting Time: 5449
+
+----- PID: 825 -----
+Turnaround Time: 2448
+Response Time: 2223
+Waiting Time: 2370
+
+----- PID: 814 -----
+Turnaround Time: 2765
+Response Time: 1
+Waiting Time: 2461
+
+----- PID: 813 -----
+Turnaround Time: 2864
+Response Time: 12
+Waiting Time: 2592
+
+----- PID: 795 -----
+Turnaround Time: 4040
+Response Time: 989
+Waiting Time: 3543
+
+----- PID: 851 -----
+Turnaround Time: 1559
+Response Time: 1404
+Waiting Time: 1509
+
+----- PID: 802 -----
+Turnaround Time: 4728
+Response Time: 1422
+Waiting Time: 4227
+
+----- PID: 827 -----
+Turnaround Time: 3006
+Response Time: 2764
+Waiting Time: 2890
+
+----- PID: 831 -----
+Turnaround Time: 2990
+Response Time: 2704
+Waiting Time: 2850
+
+----- PID: 811 -----
+Turnaround Time: 3561
+Response Time: 53
+Waiting Time: 3166
+
+----- PID: 806 -----
+Turnaround Time: 4527
+Response Time: 797
+Waiting Time: 4051
+
+----- PID: 848 -----
+Turnaround Time: 2437
+Response Time: 2174
+Waiting Time: 2337
+
+----- PID: 861 -----
+Turnaround Time: 1436
+Response Time: 1373
+Waiting Time: 1373
+
+----- PID: 858 -----
+Turnaround Time: 1716
+Response Time: 1626
+Waiting Time: 1626
+
+----- PID: 852 -----
+Turnaround Time: 2299
+Response Time: 2162
+Waiting Time: 2198
+
+----- PID: 867 -----
+Turnaround Time: 868
+Response Time: 744
+Waiting Time: 776
+
+----- PID: 870 -----
+Turnaround Time: 624
+Response Time: 505
+Waiting Time: 556
+
+----- PID: 837 -----
+Turnaround Time: 3335
+Response Time: 3143
+Waiting Time: 3181
+
+----- PID: 844 -----
+Turnaround Time: 3002
+Response Time: 2782
+Waiting Time: 2807
+
+----- PID: 833 -----
+Turnaround Time: 3557
+Response Time: 3330
+Waiting Time: 3346
+
+----- PID: 847 -----
+Turnaround Time: 2849
+Response Time: 2587
+Waiting Time: 2609
+
+----- PID: 850 -----
+Turnaround Time: 2617
+Response Time: 2354
+Waiting Time: 2357
+
+----- PID: 841 -----
+Turnaround Time: 3327
+Response Time: 2997
+Waiting Time: 3112
+
+----- PID: 820 -----
+Turnaround Time: 3938
+Response Time: 3560
+Waiting Time: 3592
+
+----- PID: 828 -----
+Turnaround Time: 3895
+Response Time: 3452
+Waiting Time: 3587
+
+----- PID: 835 -----
+Turnaround Time: 3742
+Response Time: 3294
+Waiting Time: 3303
+
+----- PID: 838 -----
+Turnaround Time: 3656
+Response Time: 3143
+Waiting Time: 3324
+
+----- PID: 817 -----
+Turnaround Time: 4135
+Response Time: 3604
+Waiting Time: 3642
+
+----- PID: 815 -----
+Turnaround Time: 4219
+Response Time: 3625
+Waiting Time: 3713
+
+----- PID: 832 -----
+Turnaround Time: 4067
+Response Time: 3378
+Waiting Time: 3816
+
+----- PID: 872 -----
+Turnaround Time: 1141
+Response Time: 449
+Waiting Time: 1084
+
+----- PID: 821 -----
+Turnaround Time: 4339
+Response Time: 3555
+Waiting Time: 3851
+
+----- PID: 859 -----
+Turnaround Time: 2309
+Response Time: 1458
+Waiting Time: 2190
+
+----- PID: 816 -----
+Turnaround Time: 4551
+Response Time: 3597
+Waiting Time: 4305
+
+----- PID: 834 -----
+Turnaround Time: 4335
+Response Time: 3278
+Waiting Time: 4120
+
+----- PID: 843 -----
+Turnaround Time: 4019
+Response Time: 2875
+Waiting Time: 3741
+
+----- PID: 839 -----
+Turnaround Time: 4364
+Response Time: 3095
+Waiting Time: 4105
+
+----- PID: 865 -----
+Turnaround Time: 2288
+Response Time: 974
+Waiting Time: 2160
+
+----- PID: 836 -----
+Turnaround Time: 4697
+Response Time: 3243
+Waiting Time: 4398
+
+----- PID: 819 -----
+Turnaround Time: 5158
+Response Time: 3575
+Waiting Time: 4809
+
+----- PID: 846 -----
+Turnaround Time: 4382
+Response Time: 2693
+Waiting Time: 4006
+
+----- PID: 873 -----
+Turnaround Time: 1985
+Response Time: 1862
+Waiting Time: 1935
+
+----- PID: 830 -----
+Turnaround Time: 5324
+Response Time: 3462
+Waiting Time: 4850
+
+----- PID: 849 -----
+Turnaround Time: 4415
+Response Time: 2428
+Waiting Time: 3989
+
+----- PID: 882 -----
+Turnaround Time: 1808
+Response Time: 1659
+Waiting Time: 1754
+
+----- PID: 823 -----
+Turnaround Time: 5706
+Response Time: 3504
+Waiting Time: 5334
+
+----- PID: 885 -----
+Turnaround Time: 1954
+Response Time: 1752
+Waiting Time: 1897
+
+----- PID: 818 -----
+Turnaround Time: 5990
+Response Time: 3584
+Waiting Time: 5572
+
+----- PID: 845 -----
+Turnaround Time: 5321
+Response Time: 2759
+Waiting Time: 4857
+
+----- PID: 842 -----
+Turnaround Time: 5747
+Response Time: 2978
+Waiting Time: 5250
+
+----- PID: 889 -----
+Turnaround Time: 2412
+Response Time: 2327
+Waiting Time: 2327
+
+----- PID: 898 -----
+Turnaround Time: 1879
+Response Time: 1783
+Waiting Time: 1783
+
+----- PID: 910 -----
+Turnaround Time: 713
+Response Time: 629
+Waiting Time: 644
+
+----- PID: 887 -----
+Turnaround Time: 2634
+Response Time: 2457
+Waiting Time: 2457
+
+----- PID: 906 -----
+Turnaround Time: 1147
+Response Time: 985
+Waiting Time: 1020
+
+----- PID: 893 -----
+Turnaround Time: 2354
+Response Time: 2150
+Waiting Time: 2202
+
+----- PID: 881 -----
+Turnaround Time: 2900
+Response Time: 2652
+Waiting Time: 2728
+
+----- PID: 880 -----
+Turnaround Time: 2962
+Response Time: 2707
+Waiting Time: 2719
+
+----- PID: 863 -----
+Turnaround Time: 4214
+Response Time: 3897
+Waiting Time: 3931
+
+----- PID: 886 -----
+Turnaround Time: 2843
+Response Time: 2526
+Waiting Time: 2564
+
+----- PID: 866 -----
+Turnaround Time: 4104
+Response Time: 3712
+Waiting Time: 3807
+
+----- PID: 855 -----
+Turnaround Time: 5268
+Response Time: 4850
+Waiting Time: 4896
+
+----- PID: 860 -----
+Turnaround Time: 4743
+Response Time: 4302
+Waiting Time: 4388
+
+----- PID: 857 -----
+Turnaround Time: 5114
+Response Time: 4641
+Waiting Time: 4693
+
+----- PID: 903 -----
+Turnaround Time: 1749
+Response Time: 1287
+Waiting Time: 1416
+
+----- PID: 900 -----
+Turnaround Time: 2087
+Response Time: 1606
+Waiting Time: 1717
+
+----- PID: 875 -----
+Turnaround Time: 3405
+Response Time: 2868
+Waiting Time: 3015
+
+----- PID: 909 -----
+Turnaround Time: 1195
+Response Time: 671
+Waiting Time: 709
+
+----- PID: 892 -----
+Turnaround Time: 2824
+Response Time: 2255
+Waiting Time: 2422
+
+----- PID: 896 -----
+Turnaround Time: 2625
+Response Time: 2009
+Waiting Time: 2356
+
+----- PID: 874 -----
+Turnaround Time: 3590
+Response Time: 2893
+Waiting Time: 3386
+
+----- PID: 856 -----
+Turnaround Time: 5548
+Response Time: 4772
+Waiting Time: 5115
+
+----- PID: 876 -----
+Turnaround Time: 3637
+Response Time: 2803
+Waiting Time: 3299
+
+----- PID: 921 -----
+Turnaround Time: 652
+Response Time: 582
+Waiting Time: 642
+
+----- PID: 883 -----
+Turnaround Time: 3536
+Response Time: 2634
+Waiting Time: 3200
+
+----- PID: 912 -----
+Turnaround Time: 1190
+Response Time: 297
+Waiting Time: 883
+
+----- PID: 902 -----
+Turnaround Time: 2359
+Response Time: 1416
+Waiting Time: 2054
+
+----- PID: 869 -----
+Turnaround Time: 4614
+Response Time: 3552
+Waiting Time: 4365
+
+----- PID: 895 -----
+Turnaround Time: 3151
+Response Time: 2069
+Waiting Time: 2733
+
+----- PID: 878 -----
+Turnaround Time: 3899
+Response Time: 2718
+Waiting Time: 3655
+
+----- PID: 927 -----
+Turnaround Time: 771
+Response Time: 690
+Waiting Time: 758
+
+----- PID: 871 -----
+Turnaround Time: 4598
+Response Time: 3309
+Waiting Time: 4398
+
+----- PID: 907 -----
+Turnaround Time: 2160
+Response Time: 854
+Waiting Time: 2042
+
+----- PID: 888 -----
+Turnaround Time: 3801
+Response Time: 2410
+Waiting Time: 3488
+
+----- PID: 899 -----
+Turnaround Time: 3157
+Response Time: 1724
+Waiting Time: 2767
+
+----- PID: 864 -----
+Turnaround Time: 5455
+Response Time: 3891
+Waiting Time: 5033
+
+----- PID: 911 -----
+Turnaround Time: 2035
+Response Time: 465
+Waiting Time: 1589
+
+----- PID: 913 -----
+Turnaround Time: 1685
+Response Time: 91
+Waiting Time: 1315
+
+----- PID: 904 -----
+Turnaround Time: 2835
+Response Time: 1155
+Waiting Time: 2675
+
+----- PID: 942 -----
+Turnaround Time: 774
+Response Time: 703
+Waiting Time: 759
+
+----- PID: 890 -----
+Turnaround Time: 4117
+Response Time: 2337
+Waiting Time: 3800
+
+----- PID: 908 -----
+Turnaround Time: 2664
+Response Time: 855
+Waiting Time: 2198
+
+----- PID: 862 -----
+Turnaround Time: 6093
+Response Time: 4114
+Waiting Time: 5699
+
+----- PID: 897 -----
+Turnaround Time: 3963
+Response Time: 1921
+Waiting Time: 3573
+
+----- PID: 879 -----
+Turnaround Time: 4919
+Response Time: 2730
+Waiting Time: 4524
+
+----- PID: 941 -----
+Turnaround Time: 1302
+Response Time: 1156
+Waiting Time: 1275
+
+----- PID: 926 -----
+Turnaround Time: 1836
+Response Time: 1692
+Waiting Time: 1796
+
+----- PID: 901 -----
+Turnaround Time: 3843
+Response Time: 1536
+Waiting Time: 3571
+
+----- PID: 853 -----
+Turnaround Time: 7475
+Response Time: 4946
+Waiting Time: 7012
+
+----- PID: 877 -----
+Turnaround Time: 5459
+Response Time: 2780
+Waiting Time: 5075
+
+----- PID: 917 -----
+Turnaround Time: 2529
+Response Time: 2361
+Waiting Time: 2460
+
+----- PID: 935 -----
+Turnaround Time: 2088
+Response Time: 1905
+Waiting Time: 2030
+
+----- PID: 884 -----
+Turnaround Time: 5478
+Response Time: 2602
+Waiting Time: 4982
+
+----- PID: 939 -----
+Turnaround Time: 2064
+Response Time: 1872
+Waiting Time: 2010
+
+----- PID: 937 -----
+Turnaround Time: 2142
+Response Time: 1937
+Waiting Time: 2087
+
+----- PID: 905 -----
+Turnaround Time: 4186
+Response Time: 1166
+Waiting Time: 3720
+
+----- PID: 914 -----
+Turnaround Time: 3124
+Response Time: 8
+Waiting Time: 2722
+
+----- PID: 956 -----
+Turnaround Time: 1462
+Response Time: 1356
+Waiting Time: 1416
+
+----- PID: 891 -----
+Turnaround Time: 5866
+Response Time: 2325
+Waiting Time: 5379
+
+----- PID: 854 -----
+Turnaround Time: 8468
+Response Time: 4899
+Waiting Time: 8066
+
+----- PID: 922 -----
+Turnaround Time: 3334
+Response Time: 3118
+Waiting Time: 3218
+
+----- PID: 894 -----
+Turnaround Time: 5937
+Response Time: 2163
+Waiting Time: 5430
+
+----- PID: 944 -----
+Turnaround Time: 2752
+Response Time: 2519
+Waiting Time: 2661
+
+----- PID: 979 -----
+Turnaround Time: 289
+Response Time: 261
+Waiting Time: 261
+
+----- PID: 957 -----
+Turnaround Time: 2182
+Response Time: 2103
+Waiting Time: 2103
+
+----- PID: 960 -----
+Turnaround Time: 1912
+Response Time: 1824
+Waiting Time: 1831
+
+----- PID: 951 -----
+Turnaround Time: 2463
+Response Time: 2345
+Waiting Time: 2359
+
+----- PID: 947 -----
+Turnaround Time: 2766
+Response Time: 2623
+Waiting Time: 2645
+
+----- PID: 932 -----
+Turnaround Time: 3450
+Response Time: 3252
+Waiting Time: 3317
+
+----- PID: 959 -----
+Turnaround Time: 2177
+Response Time: 1975
+Waiting Time: 2000
+
+----- PID: 948 -----
+Turnaround Time: 2782
+Response Time: 2534
+Waiting Time: 2627
+
+----- PID: 953 -----
+Turnaround Time: 2497
+Response Time: 2206
+Waiting Time: 2379
+
+----- PID: 934 -----
+Turnaround Time: 3585
+Response Time: 3224
+Waiting Time: 3350
+
+----- PID: 946 -----
+Turnaround Time: 3036
+Response Time: 2654
+Waiting Time: 2667
+
+----- PID: 949 -----
+Turnaround Time: 2942
+Response Time: 2510
+Waiting Time: 2606
+
+----- PID: 916 -----
+Turnaround Time: 4219
+Response Time: 3737
+Waiting Time: 3760
+
+----- PID: 983 -----
+Turnaround Time: 463
+Response Time: 5
+Waiting Time: 297
+
+----- PID: 968 -----
+Turnaround Time: 1631
+Response Time: 1148
+Waiting Time: 1194
+
+----- PID: 936 -----
+Turnaround Time: 3721
+Response Time: 3121
+Waiting Time: 3565
+
+----- PID: 929 -----
+Turnaround Time: 4011
+Response Time: 3334
+Waiting Time: 3827
+
+----- PID: 952 -----
+Turnaround Time: 2973
+Response Time: 2256
+Waiting Time: 2709
+
+----- PID: 975 -----
+Turnaround Time: 1526
+Response Time: 784
+Waiting Time: 1404
+
+----- PID: 940 -----
+Turnaround Time: 3809
+Response Time: 2969
+Waiting Time: 3591
+
+----- PID: 961 -----
+Turnaround Time: 2629
+Response Time: 1775
+Waiting Time: 2146
+
+----- PID: 933 -----
+Turnaround Time: 4223
+Response Time: 3264
+Waiting Time: 3887
+
+----- PID: 977 -----
+Turnaround Time: 1648
+Response Time: 696
+Waiting Time: 1160
+
+----- PID: 963 -----
+Turnaround Time: 2645
+Response Time: 1625
+Waiting Time: 2286
+
+----- PID: 923 -----
+Turnaround Time: 4700
+Response Time: 3563
+Waiting Time: 4389
+
+----- PID: 924 -----
+Turnaround Time: 4740
+Response Time: 3505
+Waiting Time: 4458
+
+----- PID: 982 -----
+Turnaround Time: 1273
+Response Time: 53
+Waiting Time: 1057
+
+----- PID: 928 -----
+Turnaround Time: 4732
+Response Time: 3372
+Waiting Time: 4511
+
+----- PID: 970 -----
+Turnaround Time: 2319
+Response Time: 947
+Waiting Time: 2017
+
+----- PID: 950 -----
+Turnaround Time: 3910
+Response Time: 2420
+Waiting Time: 3689
+
+----- PID: 993 -----
+Turnaround Time: 1136
+Response Time: 1040
+Waiting Time: 1113
+
+----- PID: 958 -----
+Turnaround Time: 3595
+Response Time: 2038
+Waiting Time: 3337
+
+----- PID: 919 -----
+Turnaround Time: 5328
+Response Time: 3638
+Waiting Time: 5078
+
+----- PID: 978 -----
+Turnaround Time: 1978
+Response Time: 290
+Waiting Time: 1737
+
+----- PID: 925 -----
+Turnaround Time: 5336
+Response Time: 3494
+Waiting Time: 5063
+
+----- PID: 955 -----
+Turnaround Time: 4116
+Response Time: 2199
+Waiting Time: 3840
+
+----- PID: 965 -----
+Turnaround Time: 3496
+Response Time: 1498
+Waiting Time: 3336
+
+----- PID: 964 -----
+Turnaround Time: 3670
+Response Time: 1620
+Waiting Time: 3184
+
+----- PID: 969 -----
+Turnaround Time: 3252
+Response Time: 1123
+Waiting Time: 3000
+
+----- PID: 943 -----
+Turnaround Time: 5123
+Response Time: 2867
+Waiting Time: 4705
+
+----- PID: 1010 -----
+Turnaround Time: 1237
+Response Time: 1108
+Waiting Time: 1211
+
+----- PID: 966 -----
+Turnaround Time: 3646
+Response Time: 1309
+Waiting Time: 3334
+
+----- PID: 915 -----
+Turnaround Time: 6243
+Response Time: 3745
+Waiting Time: 5753
+
+----- PID: 962 -----
+Turnaround Time: 4209
+Response Time: 1632
+Waiting Time: 3766
+
+----- PID: 931 -----
+Turnaround Time: 6055
+Response Time: 3311
+Waiting Time: 5703
+
+----- PID: 1018 -----
+Turnaround Time: 1191
+Response Time: 1032
+Waiting Time: 1166
+
+----- PID: 945 -----
+Turnaround Time: 5608
+Response Time: 2719
+Waiting Time: 5319
+
+----- PID: 974 -----
+Turnaround Time: 3886
+Response Time: 920
+Waiting Time: 3685
+
+----- PID: 971 -----
+Turnaround Time: 3991
+Response Time: 932
+Waiting Time: 3775
+
+----- PID: 980 -----
+Turnaround Time: 3410
+Response Time: 283
+Waiting Time: 3066
+
+----- PID: 989 -----
+Turnaround Time: 2990
+Response Time: 2896
+Waiting Time: 2916
+
+----- PID: 930 -----
+Turnaround Time: 6670
+Response Time: 3340
+Waiting Time: 6219
+
+----- PID: 1029 -----
+Turnaround Time: 841
+Response Time: 666
+Waiting Time: 824
+
+----- PID: 981 -----
+Turnaround Time: 3446
+Response Time: 55
+Waiting Time: 2981
+
+----- PID: 976 -----
+Turnaround Time: 4202
+Response Time: 695
+Waiting Time: 3927
+
+----- PID: 967 -----
+Turnaround Time: 4865
+Response Time: 1150
+Waiting Time: 4449
+
+----- PID: 999 -----
+Turnaround Time: 3188
+Response Time: 2946
+Waiting Time: 3085
+
+----- PID: 1015 -----
+Turnaround Time: 2413
+Response Time: 2139
+Waiting Time: 2336
+
+----- PID: 1002 -----
+Turnaround Time: 3101
+Response Time: 2779
+Waiting Time: 2994
+
+----- PID: 1039 -----
+Turnaround Time: 524
+Response Time: 512
+Waiting Time: 512
+
+----- PID: 1040 -----
+Turnaround Time: 505
+Response Time: 439
+Waiting Time: 479
+
+----- PID: 987 -----
+Turnaround Time: 3899
+Response Time: 3726
+Waiting Time: 3726
+
+----- PID: 1032 -----
+Turnaround Time: 1277
+Response Time: 1118
+Waiting Time: 1174
+
+----- PID: 1004 -----
+Turnaround Time: 3179
+Response Time: 2980
+Waiting Time: 3028
+
+----- PID: 1014 -----
+Turnaround Time: 2749
+Response Time: 2512
+Waiting Time: 2615
+
+----- PID: 986 -----
+Turnaround Time: 4056
+Response Time: 3766
+Waiting Time: 3784
+
+----- PID: 995 -----
+Turnaround Time: 3719
+Response Time: 3428
+Waiting Time: 3440
+
+----- PID: 991 -----
+Turnaround Time: 3939
+Response Time: 3632
+Waiting Time: 3654
+
+----- PID: 1013 -----
+Turnaround Time: 2954
+Response Time: 2675
+Waiting Time: 2689
+
+----- PID: 1025 -----
+Turnaround Time: 2090
+Response Time: 1794
+Waiting Time: 1863
+
+----- PID: 997 -----
+Turnaround Time: 3785
+Response Time: 3437
+Waiting Time: 3437
+
+----- PID: 1011 -----
+Turnaround Time: 3173
+Response Time: 2801
+Waiting Time: 2841
+
+----- PID: 1028 -----
+Turnaround Time: 1976
+Response Time: 1589
+Waiting Time: 1708
+
+----- PID: 984 -----
+Turnaround Time: 4345
+Response Time: 3806
+Waiting Time: 4092
+
+----- PID: 1000 -----
+Turnaround Time: 3763
+Response Time: 3273
+Waiting Time: 3289
+
+----- PID: 1020 -----
+Turnaround Time: 2727
+Response Time: 2230
+Waiting Time: 2259
+
+----- PID: 1021 -----
+Turnaround Time: 2656
+Response Time: 2113
+Waiting Time: 2212
+
+----- PID: 994 -----
+Turnaround Time: 4181
+Response Time: 3474
+Waiting Time: 3930
+
+----- PID: 1023 -----
+Turnaround Time: 2622
+Response Time: 1939
+Waiting Time: 2364
+
+----- PID: 996 -----
+Turnaround Time: 4212
+Response Time: 3451
+Waiting Time: 3729
+
+----- PID: 1035 -----
+Turnaround Time: 1660
+Response Time: 870
+Waiting Time: 1497
+
+----- PID: 1012 -----
+Turnaround Time: 3579
+Response Time: 2710
+Waiting Time: 3154
+
+----- PID: 1009 -----
+Turnaround Time: 3914
+Response Time: 2884
+Waiting Time: 3706
+
+----- PID: 1001 -----
+Turnaround Time: 4268
+Response Time: 3207
+Waiting Time: 3914
+
+----- PID: 1027 -----
+Turnaround Time: 2783
+Response Time: 1676
+Waiting Time: 2448
+
+----- PID: 1016 -----
+Turnaround Time: 3657
+Response Time: 2384
+Waiting Time: 3447
+
+----- PID: 1017 -----
+Turnaround Time: 3741
+Response Time: 2455
+Waiting Time: 3323
+
+----- PID: 990 -----
+Turnaround Time: 5151
+Response Time: 3735
+Waiting Time: 4703
+
+----- PID: 1003 -----
+Turnaround Time: 4636
+Response Time: 3098
+Waiting Time: 4319
+
+----- PID: 985 -----
+Turnaround Time: 5543
+Response Time: 3865
+Waiting Time: 5059
+
+----- PID: 1069 -----
+Turnaround Time: 726
+Response Time: 570
+Waiting Time: 711
+
+----- PID: 998 -----
+Turnaround Time: 5273
+Response Time: 3426
+Waiting Time: 4858
+
+----- PID: 992 -----
+Turnaround Time: 5711
+Response Time: 3655
+Waiting Time: 5285
+
+----- PID: 1007 -----
+Turnaround Time: 5206
+Response Time: 2982
+Waiting Time: 4735
+
+----- PID: 1022 -----
+Turnaround Time: 4389
+Response Time: 2021
+Waiting Time: 4050
+
+----- PID: 1079 -----
+Turnaround Time: 364
+Response Time: 336
+Waiting Time: 336
+
+----- PID: 1068 -----
+Turnaround Time: 1553
+Response Time: 1502
+Waiting Time: 1502
+
+----- PID: 1047 -----
+Turnaround Time: 2478
+Response Time: 2386
+Waiting Time: 2386
+
+----- PID: 1044 -----
+Turnaround Time: 2615
+Response Time: 2508
+Waiting Time: 2520
+
+----- PID: 1053 -----
+Turnaround Time: 2284
+Response Time: 2151
+Waiting Time: 2204
+
+----- PID: 1046 -----
+Turnaround Time: 2599
+Response Time: 2450
+Waiting Time: 2470
+
+----- PID: 1043 -----
+Turnaround Time: 2734
+Response Time: 2544
+Waiting Time: 2578
+
+----- PID: 1051 -----
+Turnaround Time: 2441
+Response Time: 2227
+Waiting Time: 2252
+
+----- PID: 1066 -----
+Turnaround Time: 1870
+Response Time: 1619
+Waiting Time: 1745
+
+----- PID: 1059 -----
+Turnaround Time: 2268
+Response Time: 2015
+Waiting Time: 2033
+
+----- PID: 1050 -----
+Turnaround Time: 2556
+Response Time: 2288
+Waiting Time: 2306
+
+----- PID: 1030 -----
+Turnaround Time: 4086
+Response Time: 3723
+Waiting Time: 3796
+
+----- PID: 1026 -----
+Turnaround Time: 4425
+Response Time: 4057
+Waiting Time: 4077
+
+----- PID: 1038 -----
+Turnaround Time: 3381
+Response Time: 3006
+Waiting Time: 3022
+
+----- PID: 1034 -----
+Turnaround Time: 3787
+Response Time: 3361
+Waiting Time: 3447
+
+----- PID: 1060 -----
+Turnaround Time: 2392
+Response Time: 1958
+Waiting Time: 2050
+
+----- PID: 1033 -----
+Turnaround Time: 3956
+Response Time: 3463
+Waiting Time: 3496
+
+----- PID: 1041 -----
+Turnaround Time: 3373
+Response Time: 2825
+Waiting Time: 2933
+
+----- PID: 1062 -----
+Turnaround Time: 2505
+Response Time: 1877
+Waiting Time: 2348
+
+----- PID: 1064 -----
+Turnaround Time: 2426
+Response Time: 1772
+Waiting Time: 2225
+
+----- PID: 1049 -----
+Turnaround Time: 3024
+Response Time: 2320
+Waiting Time: 2740
+
+----- PID: 1065 -----
+Turnaround Time: 2484
+Response Time: 1700
+Waiting Time: 2346
+
+----- PID: 1071 -----
+Turnaround Time: 2092
+Response Time: 1294
+Waiting Time: 1942
+
+----- PID: 1075 -----
+Turnaround Time: 1714
+Response Time: 895
+Waiting Time: 1569
+
+----- PID: 1057 -----
+Turnaround Time: 2967
+Response Time: 2040
+Waiting Time: 2836
+
+----- PID: 1045 -----
+Turnaround Time: 3465
+Response Time: 2463
+Waiting Time: 3302
+
+----- PID: 1093 -----
+Turnaround Time: 713
+Response Time: 632
+Waiting Time: 700
+
+----- PID: 1067 -----
+Turnaround Time: 2655
+Response Time: 1626
+Waiting Time: 2401
+
+----- PID: 1094 -----
+Turnaround Time: 708
+Response Time: 640
+Waiting Time: 695
+
+----- PID: 1056 -----
+Turnaround Time: 3242
+Response Time: 2096
+Waiting Time: 3037
+
+----- PID: 1037 -----
+Turnaround Time: 4418
+Response Time: 3182
+Waiting Time: 4007
+
+----- PID: 1073 -----
+Turnaround Time: 2426
+Response Time: 1124
+Waiting Time: 2277
+
+----- PID: 1105 -----
+Turnaround Time: 511
+Response Time: 441
+Waiting Time: 501
+
+----- PID: 1081 -----
+Turnaround Time: 1356
+Response Time: 1277
+Waiting Time: 1321
+
+----- PID: 1052 -----
+Turnaround Time: 3603
+Response Time: 2198
+Waiting Time: 3281
+
+----- PID: 1058 -----
+Turnaround Time: 3545
+Response Time: 2050
+Waiting Time: 3243
+
+----- PID: 1036 -----
+Turnaround Time: 4814
+Response Time: 3163
+Waiting Time: 4553
+
+----- PID: 1019 -----
+Turnaround Time: 6470
+Response Time: 4662
+Waiting Time: 5975
+
+----- PID: 1024 -----
+Turnaround Time: 6268
+Response Time: 4256
+Waiting Time: 5861
+
+----- PID: 1101 -----
+Turnaround Time: 1402
+Response Time: 1199
+Waiting Time: 1367
+
+----- PID: 1031 -----
+Turnaround Time: 5777
+Response Time: 3586
+Waiting Time: 5419
+
+----- PID: 1048 -----
+Turnaround Time: 4640
+Response Time: 2334
+Waiting Time: 4232
+
+----- PID: 1091 -----
+Turnaround Time: 2111
+Response Time: 1951
+Waiting Time: 2051
+
+----- PID: 1106 -----
+Turnaround Time: 1516
+Response Time: 1340
+Waiting Time: 1477
+
+----- PID: 1118 -----
+Turnaround Time: 885
+Response Time: 847
+Waiting Time: 847
+
+----- PID: 1119 -----
+Turnaround Time: 789
+Response Time: 729
+Waiting Time: 729
+
+----- PID: 1095 -----
+Turnaround Time: 2074
+Response Time: 2001
+Waiting Time: 2001
+
+----- PID: 1121 -----
+Turnaround Time: 435
+Response Time: 373
+Waiting Time: 401
+
+----- PID: 1112 -----
+Turnaround Time: 1343
+Response Time: 1228
+Waiting Time: 1250
+
+----- PID: 1114 -----
+Turnaround Time: 1166
+Response Time: 1057
+Waiting Time: 1064
+
+----- PID: 1083 -----
+Turnaround Time: 2524
+Response Time: 2350
+Waiting Time: 2364
+
+----- PID: 1078 -----
+Turnaround Time: 3157
+Response Time: 2916
+Waiting Time: 3004
+
+----- PID: 1074 -----
+Turnaround Time: 3599
+Response Time: 3347
+Waiting Time: 3386
+
+----- PID: 1099 -----
+Turnaround Time: 2112
+Response Time: 1870
+Waiting Time: 1883
+
+----- PID: 1063 -----
+Turnaround Time: 4579
+Response Time: 4211
+Waiting Time: 4246
+
+----- PID: 1061 -----
+Turnaround Time: 4715
+Response Time: 4274
+Waiting Time: 4348
+
+----- PID: 1055 -----
+Turnaround Time: 5018
+Response Time: 4496
+Waiting Time: 4626
+
+----- PID: 1087 -----
+Turnaround Time: 2851
+Response Time: 2255
+Waiting Time: 2681
+
+----- PID: 1072 -----
+Turnaround Time: 4263
+Response Time: 3563
+Waiting Time: 3939
+
+----- PID: 1111 -----
+Turnaround Time: 2070
+Response Time: 1323
+Waiting Time: 1941
+
+----- PID: 1070 -----
+Turnaround Time: 4606
+Response Time: 3717
+Waiting Time: 4244
+
+----- PID: 1089 -----
+Turnaround Time: 3193
+Response Time: 2204
+Waiting Time: 2977
+
+----- PID: 1126 -----
+Turnaround Time: 1012
+Response Time: 903
+Waiting Time: 987
+
+----- PID: 1113 -----
+Turnaround Time: 2185
+Response Time: 1128
+Waiting Time: 2051
+
+----- PID: 1076 -----
+Turnaround Time: 4290
+Response Time: 3092
+Waiting Time: 3993
+
+----- PID: 1090 -----
+Turnaround Time: 3470
+Response Time: 2193
+Waiting Time: 3187
+
+----- PID: 1054 -----
+Turnaround Time: 6017
+Response Time: 4529
+Waiting Time: 5579
+
+----- PID: 1042 -----
+Turnaround Time: 6687
+Response Time: 4977
+Waiting Time: 6188
+
+----- PID: 1143 -----
+Turnaround Time: 877
+Response Time: 832
+Waiting Time: 832
+
+----- PID: 1139 -----
+Turnaround Time: 1252
+Response Time: 1202
+Waiting Time: 1208
+
+----- PID: 1125 -----
+Turnaround Time: 1808
+Response Time: 1747
+Waiting Time: 1749
+
+----- PID: 1137 -----
+Turnaround Time: 1447
+Response Time: 1358
+Waiting Time: 1371
+
+----- PID: 1134 -----
+Turnaround Time: 1621
+Response Time: 1496
+Waiting Time: 1502
+
+----- PID: 1130 -----
+Turnaround Time: 1860
+Response Time: 1667
+Waiting Time: 1703
+
+----- PID: 1115 -----
+Turnaround Time: 3018
+Response Time: 2780
+Waiting Time: 2790
+
+----- PID: 1123 -----
+Turnaround Time: 2162
+Response Time: 1931
+Waiting Time: 1940
+
+----- PID: 1100 -----
+Turnaround Time: 3818
+Response Time: 3529
+Waiting Time: 3557
+
+----- PID: 1103 -----
+Turnaround Time: 3732
+Response Time: 3384
+Waiting Time: 3404
+
+----- PID: 1107 -----
+Turnaround Time: 3584
+Response Time: 3203
+Waiting Time: 3234
+
+----- PID: 1086 -----
+Turnaround Time: 4422
+Response Time: 4021
+Waiting Time: 4028
+
+----- PID: 1104 -----
+Turnaround Time: 3756
+Response Time: 3346
+Waiting Time: 3365
+
+----- PID: 1088 -----
+Turnaround Time: 4407
+Response Time: 3980
+Waiting Time: 3984
+
+----- PID: 1084 -----
+Turnaround Time: 4572
+Response Time: 4076
+Waiting Time: 4216
+
+----- PID: 1102 -----
+Turnaround Time: 3935
+Response Time: 3455
+Waiting Time: 3509
+
+----- PID: 1077 -----
+Turnaround Time: 5405
+Response Time: 4821
+Waiting Time: 4917
+
+----- PID: 1110 -----
+Turnaround Time: 3705
+Response Time: 3043
+Waiting Time: 3500
+
+----- PID: 1080 -----
+Turnaround Time: 5017
+Response Time: 4283
+Waiting Time: 4523
+
+----- PID: 1097 -----
+Turnaround Time: 4499
+Response Time: 3677
+Waiting Time: 4094
+
+----- PID: 1098 -----
+Turnaround Time: 4557
+Response Time: 3654
+Waiting Time: 4110
+
+----- PID: 1096 -----
+Turnaround Time: 4737
+Response Time: 3709
+Waiting Time: 4474
+
+----- PID: 1108 -----
+Turnaround Time: 4234
+Response Time: 3124
+Waiting Time: 3910
+
+----- PID: 1092 -----
+Turnaround Time: 5070
+Response Time: 3839
+Waiting Time: 4726
+
+----- PID: 1161 -----
+Turnaround Time: 846
+Response Time: 727
+Waiting Time: 829
+
+----- PID: 1120 -----
+Turnaround Time: 3611
+Response Time: 2305
+Waiting Time: 3309
+
+----- PID: 1085 -----
+Turnaround Time: 5509
+Response Time: 4037
+Waiting Time: 5109
+
+----- PID: 1109 -----
+Turnaround Time: 4717
+Response Time: 3126
+Waiting Time: 4366
+
+----- PID: 1166 -----
+Turnaround Time: 1169
+Response Time: 1040
+Waiting Time: 1141
+
+----- PID: 1116 -----
+Turnaround Time: 4491
+Response Time: 2788
+Waiting Time: 4120
+
+----- PID: 1150 -----
+Turnaround Time: 1739
+Response Time: 1613
+Waiting Time: 1696
+
+----- PID: 1117 -----
+Turnaround Time: 4564
+Response Time: 2695
+Waiting Time: 4228
+
+----- PID: 1149 -----
+Turnaround Time: 2132
+Response Time: 1971
+Waiting Time: 2079
+
+----- PID: 1183 -----
+Turnaround Time: 297
+Response Time: 287
+Waiting Time: 287
+
+----- PID: 1177 -----
+Turnaround Time: 709
+Response Time: 667
+Waiting Time: 667
+
+----- PID: 1157 -----
+Turnaround Time: 1736
+Response Time: 1653
+Waiting Time: 1658
+
+----- PID: 1165 -----
+Turnaround Time: 1580
+Response Time: 1476
+Waiting Time: 1479
+
+----- PID: 1142 -----
+Turnaround Time: 3038
+Response Time: 2868
+Waiting Time: 2900
+
+----- PID: 1144 -----
+Turnaround Time: 2806
+Response Time: 2633
+Waiting Time: 2642
+
+----- PID: 1172 -----
+Turnaround Time: 1324
+Response Time: 1162
+Waiting Time: 1206
+
+----- PID: 1174 -----
+Turnaround Time: 1173
+Response Time: 991
+Waiting Time: 1066
+
+----- PID: 1132 -----
+Turnaround Time: 3726
+Response Time: 3511
+Waiting Time: 3518
+
+----- PID: 1138 -----
+Turnaround Time: 3445
+Response Time: 3191
+Waiting Time: 3212
+
+----- PID: 1154 -----
+Turnaround Time: 2113
+Response Time: 1819
+Waiting Time: 1956
+
+----- PID: 1140 -----
+Turnaround Time: 3405
+Response Time: 3044
+Waiting Time: 3138
+
+----- PID: 1122 -----
+Turnaround Time: 4406
+Response Time: 3988
+Waiting Time: 3996
+
+----- PID: 1124 -----
+Turnaround Time: 4096
+Response Time: 3677
+Waiting Time: 3681
+
+----- PID: 1131 -----
+Turnaround Time: 3976
+Response Time: 3530
+Waiting Time: 3591
+
+----- PID: 1133 -----
+Turnaround Time: 3959
+Response Time: 3477
+Waiting Time: 3543
+
+----- PID: 1136 -----
+Turnaround Time: 3927
+Response Time: 3399
+Waiting Time: 3437
+
+----- PID: 1141 -----
+Turnaround Time: 3538
+Response Time: 2948
+Waiting Time: 3129
+
+----- PID: 1170 -----
+Turnaround Time: 1949
+Response Time: 1301
+Waiting Time: 1877
+
+----- PID: 1127 -----
+Turnaround Time: 4347
+Response Time: 3619
+Waiting Time: 3853
+
+----- PID: 1155 -----
+Turnaround Time: 2586
+Response Time: 1789
+Waiting Time: 2382
+
+----- PID: 1135 -----
+Turnaround Time: 4309
+Response Time: 3388
+Waiting Time: 4059
+
+----- PID: 1201 -----
+Turnaround Time: 562
+Response Time: 443
+Waiting Time: 550
+
+----- PID: 1128 -----
+Turnaround Time: 4620
+Response Time: 3589
+Waiting Time: 4150
+
+----- PID: 1163 -----
+Turnaround Time: 2607
+Response Time: 1499
+Waiting Time: 2454
+
+----- PID: 1193 -----
+Turnaround Time: 1022
+Response Time: 942
+Waiting Time: 997
+
+----- PID: 1147 -----
+Turnaround Time: 3655
+Response Time: 2437
+Waiting Time: 3399
+
+----- PID: 1173 -----
+Turnaround Time: 2353
+Response Time: 1087
+Waiting Time: 2200
+
+----- PID: 1146 -----
+Turnaround Time: 3951
+Response Time: 2584
+Waiting Time: 3586
+
+----- PID: 1169 -----
+Turnaround Time: 2864
+Response Time: 1414
+Waiting Time: 2702
+
+----- PID: 1129 -----
+Turnaround Time: 5283
+Response Time: 3587
+Waiting Time: 4782
+
+----- PID: 1182 -----
+Turnaround Time: 2163
+Response Time: 1887
+Waiting Time: 2087
+
+----- PID: 1190 -----
+Turnaround Time: 1774
+Response Time: 1464
+Waiting Time: 1730
+
+----- PID: 1203 -----
+Turnaround Time: 1391
+Response Time: 1330
+Waiting Time: 1330
+
+----- PID: 1191 -----
+Turnaround Time: 1803
+Response Time: 1720
+Waiting Time: 1731
+
+----- PID: 1217 -----
+Turnaround Time: 624
+Response Time: 559
+Waiting Time: 559
+
+----- PID: 1197 -----
+Turnaround Time: 1680
+Response Time: 1574
+Waiting Time: 1574
+
+----- PID: 1204 -----
+Turnaround Time: 1447
+Response Time: 1305
+Waiting Time: 1373
+
+----- PID: 1205 -----
+Turnaround Time: 1441
+Response Time: 1268
+Waiting Time: 1360
+
+----- PID: 1206 -----
+Turnaround Time: 1407
+Response Time: 1230
+Waiting Time: 1234
+
+----- PID: 1176 -----
+Turnaround Time: 2800
+Response Time: 2550
+Waiting Time: 2604
+
+----- PID: 1180 -----
+Turnaround Time: 2637
+Response Time: 2351
+Waiting Time: 2391
+
+----- PID: 1171 -----
+Turnaround Time: 3332
+Response Time: 3016
+Waiting Time: 3022
+
+----- PID: 1153 -----
+Turnaround Time: 3995
+Response Time: 3622
+Waiting Time: 3623
+
+----- PID: 1158 -----
+Turnaround Time: 3873
+Response Time: 3435
+Waiting Time: 3479
+
+----- PID: 1194 -----
+Turnaround Time: 2054
+Response Time: 1629
+Waiting Time: 1686
+
+----- PID: 1187 -----
+Turnaround Time: 2250
+Response Time: 1807
+Waiting Time: 1820
+
+----- PID: 1148 -----
+Turnaround Time: 4639
+Response Time: 4105
+Waiting Time: 4189
+
+----- PID: 1199 -----
+Turnaround Time: 2071
+Response Time: 1541
+Waiting Time: 1598
+
+----- PID: 1209 -----
+Turnaround Time: 1613
+Response Time: 1041
+Waiting Time: 1438
+
+----- PID: 1184 -----
+Turnaround Time: 2705
+Response Time: 2061
+Waiting Time: 2556
+
+----- PID: 1160 -----
+Turnaround Time: 4036
+Response Time: 3320
+Waiting Time: 3750
+
+----- PID: 1202 -----
+Turnaround Time: 2104
+Response Time: 1365
+Waiting Time: 1836
+
+----- PID: 1179 -----
+Turnaround Time: 3266
+Response Time: 2433
+Waiting Time: 3078
+
+----- PID: 1186 -----
+Turnaround Time: 2823
+Response Time: 1966
+Waiting Time: 2327
+
+----- PID: 1195 -----
+Turnaround Time: 2541
+Response Time: 1617
+Waiting Time: 2312
+
+----- PID: 1200 -----
+Turnaround Time: 2466
+Response Time: 1472
+Waiting Time: 2345
+
+----- PID: 1167 -----
+Turnaround Time: 4259
+Response Time: 3166
+Waiting Time: 4046
+
+----- PID: 1175 -----
+Turnaround Time: 3818
+Response Time: 2648
+Waiting Time: 3555
+
+----- PID: 1151 -----
+Turnaround Time: 4926
+Response Time: 3634
+Waiting Time: 4599
+
+----- PID: 1235 -----
+Turnaround Time: 851
+Response Time: 724
+Waiting Time: 835
+
+----- PID: 1192 -----
+Turnaround Time: 3063
+Response Time: 1723
+Waiting Time: 2561
+
+----- PID: 1208 -----
+Turnaround Time: 2558
+Response Time: 1154
+Waiting Time: 2290
+
+----- PID: 1213 -----
+Turnaround Time: 2204
+Response Time: 753
+Waiting Time: 1976
+
+----- PID: 1152 -----
+Turnaround Time: 5267
+Response Time: 3637
+Waiting Time: 4858
+
+----- PID: 1198 -----
+Turnaround Time: 3294
+Response Time: 1582
+Waiting Time: 2933
+
+----- PID: 1145 -----
+Turnaround Time: 6333
+Response Time: 4407
+Waiting Time: 5851
+
+----- PID: 1207 -----
+Turnaround Time: 3204
+Response Time: 1181
+Waiting Time: 2980
+
+----- PID: 1245 -----
+Turnaround Time: 1164
+Response Time: 1050
+Waiting Time: 1133
+
+----- PID: 1159 -----
+Turnaround Time: 5619
+Response Time: 3394
+Waiting Time: 5220
+
+----- PID: 1185 -----
+Turnaround Time: 4340
+Response Time: 1973
+Waiting Time: 3846
+
+----- PID: 1247 -----
+Turnaround Time: 1406
+Response Time: 1243
+Waiting Time: 1359
+
+----- PID: 1189 -----
+Turnaround Time: 4339
+Response Time: 1800
+Waiting Time: 3953
+
+----- PID: 1251 -----
+Turnaround Time: 1284
+Response Time: 1104
+Waiting Time: 1243
+
+----- PID: 1196 -----
+Turnaround Time: 4331
+Response Time: 1618
+Waiting Time: 4015
+
+----- PID: 1156 -----
+Turnaround Time: 6450
+Response Time: 3489
+Waiting Time: 5952
+
+----- PID: 1254 -----
+Turnaround Time: 1558
+Response Time: 1305
+Waiting Time: 1510
+
+----- PID: 1239 -----
+Turnaround Time: 2554
+Response Time: 2426
+Waiting Time: 2443
+
+----- PID: 1231 -----
+Turnaround Time: 2885
+Response Time: 2738
+Waiting Time: 2752
+
+----- PID: 1227 -----
+Turnaround Time: 3047
+Response Time: 2887
+Waiting Time: 2901
+
+----- PID: 1234 -----
+Turnaround Time: 2772
+Response Time: 2611
+Waiting Time: 2612
+
+----- PID: 1266 -----
+Turnaround Time: 585
+Response Time: 413
+Waiting Time: 564
+
+----- PID: 1258 -----
+Turnaround Time: 1445
+Response Time: 1258
+Waiting Time: 1365
+
+----- PID: 1220 -----
+Turnaround Time: 3544
+Response Time: 3291
+Waiting Time: 3409
+
+----- PID: 1240 -----
+Turnaround Time: 2649
+Response Time: 2408
+Waiting Time: 2460
+
+----- PID: 1225 -----
+Turnaround Time: 3217
+Response Time: 2915
+Waiting Time: 3066
+
+----- PID: 1219 -----
+Turnaround Time: 3747
+Response Time: 3377
+Waiting Time: 3502
+
+----- PID: 1215 -----
+Turnaround Time: 4137
+Response Time: 3648
+Waiting Time: 3879
+
+----- PID: 1229 -----
+Turnaround Time: 3410
+Response Time: 2827
+Waiting Time: 3206
+
+----- PID: 1264 -----
+Turnaround Time: 1250
+Response Time: 1179
+Waiting Time: 1179
+
+----- PID: 1265 -----
+Turnaround Time: 1110
+Response Time: 1022
+Waiting Time: 1031
+
+----- PID: 1259 -----
+Turnaround Time: 1748
+Response Time: 1643
+Waiting Time: 1644
+
+----- PID: 1269 -----
+Turnaround Time: 735
+Response Time: 625
+Waiting Time: 625
+
+----- PID: 1238 -----
+Turnaround Time: 3293
+Response Time: 3038
+Waiting Time: 3042
+
+----- PID: 1263 -----
+Turnaround Time: 1454
+Response Time: 1209
+Waiting Time: 1292
+
+----- PID: 1257 -----
+Turnaround Time: 2243
+Response Time: 1955
+Waiting Time: 2047
+
+----- PID: 1230 -----
+Turnaround Time: 3693
+Response Time: 3392
+Waiting Time: 3406
+
+----- PID: 1249 -----
+Turnaround Time: 2849
+Response Time: 2499
+Waiting Time: 2629
+
+----- PID: 1226 -----
+Turnaround Time: 3877
+Response Time: 3514
+Waiting Time: 3529
+
+----- PID: 1210 -----
+Turnaround Time: 4975
+Response Time: 4549
+Waiting Time: 4559
+
+----- PID: 1228 -----
+Turnaround Time: 3909
+Response Time: 3465
+Waiting Time: 3465
+
+----- PID: 1237 -----
+Turnaround Time: 3636
+Response Time: 3128
+Waiting Time: 3267
+
+----- PID: 1272 -----
+Turnaround Time: 959
+Response Time: 543
+Waiting Time: 549
+
+----- PID: 1246 -----
+Turnaround Time: 3182
+Response Time: 2669
+Waiting Time: 2686
+
+----- PID: 1275 -----
+Turnaround Time: 958
+Response Time: 508
+Waiting Time: 766
+
+----- PID: 1233 -----
+Turnaround Time: 3886
+Response Time: 3272
+Waiting Time: 3550
+
+----- PID: 1222 -----
+Turnaround Time: 4319
+Response Time: 3618
+Waiting Time: 3985
+
+----- PID: 1267 -----
+Turnaround Time: 1586
+Response Time: 879
+Waiting Time: 1402
+
+----- PID: 1223 -----
+Turnaround Time: 4411
+Response Time: 3577
+Waiting Time: 4173
+
+----- PID: 1283 -----
+Turnaround Time: 761
+Response Time: 30
+Waiting Time: 728
+
+----- PID: 1279 -----
+Turnaround Time: 1085
+Response Time: 323
+Waiting Time: 925
+
+----- PID: 1242 -----
+Turnaround Time: 3816
+Response Time: 2878
+Waiting Time: 3476
+
+----- PID: 1221 -----
+Turnaround Time: 4701
+Response Time: 3641
+Waiting Time: 4383
+
+----- PID: 1286 -----
+Turnaround Time: 813
+Response Time: 698
+Waiting Time: 798
+
+----- PID: 1278 -----
+Turnaround Time: 1391
+Response Time: 393
+Waiting Time: 1312
+
+----- PID: 1241 -----
+Turnaround Time: 4133
+Response Time: 2951
+Waiting Time: 3833
+
+----- PID: 1277 -----
+Turnaround Time: 1567
+Response Time: 449
+Waiting Time: 1361
+
+----- PID: 1224 -----
+Turnaround Time: 4890
+Response Time: 3532
+Waiting Time: 4588
+
+----- PID: 1261 -----
+Turnaround Time: 2970
+Response Time: 1561
+Waiting Time: 2679
+
+----- PID: 1253 -----
+Turnaround Time: 3748
+Response Time: 2234
+Waiting Time: 3446
+
+----- PID: 1218 -----
+Turnaround Time: 5753
+Response Time: 4064
+Waiting Time: 5441
+
+----- PID: 1304 -----
+Turnaround Time: 741
+Response Time: 579
+Waiting Time: 726
+
+----- PID: 1212 -----
+Turnaround Time: 6283
+Response Time: 4429
+Waiting Time: 5889
+
+----- PID: 1260 -----
+Turnaround Time: 3483
+Response Time: 1571
+Waiting Time: 3130
+
+----- PID: 1252 -----
+Turnaround Time: 4336
+Response Time: 2296
+Waiting Time: 4100
+
+----- PID: 1256 -----
+Turnaround Time: 4271
+Response Time: 2119
+Waiting Time: 4020
+
+----- PID: 1301 -----
+Turnaround Time: 1348
+Response Time: 1222
+Waiting Time: 1317
+
+----- PID: 1291 -----
+Turnaround Time: 1821
+Response Time: 1679
+Waiting Time: 1779
+
+----- PID: 1211 -----
+Turnaround Time: 6812
+Response Time: 4437
+Waiting Time: 6395
+
+----- PID: 1274 -----
+Turnaround Time: 2872
+Response Time: 528
+Waiting Time: 2559
+
+----- PID: 1284 -----
+Turnaround Time: 2419
+Response Time: 16
+Waiting Time: 2162
+
+----- PID: 1316 -----
+Turnaround Time: 664
+Response Time: 596
+Waiting Time: 649
+
+----- PID: 1232 -----
+Turnaround Time: 5974
+Response Time: 3313
+Waiting Time: 5472
+
+----- PID: 1287 -----
+Turnaround Time: 2435
+Response Time: 2257
+Waiting Time: 2371
+
+----- PID: 1282 -----
+Turnaround Time: 2700
+Response Time: 50
+Waiting Time: 2375
+
+----- PID: 1236 -----
+Turnaround Time: 6062
+Response Time: 3155
+Waiting Time: 5575
+
+----- PID: 1271 -----
+Turnaround Time: 3463
+Response Time: 558
+Waiting Time: 2998
+
+----- PID: 1281 -----
+Turnaround Time: 3104
+Response Time: 119
+Waiting Time: 2908
+
+----- PID: 1300 -----
+Turnaround Time: 2373
+Response Time: 2278
+Waiting Time: 2311
+
+----- PID: 1262 -----
+Turnaround Time: 4574
+Response Time: 1448
+Waiting Time: 4224
+
+----- PID: 1243 -----
+Turnaround Time: 6219
+Response Time: 2844
+Waiting Time: 5809
+
+----- PID: 1280 -----
+Turnaround Time: 3590
+Response Time: 213
+Waiting Time: 3322
+
+----- PID: 1268 -----
+Turnaround Time: 4202
+Response Time: 707
+Waiting Time: 3942
+
+----- PID: 1318 -----
+Turnaround Time: 1561
+Response Time: 1437
+Waiting Time: 1523
+
+----- PID: 1244 -----
+Turnaround Time: 6542
+Response Time: 2773
+Waiting Time: 6131
+
+----- PID: 1299 -----
+Turnaround Time: 3111
+Response Time: 2905
+Waiting Time: 3031
+
+----- PID: 1250 -----
+Turnaround Time: 6409
+Response Time: 2434
+Waiting Time: 6021
+
+----- PID: 1322 -----
+Turnaround Time: 1624
+Response Time: 1436
+Waiting Time: 1585
+
+----- PID: 1216 -----
+Turnaround Time: 8474
+Response Time: 4241
+Waiting Time: 7965
+
+----- PID: 1334 -----
+Turnaround Time: 853
+Response Time: 420
+Waiting Time: 843
+
+----- PID: 1270 -----
+Turnaround Time: 4867
+Response Time: 576
+Waiting Time: 4450
+
+----- PID: 1338 -----
+Turnaround Time: 611
+Response Time: 459
+Waiting Time: 598
+
+----- PID: 1306 -----
+Turnaround Time: 3356
+Response Time: 3181
+Waiting Time: 3266
+
+----- PID: 1273 -----
+Turnaround Time: 5048
+Response Time: 539
+Waiting Time: 4558
+
+----- PID: 1297 -----
+Turnaround Time: 4076
+Response Time: 3870
+Waiting Time: 3924
+
+----- PID: 1303 -----
+Turnaround Time: 3777
+Response Time: 3555
+Waiting Time: 3656
+
+----- PID: 1305 -----
+Turnaround Time: 3601
+Response Time: 3362
+Waiting Time: 3469
+
+----- PID: 1311 -----
+Turnaround Time: 3335
+Response Time: 3064
+Waiting Time: 3222
+
+----- PID: 1276 -----
+Turnaround Time: 5238
+Response Time: 457
+Waiting Time: 4798
+
+----- PID: 1302 -----
+Turnaround Time: 4083
+Response Time: 3847
+Waiting Time: 3926
+
+----- PID: 1343 -----
+Turnaround Time: 700
+Response Time: 680
+Waiting Time: 680
+
+----- PID: 1347 -----
+Turnaround Time: 337
+Response Time: 312
+Waiting Time: 325
+
+----- PID: 1345 -----
+Turnaround Time: 582
+Response Time: 530
+Waiting Time: 562
+
+----- PID: 1335 -----
+Turnaround Time: 1508
+Response Time: 1440
+Waiting Time: 1456
+
+----- PID: 1351 -----
+Turnaround Time: 305
+Response Time: 288
+Waiting Time: 294
+
+----- PID: 1348 -----
+Turnaround Time: 392
+Response Time: 357
+Waiting Time: 377
+
+----- PID: 1336 -----
+Turnaround Time: 1454
+Response Time: 1383
+Waiting Time: 1402
+
+----- PID: 1337 -----
+Turnaround Time: 1467
+Response Time: 1375
+Waiting Time: 1409
+
+----- PID: 1309 -----
+Turnaround Time: 3890
+Response Time: 3741
+Waiting Time: 3745
+
+----- PID: 1328 -----
+Turnaround Time: 2326
+Response Time: 2219
+Waiting Time: 2240
+
+----- PID: 1346 -----
+Turnaround Time: 674
+Response Time: 638
+Waiting Time: 639
+
+----- PID: 1342 -----
+Turnaround Time: 890
+Response Time: 807
+Waiting Time: 852
+
+----- PID: 1340 -----
+Turnaround Time: 1166
+Response Time: 1053
+Waiting Time: 1118
+
+----- PID: 1314 -----
+Turnaround Time: 3556
+Response Time: 3370
+Waiting Time: 3382
+
+----- PID: 1339 -----
+Turnaround Time: 1427
+Response Time: 1236
+Waiting Time: 1369
+
+----- PID: 1288 -----
+Turnaround Time: 4972
+Response Time: 4751
+Waiting Time: 4763
+
+----- PID: 1292 -----
+Turnaround Time: 4891
+Response Time: 4617
+Waiting Time: 4688
+
+----- PID: 1285 -----
+Turnaround Time: 5217
+Response Time: 4919
+Waiting Time: 4970
+
+----- PID: 1310 -----
+Turnaround Time: 4194
+Response Time: 3833
+Waiting Time: 4004
+
+----- PID: 1290 -----
+Turnaround Time: 5137
+Response Time: 4704
+Waiting Time: 4880
+
+----- PID: 1353 -----
+Turnaround Time: 605
+Response Time: 563
+Waiting Time: 591
+
+----- PID: 1341 -----
+Turnaround Time: 1528
+Response Time: 1053
+Waiting Time: 1472
+
+----- PID: 1358 -----
+Turnaround Time: 551
+Response Time: 526
+Waiting Time: 536
+
+----- PID: 1349 -----
+Turnaround Time: 920
+Response Time: 889
+Waiting Time: 889
+
+----- PID: 1355 -----
+Turnaround Time: 623
+Response Time: 593
+Waiting Time: 598
+
+----- PID: 1359 -----
+Turnaround Time: 573
+Response Time: 543
+Waiting Time: 548
+
+----- PID: 1360 -----
+Turnaround Time: 547
+Response Time: 510
+Waiting Time: 525
+
+----- PID: 1366 -----
+Turnaround Time: 446
+Response Time: 399
+Waiting Time: 428
+
+----- PID: 1357 -----
+Turnaround Time: 640
+Response Time: 568
+Waiting Time: 614
+
+----- PID: 1344 -----
+Turnaround Time: 1249
+Response Time: 1164
+Waiting Time: 1195
+
+----- PID: 1364 -----
+Turnaround Time: 565
+Response Time: 540
+Waiting Time: 540
+
+----- PID: 1363 -----
+Turnaround Time: 570
+Response Time: 540
+Waiting Time: 548
+
+----- PID: 1367 -----
+Turnaround Time: 452
+Response Time: 418
+Waiting Time: 430
+
+----- PID: 1352 -----
+Turnaround Time: 828
+Response Time: 765
+Waiting Time: 792
+
+----- PID: 1372 -----
+Turnaround Time: 314
+Response Time: 248
+Waiting Time: 298
+
+----- PID: 1350 -----
+Turnaround Time: 1071
+Response Time: 1000
+Waiting Time: 1015
+
+----- PID: 1376 -----
+Turnaround Time: 200
+Response Time: 181
+Waiting Time: 188
+
+----- PID: 1371 -----
+Turnaround Time: 414
+Response Time: 369
+Waiting Time: 392
+
+----- PID: 1356 -----
+Turnaround Time: 808
+Response Time: 750
+Waiting Time: 758
+
+----- PID: 1317 -----
+Turnaround Time: 3936
+Response Time: 3719
+Waiting Time: 3731
+
+----- PID: 1368 -----
+Turnaround Time: 637
+Response Time: 527
+Waiting Time: 604
+
+----- PID: 1295 -----
+Turnaround Time: 5412
+Response Time: 5133
+Waiting Time: 5133
+
+----- PID: 1307 -----
+Turnaround Time: 4947
+Response Time: 4566
+Waiting Time: 4681
+
+----- PID: 1294 -----
+Turnaround Time: 5612
+Response Time: 5203
+Waiting Time: 5247
+
+----- PID: 1293 -----
+Turnaround Time: 5674
+Response Time: 5259
+Waiting Time: 5308
+
+----- PID: 1385 -----
+Turnaround Time: 502
+Response Time: 480
+Waiting Time: 483
+
+----- PID: 1378 -----
+Turnaround Time: 608
+Response Time: 574
+Waiting Time: 585
+
+----- PID: 1369 -----
+Turnaround Time: 936
+Response Time: 893
+Waiting Time: 897
+
+----- PID: 1361 -----
+Turnaround Time: 1141
+Response Time: 1086
+Waiting Time: 1095
+
+----- PID: 1386 -----
+Turnaround Time: 555
+Response Time: 515
+Waiting Time: 534
+
+----- PID: 1354 -----
+Turnaround Time: 1346
+Response Time: 1272
+Waiting Time: 1291
+
+----- PID: 1379 -----
+Turnaround Time: 697
+Response Time: 651
+Waiting Time: 670
+
+----- PID: 1365 -----
+Turnaround Time: 1188
+Response Time: 1127
+Waiting Time: 1131
+
+----- PID: 1394 -----
+Turnaround Time: 446
+Response Time: 381
+Waiting Time: 430
+
+----- PID: 1362 -----
+Turnaround Time: 1257
+Response Time: 1176
+Waiting Time: 1207
+
+----- PID: 1373 -----
+Turnaround Time: 868
+Response Time: 770
+Waiting Time: 834
+
+----- PID: 1377 -----
+Turnaround Time: 815
+Response Time: 777
+Waiting Time: 778
+
+----- PID: 1381 -----
+Turnaround Time: 794
+Response Time: 750
+Waiting Time: 759
+
+----- PID: 1370 -----
+Turnaround Time: 1114
+Response Time: 1052
+Waiting Time: 1065
+
+----- PID: 1388 -----
+Turnaround Time: 709
+Response Time: 672
+Waiting Time: 678
+
+----- PID: 1375 -----
+Turnaround Time: 939
+Response Time: 884
+Waiting Time: 898
+
+----- PID: 1395 -----
+Turnaround Time: 533
+Response Time: 500
+Waiting Time: 508
+
+----- PID: 1389 -----
+Turnaround Time: 760
+Response Time: 719
+Waiting Time: 723
+
+----- PID: 1382 -----
+Turnaround Time: 880
+Response Time: 816
+Waiting Time: 838
+
+----- PID: 1384 -----
+Turnaround Time: 879
+Response Time: 832
+Waiting Time: 838
+
+----- PID: 1374 -----
+Turnaround Time: 1043
+Response Time: 981
+Waiting Time: 994
+
+----- PID: 1390 -----
+Turnaround Time: 849
+Response Time: 791
+Waiting Time: 810
+
+----- PID: 1393 -----
+Turnaround Time: 718
+Response Time: 678
+Waiting Time: 685
+
+----- PID: 1387 -----
+Turnaround Time: 905
+Response Time: 854
+Waiting Time: 862
+
+----- PID: 1380 -----
+Turnaround Time: 1062
+Response Time: 1001
+Waiting Time: 1011
+
+----- PID: 1383 -----
+Turnaround Time: 1011
+Response Time: 948
+Waiting Time: 963
+
+----- PID: 1398 -----
+Turnaround Time: 529
+Response Time: 502
+Waiting Time: 506
+
+----- PID: 1408 -----
+Turnaround Time: 346
+Response Time: 323
+Waiting Time: 327
+
+----- PID: 1400 -----
+Turnaround Time: 523
+Response Time: 474
+Waiting Time: 497
+
+----- PID: 1392 -----
+Turnaround Time: 944
+Response Time: 871
+Waiting Time: 898
+
+----- PID: 1391 -----
+Turnaround Time: 973
+Response Time: 890
+Waiting Time: 923
+
+----- PID: 1403 -----
+Turnaround Time: 516
+Response Time: 484
+Waiting Time: 491
+
+----- PID: 1402 -----
+Turnaround Time: 566
+Response Time: 527
+Waiting Time: 535
+
+----- PID: 1411 -----
+Turnaround Time: 385
+Response Time: 342
+Waiting Time: 367
+
+----- PID: 1331 -----
+Turnaround Time: 3779
+Response Time: 3563
+Waiting Time: 3570
+
+----- PID: 1404 -----
+Turnaround Time: 588
+Response Time: 478
+Waiting Time: 561
+
+----- PID: 1417 -----
+Turnaround Time: 395
+Response Time: 256
+Waiting Time: 381
+
+----- PID: 1420 -----
+Turnaround Time: 325
+Response Time: 288
+Waiting Time: 311
+
+----- PID: 1396 -----
+Turnaround Time: 888
+Response Time: 838
+Waiting Time: 845
+
+----- PID: 1424 -----
+Turnaround Time: 277
+Response Time: 254
+Waiting Time: 264
+
+----- PID: 1333 -----
+Turnaround Time: 3744
+Response Time: 3514
+Waiting Time: 3527
+
+----- PID: 1413 -----
+Turnaround Time: 540
+Response Time: 482
+Waiting Time: 513
+
+----- PID: 1418 -----
+Turnaround Time: 467
+Response Time: 382
+Waiting Time: 447
+
+----- PID: 1399 -----
+Turnaround Time: 853
+Response Time: 747
+Waiting Time: 815
+
+----- PID: 1416 -----
+Turnaround Time: 549
+Response Time: 512
+Waiting Time: 524
+
+----- PID: 1401 -----
+Turnaround Time: 864
+Response Time: 810
+Waiting Time: 821
+
+----- PID: 1414 -----
+Turnaround Time: 603
+Response Time: 546
+Waiting Time: 575
+
+----- PID: 1412 -----
+Turnaround Time: 666
+Response Time: 616
+Waiting Time: 633
+
+----- PID: 1425 -----
+Turnaround Time: 433
+Response Time: 380
+Waiting Time: 413
+
+----- PID: 1397 -----
+Turnaround Time: 982
+Response Time: 916
+Waiting Time: 934
+
+----- PID: 1438 -----
+Turnaround Time: 203
+Response Time: 176
+Waiting Time: 192
+
+----- PID: 1410 -----
+Turnaround Time: 784
+Response Time: 727
+Waiting Time: 742
+
+----- PID: 1407 -----
+Turnaround Time: 861
+Response Time: 782
+Waiting Time: 815
+
+----- PID: 1405 -----
+Turnaround Time: 915
+Response Time: 815
+Waiting Time: 867
+
+----- PID: 1406 -----
+Turnaround Time: 904
+Response Time: 786
+Waiting Time: 856
+
+----- PID: 1421 -----
+Turnaround Time: 650
+Response Time: 610
+Waiting Time: 613
+
+----- PID: 1427 -----
+Turnaround Time: 541
+Response Time: 499
+Waiting Time: 513
+
+----- PID: 1442 -----
+Turnaround Time: 245
+Response Time: 222
+Waiting Time: 232
+
+----- PID: 1426 -----
+Turnaround Time: 592
+Response Time: 553
+Waiting Time: 560
+
+----- PID: 1445 -----
+Turnaround Time: 205
+Response Time: 190
+Waiting Time: 194
+
+----- PID: 1439 -----
+Turnaround Time: 307
+Response Time: 290
+Waiting Time: 290
+
+----- PID: 1327 -----
+Turnaround Time: 4689
+Response Time: 4408
+Waiting Time: 4420
+
+----- PID: 1329 -----
+Turnaround Time: 4459
+Response Time: 4174
+Waiting Time: 4207
+
+----- PID: 1415 -----
+Turnaround Time: 920
+Response Time: 814
+Waiting Time: 861
+
+----- PID: 1324 -----
+Turnaround Time: 4904
+Response Time: 4590
+Waiting Time: 4611
+
+----- PID: 1409 -----
+Turnaround Time: 1112
+Response Time: 918
+Waiting Time: 1058
+
+----- PID: 1296 -----
+Turnaround Time: 7006
+Response Time: 6567
+Waiting Time: 6586
+
+----- PID: 1419 -----
+Turnaround Time: 980
+Response Time: 704
+Waiting Time: 936
+
+----- PID: 1326 -----
+Turnaround Time: 4941
+Response Time: 4595
+Waiting Time: 4625
+
+----- PID: 1332 -----
+Turnaround Time: 4530
+Response Time: 4175
+Waiting Time: 4218
+
+----- PID: 1321 -----
+Turnaround Time: 5530
+Response Time: 5085
+Waiting Time: 5189
+
+----- PID: 1289 -----
+Turnaround Time: 7524
+Response Time: 6976
+Waiting Time: 7046
+
+----- PID: 1451 -----
+Turnaround Time: 676
+Response Time: 645
+Waiting Time: 666
+
+----- PID: 1454 -----
+Turnaround Time: 613
+Response Time: 583
+Waiting Time: 603
+
+----- PID: 1423 -----
+Turnaround Time: 1210
+Response Time: 625
+Waiting Time: 1166
+
+----- PID: 1298 -----
+Turnaround Time: 7474
+Response Time: 6659
+Waiting Time: 6968
+
+----- PID: 1459 -----
+Turnaround Time: 818
+Response Time: 575
+Waiting Time: 803
+
+----- PID: 1467 -----
+Turnaround Time: 501
+Response Time: 474
+Waiting Time: 491
+
+----- PID: 1444 -----
+Turnaround Time: 1058
+Response Time: 1031
+Waiting Time: 1031
+
+----- PID: 1461 -----
+Turnaround Time: 739
+Response Time: 711
+Waiting Time: 723
+
+----- PID: 1432 -----
+Turnaround Time: 1403
+Response Time: 1345
+Waiting Time: 1358
+
+----- PID: 1446 -----
+Turnaround Time: 1085
+Response Time: 1022
+Waiting Time: 1053
+
+----- PID: 1431 -----
+Turnaround Time: 1422
+Response Time: 1342
+Waiting Time: 1378
+
+----- PID: 1443 -----
+Turnaround Time: 1193
+Response Time: 1089
+Waiting Time: 1157
+
+----- PID: 1429 -----
+Turnaround Time: 1531
+Response Time: 1463
+Waiting Time: 1482
+
+----- PID: 1433 -----
+Turnaround Time: 1397
+Response Time: 1327
+Waiting Time: 1355
+
+----- PID: 1428 -----
+Turnaround Time: 1576
+Response Time: 1475
+Waiting Time: 1528
+
+----- PID: 1472 -----
+Turnaround Time: 472
+Response Time: 418
+Waiting Time: 458
+
+----- PID: 1422 -----
+Turnaround Time: 1732
+Response Time: 1653
+Waiting Time: 1675
+
+----- PID: 1449 -----
+Turnaround Time: 1218
+Response Time: 1137
+Waiting Time: 1182
+
+----- PID: 1430 -----
+Turnaround Time: 1620
+Response Time: 1566
+Waiting Time: 1567
+
+----- PID: 1435 -----
+Turnaround Time: 1504
+Response Time: 1449
+Waiting Time: 1455
+
+----- PID: 1466 -----
+Turnaround Time: 859
+Response Time: 829
+Waiting Time: 832
+
+----- PID: 1464 -----
+Turnaround Time: 962
+Response Time: 924
+Waiting Time: 931
+
+----- PID: 1457 -----
+Turnaround Time: 1180
+Response Time: 1135
+Waiting Time: 1141
+
+----- PID: 1453 -----
+Turnaround Time: 1265
+Response Time: 1207
+Waiting Time: 1222
+
+----- PID: 1465 -----
+Turnaround Time: 941
+Response Time: 880
+Waiting Time: 911
+
+----- PID: 1447 -----
+Turnaround Time: 1412
+Response Time: 1328
+Waiting Time: 1366
+
+----- PID: 1448 -----
+Turnaround Time: 1438
+Response Time: 1373
+Waiting Time: 1391
+
+----- PID: 1463 -----
+Turnaround Time: 1132
+Response Time: 1091
+Waiting Time: 1095
+
+----- PID: 1456 -----
+Turnaround Time: 1323
+Response Time: 1271
+Waiting Time: 1280
+
+----- PID: 1440 -----
+Turnaround Time: 1632
+Response Time: 1579
+Waiting Time: 1579
+
+----- PID: 1441 -----
+Turnaround Time: 1635
+Response Time: 1552
+Waiting Time: 1583
+
+----- PID: 1478 -----
+Turnaround Time: 531
+Response Time: 511
+Waiting Time: 514
+
+----- PID: 1434 -----
+Turnaround Time: 1809
+Response Time: 1730
+Waiting Time: 1752
+
+----- PID: 1471 -----
+Turnaround Time: 832
+Response Time: 782
+Waiting Time: 806
+
+----- PID: 1437 -----
+Turnaround Time: 1785
+Response Time: 1703
+Waiting Time: 1729
+
+----- PID: 1436 -----
+Turnaround Time: 1830
+Response Time: 1768
+Waiting Time: 1771
+
+----- PID: 1488 -----
+Turnaround Time: 397
+Response Time: 362
+Waiting Time: 385
+
+----- PID: 1452 -----
+Turnaround Time: 1572
+Response Time: 1513
+Waiting Time: 1521
+
+----- PID: 1455 -----
+Turnaround Time: 1559
+Response Time: 1504
+Waiting Time: 1506
+
+----- PID: 1450 -----
+Turnaround Time: 1668
+Response Time: 1589
+Waiting Time: 1612
+
+----- PID: 1482 -----
+Turnaround Time: 614
+Response Time: 573
+Waiting Time: 596
+
+----- PID: 1468 -----
+Turnaround Time: 1207
+Response Time: 1166
+Waiting Time: 1166
+
+----- PID: 1484 -----
+Turnaround Time: 598
+Response Time: 559
+Waiting Time: 579
+
+----- PID: 1460 -----
+Turnaround Time: 1513
+Response Time: 1458
+Waiting Time: 1460
+
+----- PID: 1458 -----
+Turnaround Time: 1641
+Response Time: 1567
+Waiting Time: 1585
+
+----- PID: 1483 -----
+Turnaround Time: 655
+Response Time: 630
+Waiting Time: 630
+
+----- PID: 1476 -----
+Turnaround Time: 814
+Response Time: 775
+Waiting Time: 788
+
+----- PID: 1485 -----
+Turnaround Time: 651
+Response Time: 595
+Waiting Time: 631
+
+----- PID: 1473 -----
+Turnaround Time: 1115
+Response Time: 1036
+Waiting Time: 1079
+
+----- PID: 1462 -----
+Turnaround Time: 1608
+Response Time: 1512
+Waiting Time: 1552
+
+----- PID: 1486 -----
+Turnaround Time: 689
+Response Time: 657
+Waiting Time: 664
+
+----- PID: 1496 -----
+Turnaround Time: 505
+Response Time: 467
+Waiting Time: 489
+
+----- PID: 1481 -----
+Turnaround Time: 835
+Response Time: 778
+Waiting Time: 807
+
+----- PID: 1470 -----
+Turnaround Time: 1221
+Response Time: 1156
+Waiting Time: 1177
+
+----- PID: 1504 -----
+Turnaround Time: 372
+Response Time: 351
+Waiting Time: 358
+
+----- PID: 1498 -----
+Turnaround Time: 529
+Response Time: 484
+Waiting Time: 509
+
+----- PID: 1469 -----
+Turnaround Time: 1377
+Response Time: 1314
+Waiting Time: 1321
+
+----- PID: 1477 -----
+Turnaround Time: 994
+Response Time: 914
+Waiting Time: 954
+
+----- PID: 1507 -----
+Turnaround Time: 370
+Response Time: 353
+Waiting Time: 357
+
+----- PID: 1501 -----
+Turnaround Time: 499
+Response Time: 472
+Waiting Time: 480
+
+----- PID: 1492 -----
+Turnaround Time: 727
+Response Time: 690
+Waiting Time: 698
+
+----- PID: 1493 -----
+Turnaround Time: 726
+Response Time: 684
+Waiting Time: 691
+
+----- PID: 1474 -----
+Turnaround Time: 1104
+Response Time: 1037
+Waiting Time: 1056
+
+----- PID: 1480 -----
+Turnaround Time: 1038
+Response Time: 949
+Waiting Time: 992
+
+----- PID: 1479 -----
+Turnaround Time: 1065
+Response Time: 951
+Waiting Time: 1017
+
+----- PID: 1514 -----
+Turnaround Time: 352
+Response Time: 325
+Waiting Time: 339
+
+----- PID: 1494 -----
+Turnaround Time: 788
+Response Time: 743
+Waiting Time: 753
+
+----- PID: 1512 -----
+Turnaround Time: 434
+Response Time: 386
+Waiting Time: 416
+
+----- PID: 1490 -----
+Turnaround Time: 879
+Response Time: 821
+Waiting Time: 841
+
+----- PID: 1511 -----
+Turnaround Time: 459
+Response Time: 434
+Waiting Time: 440
+
+----- PID: 1503 -----
+Turnaround Time: 629
+Response Time: 601
+Waiting Time: 602
+
+----- PID: 1506 -----
+Turnaround Time: 591
+Response Time: 553
+Waiting Time: 566
+
+----- PID: 1489 -----
+Turnaround Time: 986
+Response Time: 935
+Waiting Time: 941
+
+----- PID: 1475 -----
+Turnaround Time: 1296
+Response Time: 1215
+Waiting Time: 1240
+
+----- PID: 1495 -----
+Turnaround Time: 943
+Response Time: 879
+Waiting Time: 894
+
+----- PID: 1508 -----
+Turnaround Time: 658
+Response Time: 588
+Waiting Time: 630
+
+----- PID: 1487 -----
+Turnaround Time: 1118
+Response Time: 1013
+Waiting Time: 1064
+
+----- PID: 1527 -----
+Turnaround Time: 368
+Response Time: 330
+Waiting Time: 353
+
+----- PID: 1491 -----
+Turnaround Time: 1099
+Response Time: 1030
+Waiting Time: 1040
+
+----- PID: 1524 -----
+Turnaround Time: 462
+Response Time: 425
+Waiting Time: 439
+
+----- PID: 1525 -----
+Turnaround Time: 453
+Response Time: 415
+Waiting Time: 431
+
+----- PID: 1513 -----
+Turnaround Time: 666
+Response Time: 599
+Waiting Time: 634
+
+----- PID: 1528 -----
+Turnaround Time: 439
+Response Time: 417
+Waiting Time: 418
+
+----- PID: 1497 -----
+Turnaround Time: 1007
+Response Time: 956
+Waiting Time: 956
+
+----- PID: 1530 -----
+Turnaround Time: 443
+Response Time: 411
+Waiting Time: 422
+
+----- PID: 1522 -----
+Turnaround Time: 577
+Response Time: 545
+Waiting Time: 546
+
+----- PID: 1516 -----
+Turnaround Time: 686
+Response Time: 629
+Waiting Time: 654
+
+----- PID: 1509 -----
+Turnaround Time: 828
+Response Time: 754
+Waiting Time: 788
+
+----- PID: 1510 -----
+Turnaround Time: 835
+Response Time: 735
+Waiting Time: 793
+
+----- PID: 1499 -----
+Turnaround Time: 1095
+Response Time: 977
+Waiting Time: 1039
+
+----- PID: 1536 -----
+Turnaround Time: 427
+Response Time: 408
+Waiting Time: 408
+
+----- PID: 1541 -----
+Turnaround Time: 377
+Response Time: 354
+Waiting Time: 360
+
+----- PID: 1532 -----
+Turnaround Time: 543
+Response Time: 499
+Waiting Time: 518
+
+----- PID: 1325 -----
+Turnaround Time: 7224
+Response Time: 6845
+Waiting Time: 6858
+
+----- PID: 1502 -----
+Turnaround Time: 1089
+Response Time: 1034
+Waiting Time: 1034
+
+----- PID: 1523 -----
+Turnaround Time: 712
+Response Time: 654
+Waiting Time: 678
+
+----- PID: 1500 -----
+Turnaround Time: 1181
+Response Time: 1083
+Waiting Time: 1125
+
+----- PID: 1313 -----
+Turnaround Time: 8296
+Response Time: 7836
+Waiting Time: 7839
+
+----- PID: 1539 -----
+Turnaround Time: 543
+Response Time: 488
+Waiting Time: 516
+
+----- PID: 1505 -----
+Turnaround Time: 1155
+Response Time: 1057
+Waiting Time: 1103
+
+----- PID: 1538 -----
+Turnaround Time: 617
+Response Time: 578
+Waiting Time: 588
+
+----- PID: 1515 -----
+Turnaround Time: 1005
+Response Time: 938
+Waiting Time: 957
+
+----- PID: 1557 -----
+Turnaround Time: 309
+Response Time: 281
+Waiting Time: 296
+
+----- PID: 1526 -----
+Turnaround Time: 856
+Response Time: 815
+Waiting Time: 815
+
+----- PID: 1533 -----
+Turnaround Time: 768
+Response Time: 720
+Waiting Time: 733
+
+----- PID: 1553 -----
+Turnaround Time: 415
+Response Time: 382
+Waiting Time: 397
+
+----- PID: 1531 -----
+Turnaround Time: 839
+Response Time: 785
+Waiting Time: 801
+
+----- PID: 1518 -----
+Turnaround Time: 1060
+Response Time: 986
+Waiting Time: 1012
+
+----- PID: 1529 -----
+Turnaround Time: 917
+Response Time: 822
+Waiting Time: 875
+
+----- PID: 1517 -----
+Turnaround Time: 1116
+Response Time: 1006
+Waiting Time: 1064
+
+----- PID: 1564 -----
+Turnaround Time: 307
+Response Time: 293
+Waiting Time: 294
+
+----- PID: 1561 -----
+Turnaround Time: 391
+Response Time: 360
+Waiting Time: 375
+
+----- PID: 1545 -----
+Turnaround Time: 666
+Response Time: 621
+Waiting Time: 637
+
+----- PID: 1566 -----
+Turnaround Time: 352
+Response Time: 320
+Waiting Time: 338
+
+----- PID: 1542 -----
+Turnaround Time: 785
+Response Time: 739
+Waiting Time: 746
+
+----- PID: 1521 -----
+Turnaround Time: 1125
+Response Time: 1053
+Waiting Time: 1075
+
+----- PID: 1535 -----
+Turnaround Time: 920
+Response Time: 820
+Waiting Time: 880
+
+----- PID: 1519 -----
+Turnaround Time: 1204
+Response Time: 1090
+Waiting Time: 1148
+
+----- PID: 1572 -----
+Turnaround Time: 272
+Response Time: 248
+Waiting Time: 262
+
+----- PID: 1549 -----
+Turnaround Time: 698
+Response Time: 661
+Waiting Time: 667
+
+----- PID: 1559 -----
+Turnaround Time: 568
+Response Time: 532
+Waiting Time: 541
+
+----- PID: 1534 -----
+Turnaround Time: 1031
+Response Time: 964
+Waiting Time: 985
+
+----- PID: 1520 -----
+Turnaround Time: 1277
+Response Time: 1193
+Waiting Time: 1219
+
+----- PID: 1554 -----
+Turnaround Time: 742
+Response Time: 696
+Waiting Time: 709
+
+----- PID: 1575 -----
+Turnaround Time: 335
+Response Time: 286
+Waiting Time: 323
+
+----- PID: 1543 -----
+Turnaround Time: 958
+Response Time: 913
+Waiting Time: 913
+
+----- PID: 1547 -----
+Turnaround Time: 862
+Response Time: 807
+Waiting Time: 824
+
+----- PID: 1570 -----
+Turnaround Time: 487
+Response Time: 452
+Waiting Time: 466
+
+----- PID: 1578 -----
+Turnaround Time: 346
+Response Time: 307
+Waiting Time: 332
+
+----- PID: 1550 -----
+Turnaround Time: 861
+Response Time: 810
+Waiting Time: 823
+
+----- PID: 1571 -----
+Turnaround Time: 501
+Response Time: 465
+Waiting Time: 480
+
+----- PID: 1585 -----
+Turnaround Time: 274
+Response Time: 235
+Waiting Time: 264
+
+----- PID: 1548 -----
+Turnaround Time: 946
+Response Time: 901
+Waiting Time: 905
+
+----- PID: 1551 -----
+Turnaround Time: 929
+Response Time: 885
+Waiting Time: 888
+
+----- PID: 1563 -----
+Turnaround Time: 719
+Response Time: 673
+Waiting Time: 689
+
+----- PID: 1589 -----
+Turnaround Time: 263
+Response Time: 242
+Waiting Time: 252
+
+----- PID: 1567 -----
+Turnaround Time: 682
+Response Time: 640
+Waiting Time: 654
+
+----- PID: 1556 -----
+Turnaround Time: 903
+Response Time: 837
+Waiting Time: 865
+
+----- PID: 1540 -----
+Turnaround Time: 1207
+Response Time: 1130
+Waiting Time: 1155
+
+----- PID: 1579 -----
+Turnaround Time: 499
+Response Time: 457
+Waiting Time: 480
+
+----- PID: 1544 -----
+Turnaround Time: 1193
+Response Time: 1110
+Waiting Time: 1143
+
+----- PID: 1546 -----
+Turnaround Time: 1156
+Response Time: 1076
+Waiting Time: 1101
+
+----- PID: 1537 -----
+Turnaround Time: 1334
+Response Time: 1229
+Waiting Time: 1278
+
+----- PID: 1555 -----
+Turnaround Time: 1052
+Response Time: 929
+Waiting Time: 1008
+
+----- PID: 1560 -----
+Turnaround Time: 961
+Response Time: 831
+Waiting Time: 921
+
+----- PID: 1591 -----
+Turnaround Time: 422
+Response Time: 402
+Waiting Time: 407
+
+----- PID: 1596 -----
+Turnaround Time: 330
+Response Time: 306
+Waiting Time: 320
+
+----- PID: 1588 -----
+Turnaround Time: 492
+Response Time: 455
+Waiting Time: 475
+
+----- PID: 1558 -----
+Turnaround Time: 1078
+Response Time: 1020
+Waiting Time: 1031
+
+----- PID: 1574 -----
+Turnaround Time: 772
+Response Time: 712
+Waiting Time: 740
+
+----- PID: 1565 -----
+Turnaround Time: 975
+Response Time: 903
+Waiting Time: 935
+
+----- PID: 1590 -----
+Turnaround Time: 527
+Response Time: 505
+Waiting Time: 506
+
+----- PID: 1601 -----
+Turnaround Time: 347
+Response Time: 328
+Waiting Time: 333
+
+----- PID: 1600 -----
+Turnaround Time: 384
+Response Time: 354
+Waiting Time: 368
+
+----- PID: 1580 -----
+Turnaround Time: 724
+Response Time: 670
+Waiting Time: 694
+
+----- PID: 1562 -----
+Turnaround Time: 1123
+Response Time: 1033
+Waiting Time: 1073
+
+----- PID: 1602 -----
+Turnaround Time: 421
+Response Time: 382
+Waiting Time: 404
+
+----- PID: 1552 -----
+Turnaround Time: 1313
+Response Time: 1248
+Waiting Time: 1254
+
+----- PID: 1604 -----
+Turnaround Time: 412
+Response Time: 377
+Waiting Time: 395
+
+----- PID: 1576 -----
+Turnaround Time: 925
+Response Time: 855
+Waiting Time: 880
+
+----- PID: 1587 -----
+Turnaround Time: 727
+Response Time: 655
+Waiting Time: 695
+
+----- PID: 1568 -----
+Turnaround Time: 1096
+Response Time: 1038
+Waiting Time: 1043
+
+----- PID: 1606 -----
+Turnaround Time: 475
+Response Time: 411
+Waiting Time: 455
+
+----- PID: 1577 -----
+Turnaround Time: 955
+Response Time: 871
+Waiting Time: 911
+
+----- PID: 1573 -----
+Turnaround Time: 1051
+Response Time: 945
+Waiting Time: 1003
+
+----- PID: 1613 -----
+Turnaround Time: 362
+Response Time: 339
+Waiting Time: 349
+
+----- PID: 1599 -----
+Turnaround Time: 636
+Response Time: 598
+Waiting Time: 607
+
+----- PID: 1581 -----
+Turnaround Time: 958
+Response Time: 901
+Waiting Time: 914
+
+----- PID: 1592 -----
+Turnaround Time: 776
+Response Time: 737
+Waiting Time: 741
+
+----- PID: 1595 -----
+Turnaround Time: 757
+Response Time: 709
+Waiting Time: 720
+
+----- PID: 1569 -----
+Turnaround Time: 1253
+Response Time: 1180
+Waiting Time: 1195
+
+----- PID: 1617 -----
+Turnaround Time: 433
+Response Time: 408
+Waiting Time: 414
+
+----- PID: 1608 -----
+Turnaround Time: 612
+Response Time: 573
+Waiting Time: 585
+
+----- PID: 1629 -----
+Turnaround Time: 260
+Response Time: 218
+Waiting Time: 250
+
+----- PID: 1593 -----
+Turnaround Time: 862
+Response Time: 813
+Waiting Time: 823
+
+----- PID: 1582 -----
+Turnaround Time: 1108
+Response Time: 1040
+Waiting Time: 1057
+
+----- PID: 1603 -----
+Turnaround Time: 762
+Response Time: 691
+Waiting Time: 730
+
+----- PID: 1584 -----
+Turnaround Time: 1105
+Response Time: 1051
+Waiting Time: 1054
+
+----- PID: 1627 -----
+Turnaround Time: 390
+Response Time: 333
+Waiting Time: 376
+
+----- PID: 1594 -----
+Turnaround Time: 930
+Response Time: 880
+Waiting Time: 889
+
+----- PID: 1312 -----
+Turnaround Time: 9882
+Response Time: 9389
+Waiting Time: 9401
+
+----- PID: 1611 -----
+Turnaround Time: 732
+Response Time: 616
+Waiting Time: 703
+
+----- PID: 1618 -----
+Turnaround Time: 644
+Response Time: 541
+Waiting Time: 619
+
+----- PID: 1315 -----
+Turnaround Time: 9673
+Response Time: 9172
+Waiting Time: 9192
+
+----- PID: 1634 -----
+Turnaround Time: 421
+Response Time: 372
+Waiting Time: 408
+
+----- PID: 1586 -----
+Turnaround Time: 1246
+Response Time: 1185
+Waiting Time: 1193
+
+----- PID: 1610 -----
+Turnaround Time: 882
+Response Time: 831
+Waiting Time: 847
+
+----- PID: 1641 -----
+Turnaround Time: 338
+Response Time: 304
+Waiting Time: 325
+
+----- PID: 1597 -----
+Turnaround Time: 1118
+Response Time: 1061
+Waiting Time: 1071
+
+----- PID: 1644 -----
+Turnaround Time: 346
+Response Time: 285
+Waiting Time: 334
+
+----- PID: 1583 -----
+Turnaround Time: 1365
+Response Time: 1296
+Waiting Time: 1309
+
+----- PID: 1640 -----
+Turnaround Time: 420
+Response Time: 395
+Waiting Time: 401
+
+----- PID: 1619 -----
+Turnaround Time: 796
+Response Time: 742
+Waiting Time: 764
+
+----- PID: 1598 -----
+Turnaround Time: 1170
+Response Time: 1096
+Waiting Time: 1118
+
+----- PID: 1620 -----
+Turnaround Time: 840
+Response Time: 796
+Waiting Time: 801
+
+----- PID: 1647 -----
+Turnaround Time: 376
+Response Time: 327
+Waiting Time: 362
+
+----- PID: 1621 -----
+Turnaround Time: 855
+Response Time: 784
+Waiting Time: 817
+
+----- PID: 1607 -----
+Turnaround Time: 1117
+Response Time: 1034
+Waiting Time: 1067
+
+----- PID: 1648 -----
+Turnaround Time: 387
+Response Time: 372
+Waiting Time: 372
+
+----- PID: 1652 -----
+Turnaround Time: 286
+Response Time: 262
+Waiting Time: 275
+
+----- PID: 1635 -----
+Turnaround Time: 657
+Response Time: 620
+Waiting Time: 628
+
+----- PID: 1614 -----
+Turnaround Time: 1021
+Response Time: 959
+Waiting Time: 977
+
+----- PID: 1612 -----
+Turnaround Time: 1078
+Response Time: 1001
+Waiting Time: 1032
+
+----- PID: 1630 -----
+Turnaround Time: 789
+Response Time: 754
+Waiting Time: 756
+
+----- PID: 1631 -----
+Turnaround Time: 816
+Response Time: 770
+Waiting Time: 783
+
+----- PID: 1656 -----
+Turnaround Time: 344
+Response Time: 325
+Waiting Time: 330
+
+----- PID: 1605 -----
+Turnaround Time: 1308
+Response Time: 1243
+Waiting Time: 1253
+
+----- PID: 1653 -----
+Turnaround Time: 429
+Response Time: 393
+Waiting Time: 411
+
+----- PID: 1628 -----
+Turnaround Time: 924
+Response Time: 864
+Waiting Time: 886
+
+----- PID: 1609 -----
+Turnaround Time: 1283
+Response Time: 1203
+Waiting Time: 1231
+
+----- PID: 1637 -----
+Turnaround Time: 805
+Response Time: 722
+Waiting Time: 771
+
+----- PID: 1663 -----
+Turnaround Time: 301
+Response Time: 285
+Waiting Time: 291
+
+----- PID: 1657 -----
+Turnaround Time: 386
+Response Time: 371
+Waiting Time: 371
+
+----- PID: 1665 -----
+Turnaround Time: 264
+Response Time: 251
+Waiting Time: 254
+
+----- PID: 1664 -----
+Turnaround Time: 301
+Response Time: 278
+Waiting Time: 289
+
+----- PID: 1649 -----
+Turnaround Time: 642
+Response Time: 600
+Waiting Time: 616
+
+----- PID: 1639 -----
+Turnaround Time: 840
+Response Time: 796
+Waiting Time: 805
+
+----- PID: 1616 -----
+Turnaround Time: 1244
+Response Time: 1176
+Waiting Time: 1192
+
+----- PID: 1626 -----
+Turnaround Time: 1114
+Response Time: 1055
+Waiting Time: 1069
+
+----- PID: 1667 -----
+Turnaround Time: 355
+Response Time: 318
+Waiting Time: 342
+
+----- PID: 1615 -----
+Turnaround Time: 1333
+Response Time: 1262
+Waiting Time: 1278
+
+----- PID: 1642 -----
+Turnaround Time: 888
+Response Time: 815
+Waiting Time: 854
+
+----- PID: 1622 -----
+Turnaround Time: 1267
+Response Time: 1212
+Waiting Time: 1216
+
+----- PID: 1623 -----
+Turnaround Time: 1288
+Response Time: 1232
+Waiting Time: 1235
+
+----- PID: 1675 -----
+Turnaround Time: 317
+Response Time: 287
+Waiting Time: 306
+
+----- PID: 1636 -----
+Turnaround Time: 1086
+Response Time: 1031
+Waiting Time: 1041
+
+----- PID: 1677 -----
+Turnaround Time: 319
+Response Time: 280
+Waiting Time: 307
+
+----- PID: 1624 -----
+Turnaround Time: 1345
+Response Time: 1275
+Waiting Time: 1288
+
+----- PID: 1632 -----
+Turnaround Time: 1200
+Response Time: 1143
+Waiting Time: 1143
+
+----- PID: 1625 -----
+Turnaround Time: 1361
+Response Time: 1284
+Waiting Time: 1305
+
+----- PID: 1659 -----
+Turnaround Time: 709
+Response Time: 615
+Waiting Time: 679
+
+----- PID: 1646 -----
+Turnaround Time: 1008
+Response Time: 891
+Waiting Time: 964
+
+----- PID: 1638 -----
+Turnaround Time: 1198
+Response Time: 1054
+Waiting Time: 1146
+
+----- PID: 1650 -----
+Turnaround Time: 1001
+Response Time: 954
+Waiting Time: 958
+
+----- PID: 1671 -----
+Turnaround Time: 607
+Response Time: 557
+Waiting Time: 583
+
+----- PID: 1668 -----
+Turnaround Time: 674
+Response Time: 629
+Waiting Time: 647
+
+----- PID: 1633 -----
+Turnaround Time: 1364
+Response Time: 1306
+Waiting Time: 1307
+
+----- PID: 1643 -----
+Turnaround Time: 1227
+Response Time: 1155
+Waiting Time: 1174
+
+----- PID: 1645 -----
+Turnaround Time: 1200
+Response Time: 1126
+Waiting Time: 1150
+
+----- PID: 1654 -----
+Turnaround Time: 992
+Response Time: 944
+Waiting Time: 951
+
+----- PID: 1661 -----
+Turnaround Time: 917
+Response Time: 873
+Waiting Time: 874
+
+----- PID: 1320 -----
+Turnaround Time: 10358
+Response Time: 9883
+Waiting Time: 9892
+
+----- PID: 1651 -----
+Turnaround Time: 1222
+Response Time: 1015
+Waiting Time: 1178
+
+----- PID: 1323 -----
+Turnaround Time: 10148
+Response Time: 9609
+Waiting Time: 9675
+
+----- PID: 1673 -----
+Turnaround Time: 962
+Response Time: 670
+Waiting Time: 930
+
+----- PID: 1693 -----
+Turnaround Time: 639
+Response Time: 619
+Waiting Time: 622
+
+----- PID: 1701 -----
+Turnaround Time: 484
+Response Time: 469
+Waiting Time: 469
+
+----- PID: 1699 -----
+Turnaround Time: 527
+Response Time: 502
+Waiting Time: 513
+
+----- PID: 1697 -----
+Turnaround Time: 592
+Response Time: 563
+Waiting Time: 574
+
+----- PID: 1707 -----
+Turnaround Time: 372
+Response Time: 361
+Waiting Time: 361
+
+----- PID: 1330 -----
+Turnaround Time: 9794
+Response Time: 9320
+Waiting Time: 9335
+
+----- PID: 1662 -----
+Turnaround Time: 1334
+Response Time: 1181
+Waiting Time: 1291
+
+----- PID: 1685 -----
+Turnaround Time: 1016
+Response Time: 830
+Waiting Time: 988
+
+----- PID: 1670 -----
+Turnaround Time: 1254
+Response Time: 1051
+Waiting Time: 1218
+
+----- PID: 1666 -----
+Turnaround Time: 1330
+Response Time: 1107
+Waiting Time: 1290
+
+----- PID: 1674 -----
+Turnaround Time: 1220
+Response Time: 1178
+Waiting Time: 1183
+
+----- PID: 1705 -----
+Turnaround Time: 673
+Response Time: 628
+Waiting Time: 657
+
+----- PID: 1688 -----
+Turnaround Time: 1027
+Response Time: 993
+Waiting Time: 996
+
+----- PID: 1692 -----
+Turnaround Time: 976
+Response Time: 933
+Waiting Time: 947
+
+----- PID: 1702 -----
+Turnaround Time: 764
+Response Time: 719
+Waiting Time: 742
+
+----- PID: 1689 -----
+Turnaround Time: 1043
+Response Time: 1001
+Waiting Time: 1010
+
+----- PID: 1655 -----
+Turnaround Time: 1631
+Response Time: 1559
+Waiting Time: 1583
+
+----- PID: 1719 -----
+Turnaround Time: 362
+Response Time: 316
+Waiting Time: 352
+
+----- PID: 1658 -----
+Turnaround Time: 1611
+Response Time: 1553
+Waiting Time: 1560
+
+----- PID: 1694 -----
+Turnaround Time: 1007
+Response Time: 944
+Waiting Time: 977
+
+----- PID: 1695 -----
+Turnaround Time: 1012
+Response Time: 944
+Waiting Time: 982
+
+----- PID: 1714 -----
+Turnaround Time: 443
+Response Time: 428
+Waiting Time: 431
+
+----- PID: 1715 -----
+Turnaround Time: 420
+Response Time: 406
+Waiting Time: 408
+
+----- PID: 1660 -----
+Turnaround Time: 1637
+Response Time: 1581
+Waiting Time: 1587
+
+----- PID: 1686 -----
+Turnaround Time: 1267
+Response Time: 1201
+Waiting Time: 1229
+
+----- PID: 1669 -----
+Turnaround Time: 1530
+Response Time: 1454
+Waiting Time: 1484
+
+----- PID: 1720 -----
+Turnaround Time: 466
+Response Time: 450
+Waiting Time: 453
+
+----- PID: 1716 -----
+Turnaround Time: 500
+Response Time: 480
+Waiting Time: 486
+
+----- PID: 1712 -----
+Turnaround Time: 616
+Response Time: 579
+Waiting Time: 598
+
+----- PID: 1682 -----
+Turnaround Time: 1362
+Response Time: 1315
+Waiting Time: 1320
+
+----- PID: 1713 -----
+Turnaround Time: 650
+Response Time: 615
+Waiting Time: 631
+
+----- PID: 1672 -----
+Turnaround Time: 1562
+Response Time: 1515
+Waiting Time: 1515
+
+----- PID: 1681 -----
+Turnaround Time: 1451
+Response Time: 1390
+Waiting Time: 1408
+
+----- PID: 1703 -----
+Turnaround Time: 1043
+Response Time: 1004
+Waiting Time: 1010
+
+----- PID: 1684 -----
+Turnaround Time: 1448
+Response Time: 1396
+Waiting Time: 1402
+
+----- PID: 1721 -----
+Turnaround Time: 471
+Response Time: 441
+Waiting Time: 456
+
+----- PID: 1725 -----
+Turnaround Time: 402
+Response Time: 370
+Waiting Time: 390
+
+----- PID: 1708 -----
+Turnaround Time: 974
+Response Time: 931
+Waiting Time: 941
+
+----- PID: 1679 -----
+Turnaround Time: 1562
+Response Time: 1478
+Waiting Time: 1512
+
+----- PID: 1676 -----
+Turnaround Time: 1656
+Response Time: 1578
+Waiting Time: 1601
+
+----- PID: 1691 -----
+Turnaround Time: 1415
+Response Time: 1336
+Waiting Time: 1369
+
+----- PID: 1683 -----
+Turnaround Time: 1606
+Response Time: 1553
+Waiting Time: 1553
+
+----- PID: 1687 -----
+Turnaround Time: 1555
+Response Time: 1486
+Waiting Time: 1505
+
+----- PID: 1730 -----
+Turnaround Time: 479
+Response Time: 463
+Waiting Time: 464
+
+----- PID: 1723 -----
+Turnaround Time: 614
+Response Time: 568
+Waiting Time: 596
+
+----- PID: 1678 -----
+Turnaround Time: 1737
+Response Time: 1678
+Waiting Time: 1682
+
+----- PID: 1741 -----
+Turnaround Time: 374
+Response Time: 358
+Waiting Time: 363
+
+----- PID: 1690 -----
+Turnaround Time: 1574
+Response Time: 1525
+Waiting Time: 1525
+
+----- PID: 1729 -----
+Turnaround Time: 559
+Response Time: 538
+Waiting Time: 542
+
+----- PID: 1728 -----
+Turnaround Time: 609
+Response Time: 574
+Waiting Time: 590
+
+----- PID: 1710 -----
+Turnaround Time: 1198
+Response Time: 1147
+Waiting Time: 1155
+
+----- PID: 1680 -----
+Turnaround Time: 1793
+Response Time: 1715
+Waiting Time: 1735
+
+----- PID: 1698 -----
+Turnaround Time: 1498
+Response Time: 1408
+Waiting Time: 1446
+
+----- PID: 1726 -----
+Turnaround Time: 719
+Response Time: 679
+Waiting Time: 696
+
+----- PID: 1704 -----
+Turnaround Time: 1419
+Response Time: 1363
+Waiting Time: 1366
+
+----- PID: 1696 -----
+Turnaround Time: 1606
+Response Time: 1536
+Waiting Time: 1548
+
+----- PID: 1734 -----
+Turnaround Time: 662
+Response Time: 619
+Waiting Time: 639
+
+----- PID: 1709 -----
+Turnaround Time: 1390
+Response Time: 1330
+Waiting Time: 1335
+
+----- PID: 1717 -----
+Turnaround Time: 1083
+Response Time: 1018
+Waiting Time: 1045
+
+----- PID: 1727 -----
+Turnaround Time: 851
+Response Time: 760
+Waiting Time: 821
+
+----- PID: 1700 -----
+Turnaround Time: 1639
+Response Time: 1524
+Waiting Time: 1581
+
+----- PID: 1744 -----
+Turnaround Time: 624
+Response Time: 598
+Waiting Time: 603
+
+----- PID: 1738 -----
+Turnaround Time: 752
+Response Time: 717
+Waiting Time: 725
+
+----- PID: 1757 -----
+Turnaround Time: 391
+Response Time: 353
+Waiting Time: 379
+
+----- PID: 1732 -----
+Turnaround Time: 815
+Response Time: 783
+Waiting Time: 786
+
+----- PID: 1742 -----
+Turnaround Time: 708
+Response Time: 674
+Waiting Time: 683
+
+----- PID: 1748 -----
+Turnaround Time: 586
+Response Time: 549
+Waiting Time: 566
+
+----- PID: 1739 -----
+Turnaround Time: 759
+Response Time: 711
+Waiting Time: 733
+
+----- PID: 1747 -----
+Turnaround Time: 667
+Response Time: 624
+Waiting Time: 644
+
+----- PID: 1706 -----
+Turnaround Time: 1645
+Response Time: 1585
+Waiting Time: 1586
+
+----- PID: 1766 -----
+Turnaround Time: 367
+Response Time: 349
+Waiting Time: 355
+
+----- PID: 1711 -----
+Turnaround Time: 1553
+Response Time: 1496
+Waiting Time: 1496
+
+----- PID: 1763 -----
+Turnaround Time: 431
+Response Time: 409
+Waiting Time: 414
+
+----- PID: 1752 -----
+Turnaround Time: 674
+Response Time: 624
+Waiting Time: 650
+
+----- PID: 1731 -----
+Turnaround Time: 1007
+Response Time: 964
+Waiting Time: 966
+
+----- PID: 1724 -----
+Turnaround Time: 1127
+Response Time: 1073
+Waiting Time: 1083
+
+----- PID: 1767 -----
+Turnaround Time: 410
+Response Time: 395
+Waiting Time: 395
+
+----- PID: 1774 -----
+Turnaround Time: 270
+Response Time: 259
+Waiting Time: 260
+
+----- PID: 1736 -----
+Turnaround Time: 1002
+Response Time: 953
+Waiting Time: 959
+
+----- PID: 1718 -----
+Turnaround Time: 1407
+Response Time: 1334
+Waiting Time: 1351
+
+----- PID: 1746 -----
+Turnaround Time: 898
+Response Time: 801
+Waiting Time: 862
+
+----- PID: 1722 -----
+Turnaround Time: 1316
+Response Time: 1245
+Waiting Time: 1261
+
+----- PID: 1733 -----
+Turnaround Time: 1119
+Response Time: 1069
+Waiting Time: 1072
+
+----- PID: 1750 -----
+Turnaround Time: 897
+Response Time: 848
+Waiting Time: 860
+
+----- PID: 1781 -----
+Turnaround Time: 325
+Response Time: 295
+Waiting Time: 312
+
+----- PID: 1754 -----
+Turnaround Time: 845
+Response Time: 802
+Waiting Time: 806
+
+----- PID: 1743 -----
+Turnaround Time: 1069
+Response Time: 993
+Waiting Time: 1025
+
+----- PID: 1740 -----
+Turnaround Time: 1115
+Response Time: 1025
+Waiting Time: 1069
+
+----- PID: 1735 -----
+Turnaround Time: 1212
+Response Time: 1105
+Waiting Time: 1162
+
+----- PID: 1790 -----
+Turnaround Time: 282
+Response Time: 249
+Waiting Time: 272
+
+----- PID: 1764 -----
+Turnaround Time: 753
+Response Time: 722
+Waiting Time: 722
+
+----- PID: 1319 -----
+Turnaround Time: 12248
+Response Time: 11738
+Waiting Time: 11740
+
+----- PID: 1777 -----
+Turnaround Time: 641
+Response Time: 467
+Waiting Time: 620
+
+----- PID: 1795 -----
+Turnaround Time: 379
+Response Time: 362
+Waiting Time: 368
+
+----- PID: 1792 -----
+Turnaround Time: 451
+Response Time: 436
+Waiting Time: 436
+
+----- PID: 1791 -----
+Turnaround Time: 459
+Response Time: 440
+Waiting Time: 445
+
+----- PID: 1794 -----
+Turnaround Time: 415
+Response Time: 385
+Waiting Time: 403
+
+----- PID: 1785 -----
+Turnaround Time: 574
+Response Time: 519
+Waiting Time: 558
+
+----- PID: 1745 -----
+Turnaround Time: 1338
+Response Time: 1289
+Waiting Time: 1289
+
+----- PID: 1755 -----
+Turnaround Time: 1147
+Response Time: 1094
+Waiting Time: 1106
+
+----- PID: 1737 -----
+Turnaround Time: 1527
+Response Time: 1457
+Waiting Time: 1468
+
+----- PID: 1762 -----
+Turnaround Time: 1080
+Response Time: 1006
+Waiting Time: 1042
+
+----- PID: 1751 -----
+Turnaround Time: 1316
+Response Time: 1217
+Waiting Time: 1270
+
+----- PID: 1758 -----
+Turnaround Time: 1206
+Response Time: 1147
+Waiting Time: 1161
+
+----- PID: 1760 -----
+Turnaround Time: 1177
+Response Time: 1117
+Waiting Time: 1135
+
+----- PID: 1778 -----
+Turnaround Time: 848
+Response Time: 817
+Waiting Time: 817
+
+----- PID: 1796 -----
+Turnaround Time: 581
+Response Time: 547
+Waiting Time: 560
+
+----- PID: 1759 -----
+Turnaround Time: 1257
+Response Time: 1205
+Waiting Time: 1211
+
+----- PID: 1775 -----
+Turnaround Time: 941
+Response Time: 890
+Waiting Time: 907
+
+----- PID: 1802 -----
+Turnaround Time: 511
+Response Time: 481
+Waiting Time: 494
+
+----- PID: 1770 -----
+Turnaround Time: 1091
+Response Time: 1042
+Waiting Time: 1052
+
+----- PID: 1749 -----
+Turnaround Time: 1525
+Response Time: 1461
+Waiting Time: 1470
+
+----- PID: 1782 -----
+Turnaround Time: 941
+Response Time: 906
+Waiting Time: 908
+
+----- PID: 1772 -----
+Turnaround Time: 1112
+Response Time: 1047
+Waiting Time: 1074
+
+----- PID: 1756 -----
+Turnaround Time: 1448
+Response Time: 1391
+Waiting Time: 1397
+
+----- PID: 1776 -----
+Turnaround Time: 1056
+Response Time: 998
+Waiting Time: 1020
+
+----- PID: 1803 -----
+Turnaround Time: 626
+Response Time: 593
+Waiting Time: 606
+
+----- PID: 1789 -----
+Turnaround Time: 924
+Response Time: 866
+Waiting Time: 890
+
+----- PID: 1753 -----
+Turnaround Time: 1596
+Response Time: 1513
+Waiting Time: 1538
+
+----- PID: 1761 -----
+Turnaround Time: 1444
+Response Time: 1336
+Waiting Time: 1392
+
+----- PID: 1771 -----
+Turnaround Time: 1295
+Response Time: 1160
+Waiting Time: 1245
+
+----- PID: 1765 -----
+Turnaround Time: 1471
+Response Time: 1401
+Waiting Time: 1414
+
+----- PID: 1784 -----
+Turnaround Time: 1124
+Response Time: 1052
+Waiting Time: 1082
+
+----- PID: 1780 -----
+Turnaround Time: 1212
+Response Time: 1113
+Waiting Time: 1168
+
+----- PID: 1769 -----
+Turnaround Time: 1438
+Response Time: 1306
+Waiting Time: 1386
+
+----- PID: 1813 -----
+Turnaround Time: 608
+Response Time: 547
+Waiting Time: 588
+
+----- PID: 1768 -----
+Turnaround Time: 1513
+Response Time: 1435
+Waiting Time: 1454
+
+----- PID: 1793 -----
+Turnaround Time: 1115
+Response Time: 1032
+Waiting Time: 1077
+
+----- PID: 1783 -----
+Turnaround Time: 1283
+Response Time: 1180
+Waiting Time: 1239
+
+----- PID: 1779 -----
+Turnaround Time: 1344
+Response Time: 1229
+Waiting Time: 1294
+
+----- PID: 1820 -----
+Turnaround Time: 528
+Response Time: 499
+Waiting Time: 511
+
+----- PID: 1805 -----
+Turnaround Time: 926
+Response Time: 885
+Waiting Time: 891
+
+----- PID: 1787 -----
+Turnaround Time: 1277
+Response Time: 1207
+Waiting Time: 1231
+
+----- PID: 1773 -----
+Turnaround Time: 1507
+Response Time: 1415
+Waiting Time: 1453
+
+----- PID: 1827 -----
+Turnaround Time: 467
+Response Time: 433
+Waiting Time: 451
+
+----- PID: 1800 -----
+Turnaround Time: 1103
+Response Time: 1050
+Waiting Time: 1062
+
+----- PID: 1804 -----
+Turnaround Time: 1048
+Response Time: 997
+Waiting Time: 1007
+
+----- PID: 1822 -----
+Turnaround Time: 626
+Response Time: 570
+Waiting Time: 604
+
+----- PID: 1799 -----
+Turnaround Time: 1158
+Response Time: 1078
+Waiting Time: 1116
+
+----- PID: 1786 -----
+Turnaround Time: 1411
+Response Time: 1316
+Waiting Time: 1359
+
+----- PID: 1812 -----
+Turnaround Time: 903
+Response Time: 862
+Waiting Time: 870
+
+----- PID: 1806 -----
+Turnaround Time: 1129
+Response Time: 1076
+Waiting Time: 1086
+
+----- PID: 1828 -----
+Turnaround Time: 613
+Response Time: 557
+Waiting Time: 591
+
+----- PID: 1807 -----
+Turnaround Time: 986
+Response Time: 948
+Waiting Time: 949
+
+----- PID: 1809 -----
+Turnaround Time: 993
+Response Time: 930
+Waiting Time: 957
+
+----- PID: 1798 -----
+Turnaround Time: 1312
+Response Time: 1229
+Waiting Time: 1264
+
+----- PID: 1841 -----
+Turnaround Time: 365
+Response Time: 342
+Waiting Time: 354
+
+----- PID: 1816 -----
+Turnaround Time: 908
+Response Time: 861
+Waiting Time: 877
+
+----- PID: 1788 -----
+Turnaround Time: 1588
+Response Time: 1515
+Waiting Time: 1531
+
+----- PID: 1801 -----
+Turnaround Time: 1368
+Response Time: 1298
+Waiting Time: 1319
+
+----- PID: 1814 -----
+Turnaround Time: 1047
+Response Time: 1000
+Waiting Time: 1010
+
+----- PID: 1797 -----
+Turnaround Time: 1460
+Response Time: 1393
+Waiting Time: 1407
+
+----- PID: 1808 -----
+Turnaround Time: 1175
+Response Time: 1129
+Waiting Time: 1132
+
+----- PID: 1824 -----
+Turnaround Time: 924
+Response Time: 878
+Waiting Time: 891
+
+----- PID: 1848 -----
+Turnaround Time: 410
+Response Time: 379
+Waiting Time: 395
+
+----- PID: 1819 -----
+Turnaround Time: 1009
+Response Time: 965
+Waiting Time: 970
+
+----- PID: 1811 -----
+Turnaround Time: 1217
+Response Time: 1148
+Waiting Time: 1171
+
+----- PID: 1849 -----
+Turnaround Time: 435
+Response Time: 409
+Waiting Time: 420
+
+----- PID: 1826 -----
+Turnaround Time: 954
+Response Time: 906
+Waiting Time: 919
+
+----- PID: 1851 -----
+Turnaround Time: 434
+Response Time: 404
+Waiting Time: 419
+
+----- PID: 1833 -----
+Turnaround Time: 845
+Response Time: 797
+Waiting Time: 810
+
+----- PID: 1850 -----
+Turnaround Time: 485
+Response Time: 432
+Waiting Time: 469
+
+----- PID: 1817 -----
+Turnaround Time: 1176
+Response Time: 1101
+Waiting Time: 1130
+
+----- PID: 1810 -----
+Turnaround Time: 1329
+Response Time: 1232
+Waiting Time: 1275
+
+----- PID: 1829 -----
+Turnaround Time: 989
+Response Time: 947
+Waiting Time: 950
+
+----- PID: 1823 -----
+Turnaround Time: 1135
+Response Time: 1066
+Waiting Time: 1091
+
+----- PID: 1863 -----
+Turnaround Time: 362
+Response Time: 339
+Waiting Time: 349
+
+----- PID: 1815 -----
+Turnaround Time: 1332
+Response Time: 1259
+Waiting Time: 1281
+
+----- PID: 1840 -----
+Turnaround Time: 805
+Response Time: 764
+Waiting Time: 774
+
+----- PID: 1825 -----
+Turnaround Time: 1183
+Response Time: 1127
+Waiting Time: 1136
+
+----- PID: 1818 -----
+Turnaround Time: 1340
+Response Time: 1269
+Waiting Time: 1283
+
+----- PID: 1821 -----
+Turnaround Time: 1292
+Response Time: 1219
+Waiting Time: 1238
+
+----- PID: 1847 -----
+Turnaround Time: 775
+Response Time: 737
+Waiting Time: 744
+
+----- PID: 1843 -----
+Turnaround Time: 873
+Response Time: 830
+Waiting Time: 836
+
+----- PID: 1831 -----
+Turnaround Time: 1160
+Response Time: 1102
+Waiting Time: 1112
+
+----- PID: 1855 -----
+Turnaround Time: 673
+Response Time: 646
+Waiting Time: 646
+
+----- PID: 1865 -----
+Turnaround Time: 481
+Response Time: 447
+Waiting Time: 462
+
+----- PID: 1874 -----
+Turnaround Time: 339
+Response Time: 300
+Waiting Time: 327
+
+----- PID: 1838 -----
+Turnaround Time: 1057
+Response Time: 994
+Waiting Time: 1015
+
+----- PID: 1830 -----
+Turnaround Time: 1256
+Response Time: 1198
+Waiting Time: 1205
+
+----- PID: 1859 -----
+Turnaround Time: 686
+Response Time: 626
+Waiting Time: 660
+
+----- PID: 1844 -----
+Turnaround Time: 990
+Response Time: 937
+Waiting Time: 951
+
+----- PID: 1864 -----
+Turnaround Time: 600
+Response Time: 568
+Waiting Time: 577
+
+----- PID: 1845 -----
+Turnaround Time: 1009
+Response Time: 958
+Waiting Time: 970
+
+----- PID: 1832 -----
+Turnaround Time: 1337
+Response Time: 1272
+Waiting Time: 1282
+
+----- PID: 1834 -----
+Turnaround Time: 1286
+Response Time: 1218
+Waiting Time: 1234
+
+----- PID: 1867 -----
+Turnaround Time: 612
+Response Time: 587
+Waiting Time: 589
+
+----- PID: 1872 -----
+Turnaround Time: 556
+Response Time: 524
+Waiting Time: 535
+
+----- PID: 1884 -----
+Turnaround Time: 358
+Response Time: 322
+Waiting Time: 346
+
+----- PID: 1860 -----
+Turnaround Time: 817
+Response Time: 776
+Waiting Time: 786
+
+----- PID: 1856 -----
+Turnaround Time: 914
+Response Time: 868
+Waiting Time: 877
+
+----- PID: 1875 -----
+Turnaround Time: 578
+Response Time: 529
+Waiting Time: 556
+
+----- PID: 1854 -----
+Turnaround Time: 980
+Response Time: 904
+Waiting Time: 944
+
+----- PID: 1837 -----
+Turnaround Time: 1322
+Response Time: 1223
+Waiting Time: 1272
+
+----- PID: 1835 -----
+Turnaround Time: 1414
+Response Time: 1294
+Waiting Time: 1362
+
+----- PID: 1890 -----
+Turnaround Time: 350
+Response Time: 326
+Waiting Time: 339
+
+----- PID: 1862 -----
+Turnaround Time: 914
+Response Time: 875
+Waiting Time: 881
+
+----- PID: 1861 -----
+Turnaround Time: 937
+Response Time: 896
+Waiting Time: 902
+
+----- PID: 1878 -----
+Turnaround Time: 638
+Response Time: 593
+Waiting Time: 616
+
+----- PID: 1868 -----
+Turnaround Time: 814
+Response Time: 748
+Waiting Time: 786
+
+----- PID: 1858 -----
+Turnaround Time: 1042
+Response Time: 1000
+Waiting Time: 1001
+
+----- PID: 1853 -----
+Turnaround Time: 1166
+Response Time: 1094
+Waiting Time: 1124
+
+----- PID: 1836 -----
+Turnaround Time: 1525
+Response Time: 1427
+Waiting Time: 1467
+
+----- PID: 1846 -----
+Turnaround Time: 1359
+Response Time: 1297
+Waiting Time: 1308
+
+----- PID: 1897 -----
+Turnaround Time: 401
+Response Time: 336
+Waiting Time: 389
+
+----- PID: 1839 -----
+Turnaround Time: 1529
+Response Time: 1463
+Waiting Time: 1470
+
+----- PID: 1842 -----
+Turnaround Time: 1464
+Response Time: 1381
+Waiting Time: 1410
+
+----- PID: 1895 -----
+Turnaround Time: 483
+Response Time: 456
+Waiting Time: 466
+
+----- PID: 1877 -----
+Turnaround Time: 865
+Response Time: 830
+Waiting Time: 832
+
+----- PID: 1882 -----
+Turnaround Time: 768
+Response Time: 733
+Waiting Time: 739
+
+----- PID: 1866 -----
+Turnaround Time: 1086
+Response Time: 1022
+Waiting Time: 1046
+
+----- PID: 1907 -----
+Turnaround Time: 366
+Response Time: 336
+Waiting Time: 354
+
+----- PID: 1876 -----
+Turnaround Time: 938
+Response Time: 891
+Waiting Time: 899
+
+----- PID: 1852 -----
+Turnaround Time: 1394
+Response Time: 1317
+Waiting Time: 1342
+
+----- PID: 1857 -----
+Turnaround Time: 1319
+Response Time: 1222
+Waiting Time: 1267
+
+----- PID: 1881 -----
+Turnaround Time: 926
+Response Time: 867
+Waiting Time: 889
+
+----- PID: 1888 -----
+Turnaround Time: 787
+Response Time: 747
+Waiting Time: 756
+
+----- PID: 1870 -----
+Turnaround Time: 1153
+Response Time: 1101
+Waiting Time: 1106
+
+----- PID: 1871 -----
+Turnaround Time: 1162
+Response Time: 1105
+Waiting Time: 1113
+
+----- PID: 1880 -----
+Turnaround Time: 1011
+Response Time: 952
+Waiting Time: 971
+
+----- PID: 1901 -----
+Turnaround Time: 642
+Response Time: 599
+Waiting Time: 617
+
+----- PID: 1869 -----
+Turnaround Time: 1247
+Response Time: 1187
+Waiting Time: 1196
+
+----- PID: 1893 -----
+Turnaround Time: 835
+Response Time: 771
+Waiting Time: 803
+
+----- PID: 1883 -----
+Turnaround Time: 1013
+Response Time: 939
+Waiting Time: 973
+
+----- PID: 1903 -----
+Turnaround Time: 676
+Response Time: 644
+Waiting Time: 651
+
+----- PID: 1894 -----
+Turnaround Time: 866
+Response Time: 820
+Waiting Time: 833
+
+----- PID: 1915 -----
+Turnaround Time: 517
+Response Time: 468
+Waiting Time: 499
+
+----- PID: 1886 -----
+Turnaround Time: 1010
+Response Time: 967
+Waiting Time: 971
+
+----- PID: 1905 -----
+Turnaround Time: 701
+Response Time: 658
+Waiting Time: 675
+
+----- PID: 1919 -----
+Turnaround Time: 434
+Response Time: 417
+Waiting Time: 417
+
+----- PID: 1921 -----
+Turnaround Time: 408
+Response Time: 381
+Waiting Time: 394
+
+----- PID: 1920 -----
+Turnaround Time: 453
+Response Time: 432
+Waiting Time: 436
+
+----- PID: 1917 -----
+Turnaround Time: 526
+Response Time: 504
+Waiting Time: 505
+
+----- PID: 1926 -----
+Turnaround Time: 355
+Response Time: 338
+Waiting Time: 341
+
+----- PID: 1927 -----
+Turnaround Time: 367
+Response Time: 338
+Waiting Time: 353
+
+----- PID: 1911 -----
+Turnaround Time: 687
+Response Time: 632
+Waiting Time: 659
+
+----- PID: 1873 -----
+Turnaround Time: 1379
+Response Time: 1308
+Waiting Time: 1323
+
+----- PID: 1913 -----
+Turnaround Time: 674
+Response Time: 645
+Waiting Time: 645
+
+----- PID: 1910 -----
+Turnaround Time: 745
+Response Time: 686
+Waiting Time: 715
+
+----- PID: 1879 -----
+Turnaround Time: 1340
+Response Time: 1258
+Waiting Time: 1284
+
+----- PID: 1922 -----
+Turnaround Time: 541
+Response Time: 515
+Waiting Time: 520
+
+----- PID: 1914 -----
+Turnaround Time: 753
+Response Time: 710
+Waiting Time: 724
+
+----- PID: 1892 -----
+Turnaround Time: 1132
+Response Time: 1083
+Waiting Time: 1083
+
+----- PID: 1889 -----
+Turnaround Time: 1196
+Response Time: 1132
+Waiting Time: 1148
+
+----- PID: 1918 -----
+Turnaround Time: 706
+Response Time: 677
+Waiting Time: 677
+
+----- PID: 1928 -----
+Turnaround Time: 550
+Response Time: 517
+Waiting Time: 527
+
+----- PID: 1900 -----
+Turnaround Time: 1054
+Response Time: 989
+Waiting Time: 1010
+
+----- PID: 1887 -----
+Turnaround Time: 1333
+Response Time: 1273
+Waiting Time: 1276
+
+----- PID: 1885 -----
+Turnaround Time: 1427
+Response Time: 1344
+Waiting Time: 1368
+
+----- PID: 1896 -----
+Turnaround Time: 1232
+Response Time: 1180
+Waiting Time: 1181
+
+----- PID: 1891 -----
+Turnaround Time: 1333
+Response Time: 1263
+Waiting Time: 1279
+
+----- PID: 1923 -----
+Turnaround Time: 793
+Response Time: 750
+Waiting Time: 762
+
+----- PID: 1898 -----
+Turnaround Time: 1269
+Response Time: 1216
+Waiting Time: 1218
+
+----- PID: 1902 -----
+Turnaround Time: 1235
+Response Time: 1165
+Waiting Time: 1186
+
+----- PID: 1916 -----
+Turnaround Time: 1007
+Response Time: 935
+Waiting Time: 969
+
+----- PID: 1904 -----
+Turnaround Time: 1244
+Response Time: 1188
+Waiting Time: 1195
+
+----- PID: 1946 -----
+Turnaround Time: 506
+Response Time: 447
+Waiting Time: 488
+
+----- PID: 1906 -----
+Turnaround Time: 1210
+Response Time: 1137
+Waiting Time: 1164
+
+----- PID: 1942 -----
+Turnaround Time: 579
+Response Time: 541
+Waiting Time: 559
+
+----- PID: 1908 -----
+Turnaround Time: 1234
+Response Time: 1172
+Waiting Time: 1186
+
+----- PID: 1899 -----
+Turnaround Time: 1407
+Response Time: 1315
+Waiting Time: 1355
+
+----- PID: 1948 -----
+Turnaround Time: 578
+Response Time: 487
+Waiting Time: 556
+
+----- PID: 1912 -----
+Turnaround Time: 1209
+Response Time: 1105
+Waiting Time: 1163
+
+----- PID: 1943 -----
+Turnaround Time: 650
+Response Time: 614
+Waiting Time: 625
+
+----- PID: 1957 -----
+Turnaround Time: 457
+Response Time: 434
+Waiting Time: 440
+
+----- PID: 1950 -----
+Turnaround Time: 606
+Response Time: 580
+Waiting Time: 581
+
+----- PID: 1947 -----
+Turnaround Time: 656
+Response Time: 608
+Waiting Time: 632
+
+----- PID: 1929 -----
+Turnaround Time: 961
+Response Time: 921
+Waiting Time: 922
+
+----- PID: 1932 -----
+Turnaround Time: 926
+Response Time: 882
+Waiting Time: 889
+
+----- PID: 1954 -----
+Turnaround Time: 584
+Response Time: 559
+Waiting Time: 561
+
+----- PID: 1952 -----
+Turnaround Time: 636
+Response Time: 611
+Waiting Time: 611
+
+----- PID: 1963 -----
+Turnaround Time: 427
+Response Time: 402
+Waiting Time: 410
+
+----- PID: 1938 -----
+Turnaround Time: 863
+Response Time: 806
+Waiting Time: 829
+
+----- PID: 1966 -----
+Turnaround Time: 409
+Response Time: 388
+Waiting Time: 394
+
+----- PID: 1909 -----
+Turnaround Time: 1446
+Response Time: 1376
+Waiting Time: 1387
+
+----- PID: 1956 -----
+Turnaround Time: 654
+Response Time: 621
+Waiting Time: 629
+
+----- PID: 1940 -----
+Turnaround Time: 887
+Response Time: 852
+Waiting Time: 852
+
+----- PID: 1945 -----
+Turnaround Time: 843
+Response Time: 794
+Waiting Time: 811
+
+----- PID: 1973 -----
+Turnaround Time: 316
+Response Time: 302
+Waiting Time: 305
+
+----- PID: 1972 -----
+Turnaround Time: 358
+Response Time: 322
+Waiting Time: 345
+
+----- PID: 1925 -----
+Turnaround Time: 1252
+Response Time: 1189
+Waiting Time: 1201
+
+----- PID: 1953 -----
+Turnaround Time: 800
+Response Time: 736
+Waiting Time: 770
+
+----- PID: 1924 -----
+Turnaround Time: 1282
+Response Time: 1198
+Waiting Time: 1234
+
+----- PID: 1968 -----
+Turnaround Time: 501
+Response Time: 469
+Waiting Time: 482
+
+----- PID: 1939 -----
+Turnaround Time: 1038
+Response Time: 993
+Waiting Time: 997
+
+----- PID: 1930 -----
+Turnaround Time: 1236
+Response Time: 1165
+Waiting Time: 1188
+
+----- PID: 1931 -----
+Turnaround Time: 1226
+Response Time: 1172
+Waiting Time: 1179
+
+----- PID: 1977 -----
+Turnaround Time: 412
+Response Time: 355
+Waiting Time: 398
+
+----- PID: 1934 -----
+Turnaround Time: 1196
+Response Time: 1144
+Waiting Time: 1151
+
+----- PID: 1985 -----
+Turnaround Time: 328
+Response Time: 274
+Waiting Time: 318
+
+----- PID: 1936 -----
+Turnaround Time: 1197
+Response Time: 1142
+Waiting Time: 1150
+
+----- PID: 1935 -----
+Turnaround Time: 1257
+Response Time: 1198
+Waiting Time: 1206
+
+----- PID: 1959 -----
+Turnaround Time: 884
+Response Time: 823
+Waiting Time: 850
+
+----- PID: 1955 -----
+Turnaround Time: 974
+Response Time: 887
+Waiting Time: 938
+
+----- PID: 1933 -----
+Turnaround Time: 1337
+Response Time: 1227
+Waiting Time: 1287
+
+----- PID: 1984 -----
+Turnaround Time: 437
+Response Time: 414
+Waiting Time: 422
+
+----- PID: 1967 -----
+Turnaround Time: 767
+Response Time: 726
+Waiting Time: 738
+
+----- PID: 1944 -----
+Turnaround Time: 1207
+Response Time: 1160
+Waiting Time: 1160
+
+----- PID: 1960 -----
+Turnaround Time: 983
+Response Time: 941
+Waiting Time: 946
+
+----- PID: 1992 -----
+Turnaround Time: 390
+Response Time: 371
+Waiting Time: 375
+
+----- PID: 1969 -----
+Turnaround Time: 759
+Response Time: 714
+Waiting Time: 731
+
+----- PID: 1961 -----
+Turnaround Time: 998
+Response Time: 939
+Waiting Time: 960
+
+----- PID: 1964 -----
+Turnaround Time: 907
+Response Time: 829
+Waiting Time: 873
+
+----- PID: 1979 -----
+Turnaround Time: 667
+Response Time: 618
+Waiting Time: 640
+
+----- PID: 1982 -----
+Turnaround Time: 637
+Response Time: 582
+Waiting Time: 613
+
+----- PID: 1941 -----
+Turnaround Time: 1356
+Response Time: 1284
+Waiting Time: 1304
+
+----- PID: 1970 -----
+Turnaround Time: 872
+Response Time: 776
+Waiting Time: 838
+
+----- PID: 1937 -----
+Turnaround Time: 1468
+Response Time: 1346
+Waiting Time: 1412
+
+----- PID: 1949 -----
+Turnaround Time: 1366
+Response Time: 1222
+Waiting Time: 1312
+
+----- PID: 1974 -----
+Turnaround Time: 871
+Response Time: 833
+Waiting Time: 838
+
+----- PID: 1988 -----
+Turnaround Time: 649
+Response Time: 605
+Waiting Time: 627
+
+----- PID: 1987 -----
+Turnaround Time: 692
+Response Time: 636
+Waiting Time: 668
+
+----- PID: 1978 -----
+Turnaround Time: 833
+Response Time: 762
+Waiting Time: 803
+
+----- PID: 1971 -----
+Turnaround Time: 949
+Response Time: 869
+Waiting Time: 915
+
+----- PID: 1996 -----
+Turnaround Time: 568
+Response Time: 545
+Waiting Time: 549
+
+----- PID: 1997 -----
+Turnaround Time: 587
+Response Time: 555
+Waiting Time: 566
+
+----- PID: 1962 -----
+Turnaround Time: 1226
+Response Time: 1174
+Waiting Time: 1182
+
+----- PID: 1980 -----
+Turnaround Time: 885
+Response Time: 852
+Waiting Time: 852
+
+----- PID: 1981 -----
+Turnaround Time: 885
+Response Time: 840
+Waiting Time: 853
+
+----- PID: 2000 -----
+Turnaround Time: 597
+Response Time: 565
+Waiting Time: 576
+
+----- PID: 1976 -----
+Turnaround Time: 981
+Response Time: 933
+Waiting Time: 944
+
+----- PID: 1951 -----
+Turnaround Time: 1531
+Response Time: 1462
+Waiting Time: 1473
+
+----- PID: 1975 -----
+Turnaround Time: 1051
+Response Time: 1011
+Waiting Time: 1012
+
+----- PID: 1983 -----
+Turnaround Time: 975
+Response Time: 914
+Waiting Time: 940
+
+----- PID: 1990 -----
+Turnaround Time: 856
+Response Time: 793
+Waiting Time: 826
+
+----- PID: 1958 -----
+Turnaround Time: 1499
+Response Time: 1429
+Waiting Time: 1442
+
+----- PID: 1991 -----
+Turnaround Time: 918
+Response Time: 857
+Waiting Time: 877
+
+----- PID: 1993 -----
+Turnaround Time: 892
+Response Time: 827
+Waiting Time: 858
+
+----- PID: 1965 -----
+Turnaround Time: 1385
+Response Time: 1298
+Waiting Time: 1333
+
+----- PID: 1986 -----
+Turnaround Time: 1046
+Response Time: 942
+Waiting Time: 1004
+
+----- PID: 1998 -----
+Turnaround Time: 879
+Response Time: 837
+Waiting Time: 840
+
+----- PID: 1989 -----
+Turnaround Time: 1022
+Response Time: 959
+Waiting Time: 978
+
+----- PID: 1999 -----
+Turnaround Time: 900
+Response Time: 856
+Waiting Time: 861
+
+----- PID: 1995 -----
+Turnaround Time: 995
+Response Time: 945
+Waiting Time: 950
+
+----- PID: 1994 -----
+Turnaround Time: 1046
+Response Time: 995
+Waiting Time: 995
+
+-------------------- PROCESS SCHEDULING INFORMATIONS --------------------
+Avg. Turnaround Time: 1677,28
+CPU Usage (%): 93,02
+Avg. Response Time: 1359,00
+Avg. Waiting Time: 1569,89
+Simulation Time: 73124
+-------------------------------------------------------------------------

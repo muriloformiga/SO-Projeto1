@@ -54,8 +54,9 @@ public class MultilevelFeedback extends Scheduling {
 					super.changeProcess = true;
 					super.prepareProcess();
 				}
-			}
-		ready.get(0).setQuantum(ready.get(0).getQuantum() - 1);
+				if(ready.size() > 0)
+					ready.get(0).setQuantum(ready.get(0).getQuantum() - 1);
+			}		
 		}
 	}
 	
